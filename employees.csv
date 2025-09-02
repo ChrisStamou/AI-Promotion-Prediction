@@ -1,0 +1,1201 @@
+EmployeeID,Department,Role,Location,FTE,Age,Gender,TenureYears,Leadership,HireDate,HasITSkill,InITTraining,TrainingCompleted,AnnualSalaryEUR,Status,ExitDate,ReasonForLeaving,RetirementEligible,PromotionCount,LastPromotionDate,PayEquityFlag
+10000,Claims Processing,Claims Adjuster,Amsterdam,1.0,55,Male,16.3,False,2009-05-05,False,False,False,46591.0,Active,,,False,0,,True
+10001,Claims Processing,Senior Claims Adjuster,Rotterdam,1.0,35,Male,6.7,False,2019-01-18,False,False,False,56844.0,Active,,,False,0,,True
+10002,Claims Processing,Claims Team Lead,Amsterdam,1.0,52,Male,9.1,False,2016-08-26,False,False,False,36666.0,Active,,,False,0,,False
+10003,Claims Processing,Claims Team Lead,Amsterdam,1.0,58,Female,2.5,False,2023-01-20,False,False,False,58240.0,Active,,,False,0,,True
+10004,Claims Processing,Claims Team Lead,Amsterdam,0.6,55,Male,1.7,True,2023-10-31,False,False,False,64050.0,Active,,,False,0,,True
+10005,Claims Processing,Claims Adjuster,Amsterdam,1.0,54,Male,5.7,False,2020-02-01,False,False,False,61051.0,Active,,,False,0,,True
+10006,Claims Processing,Claims Team Lead,The Hague,1.0,37,Male,4.4,False,2021-05-02,False,False,False,43778.0,Active,,,False,0,,False
+10007,Claims Processing,Claims Adjuster,Utrecht,1.0,36,Female,2.1,False,2023-07-08,False,False,False,54955.0,Active,,,False,0,,True
+10008,Claims Processing,Claims Team Lead,The Hague,0.6,29,Male,3.1,False,2022-06-12,False,False,False,48159.0,Active,,,False,0,,True
+10009,Claims Processing,Senior Claims Adjuster,Rotterdam,1.0,65,Female,7.9,False,2017-10-18,False,False,False,58686.0,Active,,,True,0,,True
+10010,Claims Processing,Claims Adjuster,Amsterdam,1.0,49,Male,1.3,False,2024-03-14,False,False,False,50154.0,Active,,,False,1,2025-03-08,True
+10011,Claims Processing,Senior Claims Adjuster,Utrecht,1.0,27,Female,2.8,False,2022-09-18,False,False,False,42662.0,Active,,,False,0,,False
+10012,Claims Processing,Claims Adjuster,Amsterdam,0.8,44,Female,7.4,False,2018-01-27,False,False,False,61471.0,Active,,,False,1,2018-11-02,True
+10013,Claims Processing,Claims Adjuster,Amsterdam,1.0,48,Male,2.7,False,2022-11-09,False,False,False,48691.0,Active,,,False,1,2023-10-26,True
+10014,Claims Processing,Senior Claims Adjuster,Amsterdam,1.0,53,Male,7.0,False,2018-08-16,False,True,True,46659.0,Active,,,False,1,2024-02-02,True
+10015,Claims Processing,Senior Claims Adjuster,Amsterdam,1.0,62,Male,16.6,False,2009-01-31,False,False,False,59164.0,Active,,,False,0,,True
+10016,Claims Processing,Claims Team Lead,Amsterdam,0.8,61,Male,4.7,True,2020-11-19,True,False,False,61688.0,Active,,,False,0,,True
+10017,Claims Processing,Senior Claims Adjuster,Rotterdam,1.0,60,Male,7.6,False,2018-01-29,False,False,False,41764.0,Active,,,False,2,2022-12-22,False
+10018,Claims Processing,Claims Team Lead,Utrecht,0.8,43,Male,5.8,False,2019-10-29,False,False,False,41878.0,Active,,,False,1,2023-03-01,False
+10019,Claims Processing,Claims Team Lead,Amsterdam,1.0,64,Male,11.1,False,2014-08-30,False,False,False,44697.0,Active,,,True,0,,False
+10020,Claims Processing,Senior Claims Adjuster,Amsterdam,1.0,65,Female,9.6,False,2016-03-01,False,False,False,57749.0,Active,,,True,1,2019-01-29,True
+10021,Claims Processing,Claims Team Lead,Utrecht,1.0,25,Male,4.8,False,2020-11-04,False,False,False,43330.0,Active,,,False,1,2024-02-02,False
+10022,Claims Processing,Claims Team Lead,Amsterdam,0.8,62,Female,13.3,False,2012-06-15,False,False,False,61995.0,Active,,,False,0,,True
+10023,Claims Processing,Claims Team Lead,Amsterdam,1.0,27,Male,2.6,False,2023-03-03,False,False,False,52923.0,Active,,,False,0,,True
+10024,Claims Processing,Claims Adjuster,The Hague,0.8,51,Female,18.5,False,2007-01-07,False,False,False,55722.0,Active,,,False,2,2025-03-31,True
+10025,Claims Processing,Claims Team Lead,Amsterdam,0.8,60,Male,19.3,True,2006-05-05,False,False,False,47443.0,Active,,,False,1,2017-01-23,True
+10026,Claims Processing,Claims Team Lead,Amsterdam,1.0,44,Male,12.6,False,2013-01-15,False,False,False,48146.0,Active,,,False,0,,True
+10027,Claims Processing,Senior Claims Adjuster,Rotterdam,0.8,56,Female,8.4,False,2017-04-14,False,False,False,41506.0,Active,,,False,1,2022-12-17,False
+10028,Claims Processing,Claims Team Lead,Amsterdam,0.8,28,Male,2.2,False,2023-04-17,False,False,False,48970.0,Active,,,False,0,,True
+10029,Claims Processing,Claims Adjuster,Rotterdam,1.0,33,Male,3.6,False,2022-01-11,True,False,False,40522.0,Active,,,False,2,2024-06-04,False
+10030,Claims Processing,Claims Adjuster,Utrecht,1.0,27,Female,1.5,False,2024-04-14,False,False,False,49922.0,Active,,,False,0,,True
+10031,Claims Processing,Senior Claims Adjuster,Amsterdam,0.6,47,Male,5.5,False,2020-01-14,True,False,False,45382.0,Active,,,False,0,,False
+10032,Claims Processing,Claims Adjuster,Rotterdam,1.0,57,Male,12.7,False,2012-11-03,False,False,False,44683.0,Active,,,False,1,2016-03-10,False
+10033,Claims Processing,Claims Adjuster,Rotterdam,0.8,65,Female,4.2,False,2021-05-20,False,False,False,59157.0,Active,,,True,0,,True
+10034,Claims Processing,Claims Team Lead,Amsterdam,0.6,42,Female,2.2,False,2023-07-25,False,False,False,43482.0,Left,2025-08-01,Voluntary,False,1,2024-05-15,False
+10035,Claims Processing,Claims Team Lead,Rotterdam,1.0,33,Female,5.1,True,2020-07-28,False,False,False,50172.0,Active,,,False,0,,True
+10036,Claims Processing,Claims Adjuster,Amsterdam,1.0,63,Male,27.3,False,1998-06-24,False,False,False,36976.0,Active,,,True,1,2022-12-11,False
+10037,Claims Processing,Senior Claims Adjuster,Rotterdam,1.0,44,Female,3.0,False,2022-07-29,False,False,False,40923.0,Active,,,False,0,,False
+10038,Claims Processing,Claims Team Lead,Amsterdam,1.0,47,Male,9.8,True,2015-10-11,False,True,True,61605.0,Active,,,False,1,2024-02-09,True
+10039,Claims Processing,Claims Team Lead,Rotterdam,1.0,51,Female,17.3,False,2008-04-12,True,False,False,45594.0,Left,2025-05-01,Involuntary,False,1,2013-03-23,True
+10040,Claims Processing,Claims Adjuster,Amsterdam,1.0,51,Female,15.4,False,2010-02-25,False,False,False,56329.0,Active,,,False,0,,True
+10041,Claims Processing,Claims Team Lead,Utrecht,1.0,50,Female,16.6,False,2009-03-12,True,False,False,46364.0,Active,,,False,1,2010-09-17,True
+10042,Claims Processing,Senior Claims Adjuster,Amsterdam,0.8,58,Female,2.9,False,2022-10-03,False,False,False,50943.0,Active,,,False,0,,True
+10043,Claims Processing,Claims Adjuster,Rotterdam,0.8,59,Male,7.3,False,2018-06-18,True,False,False,56229.0,Active,,,False,0,,True
+10044,Claims Processing,Claims Team Lead,Rotterdam,1.0,40,Female,4.9,True,2020-07-30,False,False,False,67728.0,Left,2024-10-29,Voluntary,False,0,,True
+10045,Claims Processing,Claims Team Lead,Utrecht,1.0,62,Female,5.0,False,2020-07-18,False,False,False,58674.0,Active,,,False,0,,True
+10046,Claims Processing,Senior Claims Adjuster,Rotterdam,1.0,62,Male,7.3,False,2018-06-07,False,False,False,36289.0,Active,,,False,1,2020-03-10,False
+10047,Claims Processing,Claims Team Lead,Utrecht,1.0,41,Female,8.3,False,2017-06-12,False,False,False,57100.0,Active,,,False,0,,True
+10048,Claims Processing,Senior Claims Adjuster,Utrecht,0.6,31,Male,7.0,False,2018-08-16,False,False,False,41359.0,Active,,,False,0,,False
+10049,Claims Processing,Senior Claims Adjuster,The Hague,0.8,38,Female,5.2,False,2020-04-30,False,False,False,37711.0,Left,2025-01-26,Retirement,False,1,2022-09-04,False
+10050,Claims Processing,Claims Adjuster,Amsterdam,0.8,55,Female,10.7,False,2014-10-15,False,False,False,45008.0,Active,,,False,1,2018-05-30,True
+10051,Claims Processing,Claims Adjuster,Rotterdam,0.6,26,Female,4.1,False,2021-07-10,False,False,False,45866.0,Active,,,False,2,2023-02-18,True
+10052,Claims Processing,Claims Team Lead,Utrecht,1.0,61,Male,11.5,True,2014-03-12,False,True,False,61242.0,Active,,,False,2,2016-04-14,True
+10053,Claims Processing,Senior Claims Adjuster,The Hague,0.8,64,Female,6.3,False,2019-03-11,False,False,False,57125.0,Active,,,True,0,,True
+10054,Claims Processing,Senior Claims Adjuster,The Hague,1.0,56,Male,4.0,False,2021-08-10,False,True,True,40737.0,Active,,,False,0,,False
+10055,Claims Processing,Claims Team Lead,Rotterdam,0.6,51,Female,11.0,True,2014-09-10,False,True,False,53229.0,Active,,,False,0,,True
+10056,Claims Processing,Claims Adjuster,Amsterdam,1.0,56,Male,7.2,False,2018-05-30,False,False,False,58570.0,Active,,,False,0,,True
+10057,Claims Processing,Senior Claims Adjuster,Rotterdam,0.8,57,Male,19.4,False,2006-02-23,False,False,False,40810.0,Active,,,False,2,2007-08-11,False
+10058,Claims Processing,Claims Adjuster,Utrecht,0.8,28,Female,0.7,False,2024-12-03,False,False,False,54793.0,Active,,,False,0,,True
+10059,Claims Processing,Claims Team Lead,Rotterdam,1.0,43,Male,18.0,False,2007-10-19,True,False,False,58528.0,Active,,,False,2,2020-04-05,True
+10060,Claims Processing,Senior Claims Adjuster,Rotterdam,1.0,50,Female,23.8,False,2001-09-30,False,False,False,44076.0,Active,,,False,1,2009-09-06,False
+10061,Claims Processing,Claims Adjuster,Utrecht,0.8,42,Female,4.3,False,2021-05-15,True,False,False,40647.0,Active,,,False,1,2024-06-20,False
+10062,Claims Processing,Claims Team Lead,Rotterdam,1.0,39,Female,1.6,False,2023-12-05,True,False,False,55535.0,Active,,,False,0,,True
+10063,Claims Processing,Claims Team Lead,The Hague,1.0,54,Female,19.7,True,2006-01-10,True,False,False,71466.0,Active,,,False,0,,True
+10064,Claims Processing,Claims Team Lead,Rotterdam,1.0,35,Male,6.5,False,2019-03-28,False,False,False,40123.0,Active,,,False,0,,False
+10065,Claims Processing,Claims Team Lead,Amsterdam,1.0,63,Male,10.3,False,2015-03-13,False,False,False,57710.0,Active,,,True,1,2019-09-06,True
+10066,Claims Processing,Senior Claims Adjuster,Rotterdam,0.8,59,Male,12.3,False,2013-06-18,False,False,False,46482.0,Active,,,False,0,,True
+10067,Claims Processing,Claims Team Lead,Utrecht,1.0,48,Male,5.5,False,2020-03-21,False,False,False,64164.0,Active,,,False,2,2021-06-16,True
+10068,Claims Processing,Claims Adjuster,Amsterdam,1.0,30,Male,4.4,False,2021-02-12,False,False,False,50074.0,Left,2024-09-25,Retirement,False,0,,True
+10069,Claims Processing,Claims Adjuster,Amsterdam,1.0,30,Female,1.8,False,2023-12-21,True,False,False,46390.0,Active,,,False,0,,True
+10070,Claims Processing,Claims Adjuster,The Hague,1.0,54,Female,3.6,False,2022-02-17,False,False,False,49979.0,Active,,,False,1,2023-05-30,True
+10071,Claims Processing,Claims Team Lead,Amsterdam,1.0,60,Male,2.7,False,2022-11-21,False,False,False,52914.0,Active,,,False,0,,True
+10072,Claims Processing,Claims Adjuster,Rotterdam,1.0,62,Female,12.3,False,2013-03-20,False,False,False,43233.0,Active,,,False,0,,False
+10073,Claims Processing,Claims Team Lead,Rotterdam,1.0,32,Female,9.7,False,2015-12-14,False,False,False,58987.0,Active,,,False,2,2021-08-16,True
+10074,Claims Processing,Claims Team Lead,Rotterdam,1.0,64,Female,21.9,True,2003-09-09,False,True,True,66628.0,Active,,,True,3,2025-06-21,True
+10075,Claims Processing,Senior Claims Adjuster,Rotterdam,0.8,62,Female,12.1,False,2013-06-25,True,False,False,42477.0,Active,,,False,0,,False
+10076,Claims Processing,Claims Team Lead,Amsterdam,1.0,63,Male,10.9,False,2014-11-20,False,False,False,57442.0,Left,2025-02-13,Voluntary,True,0,,True
+10077,Claims Processing,Claims Team Lead,Rotterdam,1.0,40,Male,10.6,False,2014-12-07,False,False,False,56662.0,Active,,,False,1,2016-05-09,True
+10078,Claims Processing,Claims Team Lead,Rotterdam,1.0,63,Male,21.0,True,2004-09-27,False,False,False,66139.0,Active,,,True,2,2020-10-27,True
+10079,Claims Processing,Senior Claims Adjuster,Utrecht,1.0,59,Male,20.3,False,2005-03-06,False,False,False,52600.0,Active,,,False,1,2017-01-23,True
+10080,Claims Processing,Claims Adjuster,Amsterdam,1.0,64,Female,16.3,False,2009-04-23,False,False,False,42982.0,Active,,,True,1,2018-04-12,False
+10081,Claims Processing,Claims Adjuster,Rotterdam,1.0,65,Female,10.1,False,2015-06-16,False,False,False,56587.0,Left,2024-10-19,Retirement,True,1,2016-01-22,True
+10082,Claims Processing,Senior Claims Adjuster,Amsterdam,0.8,65,Male,16.2,False,2009-05-15,False,False,False,46588.0,Active,,,True,1,2015-07-09,True
+10083,Claims Processing,Senior Claims Adjuster,Amsterdam,1.0,57,Male,11.9,False,2013-08-15,False,False,False,44752.0,Left,2024-10-03,Voluntary,False,0,,False
+10084,Claims Processing,Claims Adjuster,Amsterdam,1.0,63,Female,22.5,False,2003-01-28,False,False,False,39998.0,Active,,,True,2,2013-10-14,False
+10085,Claims Processing,Senior Claims Adjuster,Amsterdam,0.8,27,Male,3.5,False,2022-01-31,False,False,False,55503.0,Active,,,False,0,,True
+10086,Claims Processing,Claims Adjuster,Utrecht,1.0,30,Male,0.9,False,2024-10-19,False,False,False,37425.0,Active,,,False,0,,False
+10087,Claims Processing,Claims Team Lead,Amsterdam,1.0,36,Female,0.0,False,2025-09-17,False,False,False,52577.0,Active,,,False,0,,True
+10088,Claims Processing,Claims Adjuster,The Hague,1.0,58,Male,22.6,False,2003-03-08,False,False,False,59033.0,Active,,,False,0,,True
+10089,Claims Processing,Claims Team Lead,The Hague,1.0,60,Male,14.6,True,2011-03-13,False,False,False,38453.0,Active,,,False,1,2012-01-16,False
+10090,Claims Processing,Claims Adjuster,Rotterdam,0.8,54,Male,8.9,False,2016-10-17,False,False,False,44374.0,Active,,,False,0,,False
+10091,Claims Processing,Claims Team Lead,Amsterdam,0.8,48,Female,10.4,True,2015-03-23,False,False,False,57549.0,Active,,,False,2,2015-12-06,True
+10092,Claims Processing,Claims Team Lead,Rotterdam,0.6,57,Female,27.1,False,1998-08-25,False,False,False,44317.0,Active,,,False,1,2005-06-19,False
+10093,Claims Processing,Senior Claims Adjuster,Utrecht,1.0,55,Male,16.4,False,2009-03-18,False,False,False,57329.0,Active,,,False,2,2022-08-11,True
+10094,Claims Processing,Claims Team Lead,Rotterdam,1.0,40,Male,4.0,False,2021-09-25,True,False,False,39572.0,Left,2024-09-28,Voluntary,False,1,2023-02-03,False
+10095,Claims Processing,Claims Team Lead,Amsterdam,1.0,56,Male,12.2,False,2013-05-02,False,True,False,53951.0,Active,,,False,0,,True
+10096,Claims Processing,Claims Team Lead,Rotterdam,1.0,61,Male,5.1,True,2020-08-06,True,False,False,56248.0,Active,,,False,0,,True
+10097,Claims Processing,Claims Adjuster,Utrecht,1.0,46,Female,13.9,False,2011-09-07,True,True,False,44341.0,Active,,,False,1,2023-05-24,False
+10098,Claims Processing,Claims Adjuster,Utrecht,0.6,57,Male,15.1,False,2010-09-08,False,False,False,56811.0,Active,,,False,1,2018-12-12,True
+10099,Claims Processing,Claims Adjuster,Amsterdam,1.0,46,Female,4.3,False,2021-04-30,False,False,False,54382.0,Active,,,False,0,,True
+10100,Claims Processing,Claims Team Lead,Utrecht,1.0,51,Male,4.4,True,2021-01-23,False,False,False,55915.0,Active,,,False,0,,True
+10101,Claims Processing,Claims Adjuster,Amsterdam,1.0,52,Male,13.4,False,2012-04-09,False,False,False,57863.0,Active,,,False,0,,True
+10102,Claims Processing,Claims Adjuster,Amsterdam,1.0,45,Male,5.5,False,2020-02-27,False,False,False,55230.0,Active,,,False,0,,True
+10103,Claims Processing,Claims Team Lead,The Hague,1.0,64,Male,15.0,False,2010-09-01,False,False,False,45434.0,Active,,,True,0,,False
+10104,Claims Processing,Senior Claims Adjuster,Amsterdam,0.8,55,Male,28.5,False,1997-04-17,False,False,False,36351.0,Active,,,False,2,1999-07-09,False
+10105,Claims Processing,Senior Claims Adjuster,Amsterdam,1.0,62,Male,8.8,False,2016-10-01,False,False,False,51965.0,Left,2025-08-03,Retirement,False,0,,True
+10106,Claims Processing,Claims Team Lead,Amsterdam,0.8,46,Male,13.1,False,2012-07-18,False,False,False,52576.0,Active,,,False,1,2017-12-29,True
+10107,Claims Processing,Claims Team Lead,The Hague,1.0,65,Female,18.1,False,2007-05-27,False,False,False,55618.0,Active,,,True,0,,True
+10108,Claims Processing,Claims Adjuster,Utrecht,0.8,43,Male,17.7,False,2007-12-10,False,False,False,47287.0,Active,,,False,2,2012-10-22,True
+10109,Claims Processing,Senior Claims Adjuster,Rotterdam,0.8,57,Female,7.6,False,2017-11-12,False,False,False,50712.0,Active,,,False,0,,True
+10110,Claims Processing,Claims Adjuster,Utrecht,1.0,27,Female,8.7,False,2016-10-23,False,False,False,41707.0,Active,,,False,0,,False
+10111,Claims Processing,Claims Team Lead,Amsterdam,1.0,55,Male,8.1,False,2017-08-13,False,False,False,41791.0,Active,,,False,1,2023-07-22,False
+10112,Claims Processing,Claims Adjuster,Rotterdam,0.6,32,Male,3.8,False,2021-10-18,False,False,False,49749.0,Active,,,False,2,2023-10-16,True
+10113,Claims Processing,Senior Claims Adjuster,Rotterdam,1.0,55,Male,3.9,False,2021-08-10,False,False,False,42310.0,Active,,,False,0,,False
+10114,Claims Processing,Claims Adjuster,Amsterdam,0.6,49,Male,12.4,False,2013-03-09,False,False,False,36260.0,Active,,,False,1,2023-03-08,False
+10115,Claims Processing,Senior Claims Adjuster,Rotterdam,1.0,63,Male,4.8,False,2020-09-17,False,False,False,47097.0,Active,,,True,1,2021-11-29,True
+10116,Claims Processing,Claims Team Lead,The Hague,1.0,59,Female,7.5,True,2018-03-31,False,False,False,47688.0,Active,,,False,1,2024-08-12,True
+10117,Claims Processing,Claims Adjuster,Amsterdam,0.8,64,Female,9.4,False,2016-05-22,False,False,False,45579.0,Active,,,True,1,2019-06-02,True
+10118,Claims Processing,Senior Claims Adjuster,Amsterdam,0.6,64,Male,21.0,False,2004-10-12,False,True,True,54802.0,Active,,,True,1,2010-05-03,True
+10119,Claims Processing,Senior Claims Adjuster,Amsterdam,1.0,53,Female,3.5,False,2022-02-01,False,False,False,43570.0,Left,2025-01-24,Voluntary,False,0,,False
+10120,Claims Processing,Senior Claims Adjuster,Amsterdam,0.8,44,Male,12.0,False,2013-07-13,False,False,False,43148.0,Active,,,False,0,,False
+10121,Claims Processing,Claims Adjuster,The Hague,1.0,42,Female,5.1,False,2020-07-18,False,False,False,39071.0,Left,2025-04-30,Involuntary,False,1,2021-09-19,False
+10122,Claims Processing,Claims Adjuster,Rotterdam,1.0,28,Female,7.4,False,2018-04-16,False,False,False,42179.0,Active,,,False,1,2020-03-03,False
+10123,Claims Processing,Claims Adjuster,Rotterdam,1.0,51,Male,4.1,False,2021-07-24,False,False,False,51462.0,Active,,,False,1,2025-04-26,True
+10124,Claims Processing,Claims Team Lead,Utrecht,1.0,34,Male,3.1,False,2022-08-14,True,False,False,57310.0,Active,,,False,1,2024-10-11,True
+10125,Claims Processing,Claims Adjuster,Amsterdam,0.6,44,Male,13.3,False,2012-06-11,False,False,False,47638.0,Active,,,False,2,2017-02-03,True
+10126,Claims Processing,Senior Claims Adjuster,Rotterdam,1.0,56,Female,13.3,False,2012-06-19,True,False,False,50539.0,Active,,,False,1,2020-06-14,True
+10127,Claims Processing,Senior Claims Adjuster,Rotterdam,1.0,25,Male,0.8,False,2024-11-14,False,False,False,48167.0,Active,,,False,0,,True
+10128,Claims Processing,Senior Claims Adjuster,Rotterdam,1.0,30,Female,3.0,False,2022-08-16,False,False,False,39308.0,Active,,,False,0,,False
+10129,Claims Processing,Claims Adjuster,The Hague,1.0,47,Male,6.2,False,2019-07-05,False,False,False,52731.0,Active,,,False,0,,True
+10130,Claims Processing,Claims Team Lead,Utrecht,1.0,58,Male,16.6,True,2008-12-13,False,False,False,69565.0,Active,,,False,1,2021-04-07,True
+10131,Claims Processing,Senior Claims Adjuster,Rotterdam,0.8,45,Male,12.7,False,2012-11-01,False,False,False,50903.0,Active,,,False,1,2016-09-30,True
+10132,Claims Processing,Claims Team Lead,Utrecht,1.0,63,Male,2.1,True,2023-07-11,False,False,False,66393.0,Active,,,True,1,2025-01-28,True
+10133,Claims Processing,Claims Team Lead,Amsterdam,0.6,61,Female,8.5,False,2017-02-03,False,False,False,48221.0,Active,,,False,0,,True
+10134,Claims Processing,Claims Team Lead,Amsterdam,0.6,40,Male,18.9,True,2006-09-20,False,False,False,66352.0,Active,,,False,1,2023-11-26,True
+10135,Claims Processing,Claims Team Lead,Amsterdam,1.0,49,Male,2.1,True,2023-05-24,True,True,False,59806.0,Active,,,False,1,2023-12-23,True
+10136,Claims Processing,Claims Team Lead,Amsterdam,0.6,41,Male,17.8,False,2007-10-02,False,False,False,42430.0,Active,,,False,1,2024-01-09,False
+10137,Claims Processing,Senior Claims Adjuster,Rotterdam,0.8,59,Male,11.9,False,2013-10-20,False,False,False,48578.0,Active,,,False,1,2021-03-05,True
+10138,Claims Processing,Claims Adjuster,Rotterdam,1.0,58,Male,12.9,False,2012-08-21,False,False,False,58560.0,Active,,,False,0,,True
+10139,Claims Processing,Claims Adjuster,The Hague,1.0,44,Male,2.5,False,2023-04-02,False,False,False,44013.0,Active,,,False,0,,False
+10140,Claims Processing,Senior Claims Adjuster,Rotterdam,1.0,56,Female,5.2,False,2020-07-19,True,True,False,47284.0,Active,,,False,1,2025-06-03,True
+10141,Claims Processing,Claims Adjuster,Rotterdam,1.0,61,Male,8.3,False,2017-06-17,False,False,False,58124.0,Active,,,False,0,,True
+10142,Claims Processing,Claims Team Lead,Amsterdam,0.8,63,Male,12.4,False,2013-02-01,False,False,False,49910.0,Active,,,True,1,2015-04-30,True
+10143,Claims Processing,Senior Claims Adjuster,Amsterdam,1.0,29,Male,3.8,False,2021-11-23,False,True,False,57030.0,Active,,,False,0,,True
+10144,Claims Processing,Claims Adjuster,Rotterdam,0.8,30,Male,3.7,False,2021-10-10,False,False,False,50661.0,Active,,,False,0,,True
+10145,Claims Processing,Claims Adjuster,Rotterdam,1.0,25,Female,1.3,False,2024-04-14,False,False,False,48992.0,Active,,,False,0,,True
+10146,Claims Processing,Claims Team Lead,Utrecht,1.0,65,Male,10.3,False,2015-05-03,False,False,False,45735.0,Active,,,True,0,,True
+10147,Claims Processing,Senior Claims Adjuster,Amsterdam,0.6,60,Male,15.4,False,2010-05-05,False,False,False,55958.0,Active,,,False,2,2017-09-21,True
+10148,Claims Processing,Senior Claims Adjuster,Amsterdam,1.0,61,Female,6.5,False,2018-12-24,False,False,False,58207.0,Active,,,False,2,2019-09-28,True
+10149,Claims Processing,Claims Team Lead,Rotterdam,1.0,50,Male,8.6,False,2017-01-17,False,False,False,44712.0,Active,,,False,2,2022-07-13,False
+10150,Claims Processing,Senior Claims Adjuster,Amsterdam,1.0,48,Male,3.0,False,2022-08-02,False,False,False,49816.0,Active,,,False,0,,True
+10151,Claims Processing,Senior Claims Adjuster,Amsterdam,1.0,51,Female,7.1,False,2018-08-12,False,False,False,56873.0,Active,,,False,0,,True
+10152,Claims Processing,Claims Team Lead,Utrecht,1.0,38,Female,4.9,False,2020-10-05,False,False,False,44501.0,Active,,,False,0,,False
+10153,Claims Processing,Claims Team Lead,Amsterdam,1.0,43,Female,7.6,False,2017-11-15,False,False,False,58265.0,Active,,,False,1,2021-02-15,True
+10154,Claims Processing,Claims Adjuster,Rotterdam,1.0,40,Male,8.6,False,2017-02-05,False,True,True,46641.0,Active,,,False,1,2018-12-06,True
+10155,Claims Processing,Senior Claims Adjuster,Amsterdam,0.6,62,Male,13.2,False,2012-05-12,False,False,False,48903.0,Active,,,False,2,2016-02-24,True
+10156,Claims Processing,Claims Team Lead,Amsterdam,1.0,26,Male,3.8,False,2021-11-20,False,False,False,37561.0,Active,,,False,0,,False
+10157,Claims Processing,Claims Adjuster,Rotterdam,1.0,44,Male,4.8,False,2020-11-27,False,False,False,45984.0,Left,2025-05-20,Voluntary,False,1,2021-04-21,True
+10158,Claims Processing,Senior Claims Adjuster,Utrecht,1.0,33,Female,4.4,False,2021-03-06,False,False,False,40329.0,Left,2024-09-01,Voluntary,False,0,,False
+10159,Claims Processing,Claims Adjuster,Rotterdam,0.6,41,Male,4.1,False,2021-08-17,False,False,False,49565.0,Active,,,False,0,,True
+10160,Claims Processing,Claims Team Lead,Utrecht,1.0,61,Female,17.4,False,2008-02-03,True,False,False,59197.0,Active,,,False,0,,True
+10161,Claims Processing,Senior Claims Adjuster,Amsterdam,1.0,54,Female,19.0,False,2006-09-01,False,False,False,37937.0,Active,,,False,0,,False
+10162,Claims Processing,Claims Team Lead,Utrecht,1.0,57,Male,2.4,True,2023-02-16,False,False,False,75587.0,Active,,,False,0,,True
+10163,Claims Processing,Claims Team Lead,Amsterdam,1.0,25,Male,1.3,False,2024-03-20,False,False,False,41907.0,Active,,,False,0,,False
+10164,Claims Processing,Claims Team Lead,Utrecht,0.8,57,Female,8.0,False,2017-09-15,False,False,False,53046.0,Active,,,False,0,,True
+10165,Claims Processing,Claims Team Lead,Rotterdam,0.8,54,Male,11.6,False,2014-01-17,True,False,False,51939.0,Active,,,False,1,2018-03-30,True
+10166,Claims Processing,Claims Team Lead,The Hague,1.0,60,Female,2.3,False,2023-04-11,False,True,True,45469.0,Active,,,False,0,,True
+10167,Claims Processing,Claims Team Lead,Rotterdam,1.0,64,Male,14.0,False,2011-07-04,False,True,False,39883.0,Active,,,True,1,2014-11-18,False
+10168,Claims Processing,Claims Team Lead,Amsterdam,1.0,60,Male,4.1,False,2021-07-14,True,False,False,61646.0,Active,,,False,2,2023-11-25,True
+10169,Claims Processing,Claims Team Lead,Amsterdam,0.6,62,Female,3.6,False,2021-12-02,False,False,False,62434.0,Active,,,False,0,,True
+10170,Claims Processing,Claims Adjuster,Utrecht,0.6,56,Female,14.0,False,2011-10-16,False,True,True,54714.0,Active,,,False,1,2013-01-18,True
+10171,Claims Processing,Senior Claims Adjuster,Rotterdam,1.0,25,Male,2.9,False,2022-09-03,True,False,False,49530.0,Active,,,False,1,2023-11-21,True
+10172,Claims Processing,Senior Claims Adjuster,Utrecht,0.8,62,Female,16.0,False,2009-08-11,False,False,False,41622.0,Left,2025-03-09,Voluntary,False,1,2014-10-07,False
+10173,Claims Processing,Claims Adjuster,Amsterdam,0.8,56,Male,12.7,False,2012-11-12,False,False,False,47842.0,Left,2024-11-24,Retirement,False,0,,True
+10174,Claims Processing,Claims Team Lead,Amsterdam,1.0,59,Female,15.1,False,2010-09-03,False,False,False,44945.0,Active,,,False,0,,True
+10175,Claims Processing,Senior Claims Adjuster,Amsterdam,1.0,52,Female,9.8,False,2015-10-08,False,True,False,48203.0,Active,,,False,1,2021-10-06,True
+10176,Claims Processing,Claims Team Lead,The Hague,1.0,29,Male,2.5,False,2023-03-23,False,False,False,53618.0,Active,,,False,0,,True
+10177,Claims Processing,Senior Claims Adjuster,Utrecht,0.8,59,Male,19.7,False,2005-12-01,False,False,False,62192.0,Active,,,False,0,,True
+10178,Claims Processing,Claims Team Lead,The Hague,0.6,41,Female,7.0,False,2018-08-17,True,False,False,44459.0,Active,,,False,0,,False
+10179,Claims Processing,Claims Adjuster,Amsterdam,0.8,63,Male,3.2,False,2022-07-06,False,True,False,56717.0,Active,,,True,1,2023-02-03,True
+10180,Claims Processing,Claims Team Lead,Rotterdam,0.8,61,Female,7.6,True,2018-02-21,False,False,False,67468.0,Active,,,False,1,2019-09-02,True
+10181,Claims Processing,Senior Claims Adjuster,Utrecht,1.0,26,Male,3.5,False,2022-03-05,False,False,False,37382.0,Active,,,False,2,2022-06-18,False
+10182,Claims Processing,Claims Team Lead,Amsterdam,0.8,32,Female,1.8,False,2023-10-23,False,False,False,54015.0,Active,,,False,0,,True
+10183,Claims Processing,Senior Claims Adjuster,Utrecht,0.8,40,Female,1.2,False,2024-05-21,False,False,False,62070.0,Active,,,False,0,,True
+10184,Claims Processing,Claims Team Lead,The Hague,1.0,63,Female,24.7,True,2000-12-09,False,True,True,62573.0,Active,,,True,1,2018-03-24,True
+10185,Claims Processing,Senior Claims Adjuster,The Hague,1.0,57,Male,5.1,False,2020-07-29,False,False,False,47578.0,Active,,,False,1,2022-09-10,True
+10186,Claims Processing,Senior Claims Adjuster,Utrecht,0.8,33,Female,2.2,False,2023-07-10,False,False,False,51985.0,Active,,,False,0,,True
+10187,Claims Processing,Claims Team Lead,Amsterdam,1.0,59,Female,14.9,True,2010-11-05,True,True,True,66587.0,Active,,,False,1,2020-03-12,True
+10188,Claims Processing,Claims Team Lead,Amsterdam,0.8,61,Male,7.3,False,2018-05-13,False,True,True,46505.0,Active,,,False,0,,True
+10189,Claims Processing,Senior Claims Adjuster,The Hague,1.0,26,Male,1.4,False,2024-02-29,False,False,False,36323.0,Active,,,False,0,,False
+10190,Claims Processing,Claims Team Lead,Amsterdam,1.0,37,Male,2.4,False,2023-02-25,False,False,False,58632.0,Active,,,False,1,2024-08-11,True
+10191,Claims Processing,Claims Adjuster,Utrecht,0.8,59,Female,26.5,False,1999-03-30,False,False,False,49282.0,Active,,,False,1,2021-02-18,True
+10192,Claims Processing,Claims Adjuster,Utrecht,1.0,40,Male,9.5,False,2016-04-07,True,False,False,60824.0,Active,,,False,0,,True
+10193,Claims Processing,Senior Claims Adjuster,Rotterdam,1.0,63,Male,12.1,False,2013-05-25,False,False,False,53721.0,Active,,,True,0,,True
+10194,Claims Processing,Claims Team Lead,The Hague,1.0,64,Female,12.1,False,2013-06-06,False,False,False,52502.0,Active,,,True,0,,True
+10195,Claims Processing,Senior Claims Adjuster,Amsterdam,0.8,63,Male,8.3,False,2017-05-06,False,False,False,66317.0,Active,,,True,0,,True
+10196,Claims Processing,Claims Team Lead,Amsterdam,1.0,29,Male,-0.0,True,2025-09-17,False,False,False,64042.0,Active,,,False,0,,True
+10197,Claims Processing,Claims Team Lead,Amsterdam,0.6,63,Female,8.9,False,2016-09-15,False,False,False,48418.0,Active,,,True,1,2019-11-17,True
+10198,Claims Processing,Claims Adjuster,Rotterdam,1.0,44,Female,5.5,False,2020-02-14,False,True,True,42745.0,Active,,,False,0,,False
+10199,Claims Processing,Claims Team Lead,Amsterdam,0.6,41,Male,3.7,False,2021-12-06,False,False,False,54599.0,Active,,,False,2,2023-10-02,True
+10200,Claims Processing,Claims Team Lead,Amsterdam,0.6,30,Male,3.4,False,2022-05-18,False,True,True,52320.0,Active,,,False,1,2025-01-19,True
+10201,Claims Processing,Senior Claims Adjuster,Utrecht,1.0,61,Female,23.4,False,2002-04-07,True,False,False,37645.0,Active,,,False,0,,False
+10202,Claims Processing,Claims Team Lead,The Hague,1.0,44,Male,16.4,True,2009-05-06,False,False,False,53629.0,Active,,,False,3,2021-12-26,True
+10203,Claims Processing,Claims Team Lead,Amsterdam,1.0,35,Male,2.2,False,2023-07-23,False,False,False,45985.0,Active,,,False,2,2024-03-17,True
+10204,Claims Processing,Claims Adjuster,Rotterdam,1.0,31,Male,1.2,False,2024-06-14,False,False,False,39789.0,Active,,,False,2,2025-07-15,False
+10205,Claims Processing,Senior Claims Adjuster,The Hague,1.0,62,Male,10.6,False,2015-03-09,False,True,True,43403.0,Active,,,False,0,,False
+10206,Claims Processing,Senior Claims Adjuster,Amsterdam,1.0,25,Male,2.4,False,2023-01-25,False,False,False,46720.0,Active,,,False,0,,True
+10207,Claims Processing,Claims Adjuster,Amsterdam,1.0,25,Male,0.8,False,2024-09-05,False,False,False,50611.0,Active,,,False,1,2025-08-12,True
+10208,Claims Processing,Senior Claims Adjuster,Amsterdam,1.0,33,Female,6.5,False,2019-03-07,False,False,False,39739.0,Active,,,False,2,2023-08-29,False
+10209,Claims Processing,Claims Team Lead,Rotterdam,1.0,41,Female,9.5,False,2016-01-25,False,False,False,49690.0,Active,,,False,0,,True
+10210,Claims Processing,Claims Team Lead,Amsterdam,1.0,64,Male,5.2,False,2020-06-27,False,False,False,60688.0,Active,,,True,0,,True
+10211,Claims Processing,Claims Team Lead,The Hague,0.6,26,Female,4.3,False,2021-06-04,True,False,False,39304.0,Left,2025-02-15,Voluntary,False,0,,False
+10212,Claims Processing,Senior Claims Adjuster,Rotterdam,1.0,31,Female,6.4,False,2019-05-10,True,False,False,44597.0,Active,,,False,0,,False
+10213,Claims Processing,Senior Claims Adjuster,Rotterdam,1.0,46,Male,13.6,False,2011-12-29,False,False,False,40260.0,Active,,,False,0,,False
+10214,Claims Processing,Claims Team Lead,Amsterdam,1.0,65,Male,19.3,True,2006-06-01,False,False,False,75248.0,Active,,,True,2,2015-07-30,True
+10215,Claims Processing,Senior Claims Adjuster,Rotterdam,0.8,41,Female,17.6,False,2008-03-03,False,False,False,41617.0,Active,,,False,1,2023-08-13,False
+10216,Claims Processing,Claims Team Lead,Utrecht,0.6,30,Female,3.7,False,2021-12-04,False,False,False,41154.0,Active,,,False,2,2023-01-09,False
+10217,Claims Processing,Claims Adjuster,Utrecht,0.8,65,Female,17.0,False,2008-10-01,False,False,False,41572.0,Active,,,True,1,2023-03-11,False
+10218,Claims Processing,Claims Team Lead,Utrecht,0.6,61,Male,24.4,False,2001-05-01,False,False,False,48873.0,Active,,,False,2,2019-06-13,True
+10219,Claims Processing,Senior Claims Adjuster,Rotterdam,1.0,64,Female,14.5,False,2011-02-24,False,False,False,35648.0,Active,,,True,1,2013-12-09,False
+10220,Claims Processing,Claims Team Lead,The Hague,0.8,35,Male,7.8,False,2017-11-05,False,False,False,40298.0,Active,,,False,1,2018-06-24,False
+10221,Claims Processing,Claims Adjuster,Utrecht,0.8,40,Male,10.5,False,2015-01-27,False,False,False,51176.0,Active,,,False,2,2020-07-06,True
+10222,Claims Processing,Claims Team Lead,Utrecht,1.0,44,Female,4.0,False,2021-06-18,False,False,False,48853.0,Active,,,False,0,,True
+10223,Claims Processing,Claims Team Lead,Amsterdam,0.6,55,Male,21.2,True,2004-05-13,True,False,False,52117.0,Active,,,False,1,2009-10-17,True
+10224,Claims Processing,Senior Claims Adjuster,Amsterdam,1.0,48,Male,4.5,False,2021-02-01,False,False,False,40585.0,Active,,,False,1,2023-07-30,False
+10225,Claims Processing,Claims Team Lead,Amsterdam,1.0,27,Male,5.6,False,2020-02-20,False,False,False,56896.0,Active,,,False,1,2022-07-11,True
+10226,Claims Processing,Claims Team Lead,Utrecht,1.0,64,Male,20.5,False,2005-03-08,False,True,True,42393.0,Active,,,True,2,2007-01-09,False
+10227,Claims Processing,Claims Team Lead,Rotterdam,1.0,52,Male,5.5,False,2020-04-12,False,False,False,39186.0,Active,,,False,0,,False
+10228,Claims Processing,Claims Team Lead,Rotterdam,0.8,26,Female,3.0,False,2022-07-21,True,False,False,43610.0,Left,2025-03-05,Voluntary,False,0,,False
+10229,Claims Processing,Senior Claims Adjuster,The Hague,1.0,48,Male,18.5,False,2007-03-11,False,True,False,53785.0,Left,2024-10-24,Voluntary,False,0,,True
+10230,Claims Processing,Claims Adjuster,The Hague,1.0,40,Female,3.0,False,2022-08-18,False,False,False,47185.0,Active,,,False,0,,True
+10231,Claims Processing,Claims Adjuster,The Hague,1.0,54,Female,15.4,False,2010-02-26,False,False,False,53053.0,Active,,,False,0,,True
+10232,Claims Processing,Claims Team Lead,Amsterdam,0.8,61,Female,27.2,False,1998-04-27,False,False,False,63374.0,Active,,,False,1,2012-12-14,True
+10233,Claims Processing,Senior Claims Adjuster,Utrecht,1.0,52,Male,15.5,False,2010-02-25,False,False,False,56926.0,Active,,,False,1,2024-03-23,True
+10234,Claims Processing,Claims Adjuster,Amsterdam,1.0,48,Female,16.6,False,2008-12-30,False,False,False,40078.0,Active,,,False,1,2016-02-25,False
+10235,Claims Processing,Claims Adjuster,Amsterdam,0.6,30,Male,0.0,False,2025-09-23,False,False,False,56245.0,Active,,,False,0,,True
+10236,Claims Processing,Claims Adjuster,Amsterdam,0.8,36,Female,3.7,False,2021-11-12,False,True,False,41077.0,Active,,,False,1,2024-11-20,False
+10237,Claims Processing,Claims Adjuster,Amsterdam,1.0,48,Female,2.1,False,2023-07-07,False,True,False,58534.0,Active,,,False,0,,True
+10238,Claims Processing,Claims Adjuster,Rotterdam,0.8,61,Female,5.5,False,2020-02-13,False,False,False,50968.0,Active,,,False,0,,True
+10239,Claims Processing,Claims Adjuster,Utrecht,0.8,64,Male,8.3,False,2017-04-20,False,False,False,58111.0,Active,,,True,1,2020-12-06,True
+10240,Claims Processing,Senior Claims Adjuster,Amsterdam,0.8,32,Female,4.1,False,2021-09-06,False,False,False,59264.0,Active,,,False,1,2024-08-04,True
+10241,Claims Processing,Claims Team Lead,Utrecht,1.0,55,Male,2.5,False,2023-02-11,False,False,False,40602.0,Active,,,False,0,,False
+10242,Claims Processing,Claims Adjuster,Rotterdam,1.0,57,Female,15.6,False,2010-02-27,True,False,False,42678.0,Left,2025-06-15,Retirement,False,1,2019-02-11,False
+10243,Claims Processing,Senior Claims Adjuster,Amsterdam,1.0,64,Female,1.1,False,2024-05-28,False,False,False,53257.0,Active,,,True,0,,True
+10244,Claims Processing,Claims Team Lead,Rotterdam,1.0,27,Male,4.4,True,2021-03-08,False,False,False,66413.0,Left,2025-08-03,Voluntary,False,1,2025-08-08,True
+10245,Claims Processing,Claims Team Lead,Amsterdam,1.0,28,Female,4.6,False,2021-02-18,False,False,False,44548.0,Left,2025-07-03,Involuntary,False,0,,False
+10246,Claims Processing,Claims Team Lead,Rotterdam,1.0,61,Male,15.3,False,2010-04-07,True,True,True,40593.0,Active,,,False,2,2024-12-04,False
+10247,Claims Processing,Claims Adjuster,Rotterdam,1.0,60,Male,2.6,False,2022-11-17,True,False,False,50888.0,Active,,,False,0,,True
+10248,Claims Processing,Claims Team Lead,Amsterdam,1.0,31,Male,1.9,False,2023-10-06,False,False,False,45068.0,Active,,,False,0,,False
+10249,Claims Processing,Claims Team Lead,Amsterdam,1.0,56,Male,8.5,False,2017-01-27,False,False,False,49504.0,Active,,,False,2,2021-10-10,True
+10250,Claims Processing,Senior Claims Adjuster,Rotterdam,0.8,47,Female,5.2,False,2020-05-03,False,False,False,51546.0,Active,,,False,0,,True
+10251,Claims Processing,Senior Claims Adjuster,The Hague,1.0,57,Male,4.9,False,2020-10-07,False,False,False,48106.0,Active,,,False,1,2025-04-13,True
+10252,Claims Processing,Senior Claims Adjuster,Amsterdam,1.0,54,Male,15.1,False,2010-08-30,False,False,False,53442.0,Active,,,False,0,,True
+10253,Claims Processing,Claims Adjuster,Utrecht,0.8,28,Female,0.7,False,2024-12-14,False,False,False,37037.0,Active,,,False,0,,False
+10254,Claims Processing,Claims Adjuster,Utrecht,1.0,25,Female,2.4,False,2023-05-03,False,True,True,47285.0,Active,,,False,0,,True
+10255,Claims Processing,Claims Team Lead,The Hague,0.8,54,Female,6.6,False,2019-01-21,False,False,False,47480.0,Active,,,False,0,,True
+10256,Claims Processing,Claims Team Lead,Utrecht,0.8,61,Female,25.3,False,2000-03-14,False,False,False,58442.0,Active,,,False,2,2000-08-24,True
+10257,Claims Processing,Claims Adjuster,Rotterdam,1.0,33,Female,3.7,False,2022-01-01,False,False,False,56512.0,Active,,,False,2,2024-05-23,True
+10258,Claims Processing,Claims Adjuster,Utrecht,0.8,26,Male,4.4,False,2021-01-24,False,False,False,49717.0,Active,,,False,2,2021-08-13,True
+10259,Claims Processing,Senior Claims Adjuster,The Hague,1.0,31,Male,2.6,False,2023-01-11,False,False,False,44193.0,Active,,,False,0,,False
+10260,Claims Processing,Claims Adjuster,Rotterdam,1.0,49,Female,4.8,False,2020-11-15,False,False,False,48892.0,Active,,,False,0,,True
+10261,Claims Processing,Claims Adjuster,Amsterdam,1.0,34,Male,1.6,False,2023-12-22,False,True,True,50557.0,Active,,,False,1,2024-06-02,True
+10262,Claims Processing,Claims Team Lead,Amsterdam,1.0,55,Female,14.5,False,2011-04-08,False,False,False,34645.0,Active,,,False,0,,False
+10263,Claims Processing,Claims Team Lead,Utrecht,0.6,61,Male,6.0,False,2019-09-07,False,False,False,55541.0,Active,,,False,0,,True
+10264,Claims Processing,Claims Team Lead,Utrecht,1.0,61,Male,1.0,True,2024-06-19,False,False,False,44852.0,Active,,,False,1,2025-03-14,False
+10265,Claims Processing,Claims Adjuster,Amsterdam,1.0,47,Male,14.3,False,2011-06-12,True,False,False,52852.0,Left,2025-01-25,Retirement,False,1,2012-10-22,True
+10266,Claims Processing,Claims Team Lead,Rotterdam,1.0,49,Female,8.7,False,2016-11-02,False,False,False,52696.0,Active,,,False,1,2024-06-27,True
+10267,Claims Processing,Claims Adjuster,Rotterdam,1.0,25,Male,1.5,False,2024-03-09,False,False,False,52046.0,Active,,,False,0,,True
+10268,Claims Processing,Claims Adjuster,Amsterdam,1.0,57,Female,10.4,False,2015-05-22,False,False,False,44710.0,Active,,,False,0,,False
+10269,Claims Processing,Senior Claims Adjuster,The Hague,1.0,55,Male,4.5,False,2021-03-20,False,False,False,52810.0,Active,,,False,0,,True
+10270,Claims Processing,Claims Adjuster,Amsterdam,0.8,31,Male,3.7,False,2021-12-09,False,False,False,61921.0,Active,,,False,0,,True
+10271,Claims Processing,Senior Claims Adjuster,Amsterdam,1.0,25,Female,1.4,False,2024-02-22,False,False,False,58599.0,Active,,,False,0,,True
+10272,Claims Processing,Claims Team Lead,Rotterdam,1.0,61,Female,16.2,True,2009-05-05,False,False,False,56330.0,Active,,,False,1,2016-05-11,True
+10273,Claims Processing,Claims Team Lead,Utrecht,1.0,27,Male,0.0,False,2025-10-02,False,False,False,42523.0,Active,,,False,1,2026-01-10,False
+10274,Claims Processing,Claims Team Lead,Amsterdam,1.0,51,Female,8.4,False,2017-03-08,False,False,False,50172.0,Active,,,False,1,2019-04-26,True
+10275,Claims Processing,Claims Team Lead,Utrecht,0.8,51,Male,14.3,False,2011-04-27,False,False,False,51447.0,Active,,,False,0,,True
+10276,Claims Processing,Senior Claims Adjuster,Rotterdam,1.0,38,Male,9.8,False,2015-11-23,True,False,False,52958.0,Active,,,False,0,,True
+10277,Claims Processing,Senior Claims Adjuster,Amsterdam,1.0,49,Male,6.2,False,2019-06-17,False,False,False,40346.0,Active,,,False,0,,False
+10278,Claims Processing,Claims Team Lead,Amsterdam,1.0,62,Female,18.9,False,2006-08-16,False,False,False,47575.0,Left,2025-06-13,Voluntary,False,2,2022-12-12,True
+10279,Claims Processing,Claims Team Lead,Rotterdam,0.8,57,Female,6.1,False,2019-07-07,False,False,False,37573.0,Active,,,False,2,2021-09-07,False
+10280,Claims Processing,Claims Team Lead,Amsterdam,1.0,59,Male,6.2,False,2019-06-30,False,True,False,56448.0,Active,,,False,0,,True
+10281,Claims Processing,Senior Claims Adjuster,The Hague,1.0,56,Female,9.9,False,2015-10-01,False,False,False,62210.0,Active,,,False,2,2022-06-07,True
+10282,Claims Processing,Claims Team Lead,Utrecht,0.8,48,Male,9.9,False,2015-10-29,False,False,False,42916.0,Active,,,False,1,2018-08-04,False
+10283,Claims Processing,Senior Claims Adjuster,The Hague,1.0,36,Male,6.3,False,2019-04-16,False,False,False,49925.0,Active,,,False,1,2023-08-01,True
+10284,Claims Processing,Claims Adjuster,Amsterdam,0.8,55,Male,3.2,False,2022-05-24,False,False,False,51655.0,Active,,,False,0,,True
+10285,Claims Processing,Claims Team Lead,The Hague,0.8,41,Male,6.4,False,2019-02-05,False,False,False,62091.0,Active,,,False,2,2020-06-08,True
+10286,Claims Processing,Senior Claims Adjuster,Rotterdam,1.0,40,Male,5.0,False,2020-09-06,False,False,False,39840.0,Active,,,False,2,2025-03-22,False
+10287,Claims Processing,Senior Claims Adjuster,Amsterdam,1.0,42,Female,3.0,False,2022-09-03,False,True,False,43646.0,Active,,,False,0,,False
+10288,Claims Processing,Senior Claims Adjuster,Amsterdam,1.0,49,Female,11.4,False,2014-05-03,True,False,False,47733.0,Active,,,False,0,,True
+10289,Claims Processing,Claims Adjuster,Amsterdam,1.0,56,Male,7.8,False,2017-12-09,False,False,False,43739.0,Active,,,False,2,2022-04-02,False
+10290,Claims Processing,Claims Team Lead,Utrecht,0.6,32,Male,10.2,False,2015-07-30,False,False,False,54002.0,Active,,,False,0,,True
+10291,Claims Processing,Senior Claims Adjuster,Rotterdam,1.0,33,Male,1.7,False,2024-01-05,False,False,False,50445.0,Active,,,False,0,,True
+10292,Claims Processing,Claims Team Lead,Amsterdam,1.0,59,Male,16.7,False,2008-12-28,False,False,False,43106.0,Active,,,False,1,2018-07-08,False
+10293,Claims Processing,Senior Claims Adjuster,Rotterdam,0.8,65,Male,9.2,False,2016-05-08,False,False,False,60766.0,Active,,,True,2,2020-03-27,True
+10294,Claims Processing,Claims Team Lead,Amsterdam,1.0,59,Female,12.1,False,2013-08-13,False,False,False,46850.0,Active,,,False,1,2018-04-13,True
+10295,Claims Processing,Claims Adjuster,Rotterdam,1.0,63,Male,20.8,False,2004-10-12,False,False,False,56605.0,Active,,,True,0,,True
+10296,Claims Processing,Senior Claims Adjuster,Rotterdam,1.0,65,Female,19.9,False,2005-09-03,True,False,False,58160.0,Active,,,True,0,,True
+10297,Claims Processing,Senior Claims Adjuster,Utrecht,1.0,46,Female,13.4,False,2012-01-30,False,False,False,53352.0,Active,,,False,0,,True
+10298,Claims Processing,Claims Adjuster,Utrecht,0.8,54,Male,11.6,False,2014-01-17,False,False,False,51694.0,Active,,,False,0,,True
+10299,Claims Processing,Claims Team Lead,Rotterdam,1.0,58,Female,12.2,True,2013-07-21,False,False,False,59270.0,Active,,,False,0,,True
+10300,Claims Processing,Senior Claims Adjuster,Rotterdam,1.0,29,Male,2.9,False,2022-10-07,False,False,False,51373.0,Active,,,False,0,,True
+10301,Claims Processing,Claims Adjuster,Rotterdam,1.0,59,Female,9.5,False,2016-02-16,False,False,False,45238.0,Active,,,False,0,,True
+10302,Claims Processing,Claims Team Lead,Utrecht,1.0,27,Male,5.4,True,2020-02-06,False,False,False,56712.0,Active,,,False,1,2025-01-14,True
+10303,Claims Processing,Senior Claims Adjuster,Amsterdam,1.0,60,Male,8.7,False,2017-01-28,False,False,False,57925.0,Active,,,False,0,,True
+10304,Claims Processing,Senior Claims Adjuster,Amsterdam,1.0,44,Male,6.5,False,2019-01-28,False,False,False,47874.0,Active,,,False,1,2022-06-05,True
+10305,Claims Processing,Claims Team Lead,Amsterdam,1.0,52,Male,10.0,True,2015-09-03,False,False,False,67154.0,Active,,,False,2,2025-04-03,True
+10306,Claims Processing,Claims Adjuster,Rotterdam,0.6,56,Male,6.4,False,2019-03-26,False,True,False,56355.0,Active,,,False,0,,True
+10307,Claims Processing,Claims Adjuster,Rotterdam,1.0,58,Male,17.0,False,2008-06-30,False,False,False,37213.0,Active,,,False,1,2014-10-21,False
+10308,Claims Processing,Claims Adjuster,Utrecht,1.0,36,Male,6.9,False,2018-09-28,False,True,True,48943.0,Active,,,False,3,2020-02-05,True
+10309,Claims Processing,Claims Adjuster,Amsterdam,1.0,44,Female,5.9,False,2019-10-06,False,True,False,44571.0,Active,,,False,0,,False
+10310,Claims Processing,Senior Claims Adjuster,Rotterdam,0.8,64,Female,18.5,False,2007-03-25,False,False,False,56329.0,Active,,,True,1,2011-02-21,True
+10311,Claims Processing,Claims Team Lead,Utrecht,0.8,41,Male,5.9,False,2019-10-01,False,False,False,60711.0,Active,,,False,0,,True
+10312,Claims Processing,Claims Adjuster,Utrecht,1.0,27,Male,4.9,False,2020-08-27,False,False,False,56919.0,Active,,,False,0,,True
+10313,Claims Processing,Claims Team Lead,Rotterdam,0.6,46,Female,5.5,False,2020-01-20,False,False,False,55722.0,Active,,,False,0,,True
+10314,Claims Processing,Claims Adjuster,Rotterdam,1.0,29,Female,1.8,False,2023-10-16,True,False,False,57239.0,Active,,,False,1,2025-08-12,True
+10315,Claims Processing,Claims Adjuster,Amsterdam,1.0,61,Female,13.7,False,2012-01-02,False,False,False,53089.0,Active,,,False,1,2019-04-05,True
+10316,Claims Processing,Senior Claims Adjuster,The Hague,1.0,62,Male,13.2,False,2012-06-16,True,False,False,50699.0,Active,,,False,1,2014-04-26,True
+10317,Claims Processing,Claims Team Lead,Amsterdam,1.0,53,Male,2.6,True,2022-12-17,False,False,False,57422.0,Active,,,False,0,,True
+10318,Claims Processing,Senior Claims Adjuster,The Hague,0.8,43,Male,8.5,False,2017-03-12,False,False,False,62173.0,Active,,,False,0,,True
+10319,Claims Processing,Claims Team Lead,Utrecht,1.0,40,Male,4.7,True,2020-10-20,False,False,False,66299.0,Active,,,False,1,2023-10-10,True
+10320,Claims Processing,Senior Claims Adjuster,Rotterdam,1.0,63,Female,26.4,False,1999-03-09,False,False,False,63177.0,Active,,,True,1,2016-09-14,True
+10321,Claims Processing,Senior Claims Adjuster,Amsterdam,0.8,62,Female,17.8,False,2007-09-12,True,False,False,40283.0,Active,,,False,0,,False
+10322,Claims Processing,Claims Adjuster,Rotterdam,1.0,65,Female,4.0,False,2021-07-13,False,False,False,57243.0,Active,,,True,1,2025-02-13,True
+10323,Claims Processing,Claims Adjuster,Rotterdam,1.0,41,Female,2.7,False,2022-10-07,False,False,False,46591.0,Active,,,False,0,,True
+10324,Claims Processing,Senior Claims Adjuster,Amsterdam,1.0,46,Female,7.4,False,2018-03-28,True,False,False,58353.0,Active,,,False,0,,True
+10325,Claims Processing,Claims Team Lead,Utrecht,1.0,59,Male,5.6,True,2020-03-04,False,False,False,74897.0,Active,,,False,1,2022-02-23,True
+10326,Claims Processing,Claims Team Lead,The Hague,1.0,50,Male,3.6,False,2021-12-22,False,False,False,42414.0,Active,,,False,0,,False
+10327,Claims Processing,Claims Team Lead,Rotterdam,1.0,43,Female,6.4,False,2019-02-18,False,False,False,45155.0,Active,,,False,1,2020-03-16,True
+10328,Claims Processing,Claims Adjuster,Utrecht,1.0,61,Male,13.1,False,2012-05-18,True,False,False,62159.0,Active,,,False,3,2023-03-05,True
+10329,Claims Processing,Claims Team Lead,Amsterdam,1.0,33,Female,2.1,False,2023-06-08,False,False,False,49711.0,Active,,,False,0,,True
+10330,Claims Processing,Senior Claims Adjuster,Rotterdam,0.8,58,Female,2.9,False,2022-08-04,False,False,False,59433.0,Active,,,False,0,,True
+10331,Claims Processing,Senior Claims Adjuster,Amsterdam,1.0,27,Male,1.4,False,2024-05-03,False,False,False,42231.0,Active,,,False,1,2024-10-09,False
+10332,Claims Processing,Claims Adjuster,Rotterdam,1.0,25,Male,2.3,False,2023-03-18,False,False,False,61673.0,Active,,,False,0,,True
+10333,Claims Processing,Claims Team Lead,The Hague,1.0,57,Female,11.0,True,2014-08-26,False,False,False,62748.0,Active,,,False,0,,True
+10334,Claims Processing,Claims Team Lead,Utrecht,1.0,62,Male,5.7,True,2019-10-08,False,False,False,65099.0,Active,,,False,1,2022-03-10,True
+10335,Claims Processing,Claims Team Lead,Amsterdam,1.0,64,Female,18.4,True,2007-05-16,False,False,False,50007.0,Active,,,True,1,2009-01-23,True
+10336,Claims Processing,Senior Claims Adjuster,Rotterdam,1.0,62,Female,13.8,False,2011-11-12,True,False,False,50538.0,Active,,,False,0,,True
+10337,Claims Processing,Claims Team Lead,Rotterdam,1.0,57,Male,12.1,False,2013-08-26,False,False,False,45715.0,Active,,,False,1,2017-07-02,True
+10338,Claims Processing,Claims Team Lead,Rotterdam,0.6,47,Male,15.5,False,2010-02-15,False,False,False,63629.0,Active,,,False,0,,True
+10339,Claims Processing,Claims Team Lead,Utrecht,1.0,32,Female,6.5,False,2019-03-07,False,True,False,45704.0,Active,,,False,1,2022-02-18,True
+10340,Claims Processing,Claims Team Lead,Utrecht,0.8,58,Female,11.7,False,2013-11-03,False,False,False,41391.0,Left,2025-08-05,Retirement,False,0,,False
+10341,Claims Processing,Claims Team Lead,Rotterdam,1.0,40,Male,10.6,False,2015-02-12,False,False,False,60607.0,Active,,,False,0,,True
+10342,Claims Processing,Claims Adjuster,Rotterdam,0.8,58,Male,12.6,False,2013-02-22,False,False,False,43653.0,Active,,,False,2,2015-02-02,False
+10343,Claims Processing,Claims Team Lead,Amsterdam,1.0,58,Male,2.8,True,2022-09-09,False,False,False,56233.0,Left,2024-09-06,Retirement,False,0,,True
+10344,Claims Processing,Claims Adjuster,Amsterdam,0.8,62,Female,2.7,False,2023-01-23,False,False,False,68704.0,Active,,,False,1,2024-03-24,True
+10345,Claims Processing,Senior Claims Adjuster,Rotterdam,1.0,61,Female,9.6,False,2015-12-05,False,False,False,46089.0,Active,,,False,0,,True
+10346,Claims Processing,Senior Claims Adjuster,Rotterdam,1.0,58,Female,6.1,False,2019-07-23,False,False,False,61027.0,Active,,,False,2,2025-05-19,True
+10347,Claims Processing,Senior Claims Adjuster,Utrecht,1.0,59,Male,12.6,False,2013-01-01,False,False,False,53629.0,Active,,,False,1,2023-10-26,True
+10348,Claims Processing,Claims Adjuster,Utrecht,0.8,58,Male,8.1,False,2017-05-26,False,False,False,48006.0,Active,,,False,0,,True
+10349,Claims Processing,Senior Claims Adjuster,Amsterdam,1.0,25,Female,0.8,False,2024-10-30,False,True,True,51765.0,Left,2025-07-12,Retirement,False,1,2025-08-13,True
+10350,Call Center,Agent,Rotterdam,1.0,35,Male,9.5,False,2015-12-29,False,False,False,36439.0,Active,,,False,0,,True
+10351,Call Center,Team Lead,Amsterdam,1.0,29,Male,4.0,False,2021-09-13,False,False,False,28622.0,Active,,,False,0,,False
+10352,Call Center,Team Lead,Utrecht,1.0,26,Female,3.1,False,2022-08-03,False,False,False,40290.0,Active,,,False,0,,True
+10353,Call Center,Team Lead,The Hague,0.8,43,Male,16.1,True,2009-08-19,False,False,False,49834.0,Active,,,False,0,,True
+10354,Call Center,Senior Agent,Amsterdam,1.0,22,Female,0.0,False,2025-09-19,False,False,False,36139.0,Active,,,False,0,,True
+10355,Call Center,Agent,Amsterdam,0.6,30,Male,0.0,False,2025-07-30,False,False,False,37882.0,Active,,,False,0,,True
+10356,Call Center,Team Lead,Amsterdam,1.0,33,Female,3.3,False,2022-05-01,False,False,False,34831.0,Active,,,False,0,,True
+10357,Call Center,Agent,Rotterdam,1.0,42,Male,2.8,False,2022-09-27,False,False,False,32352.0,Left,2025-04-08,Voluntary,False,0,,False
+10358,Call Center,Team Lead,Rotterdam,1.0,37,Female,8.6,False,2017-02-07,False,False,False,41869.0,Left,2025-08-14,Voluntary,False,0,,True
+10359,Call Center,Agent,Amsterdam,1.0,22,Female,0.2,False,2025-04-24,False,True,True,38201.0,Active,,,False,0,,True
+10360,Call Center,Agent,Utrecht,1.0,32,Male,3.0,False,2022-09-05,False,False,False,34777.0,Left,2025-05-25,Voluntary,False,0,,True
+10361,Call Center,Agent,Amsterdam,0.8,32,Male,1.7,False,2024-01-04,False,False,False,38515.0,Active,,,False,0,,True
+10362,Call Center,Agent,Rotterdam,0.8,31,Male,5.1,False,2020-07-15,False,False,False,37301.0,Active,,,False,0,,True
+10363,Call Center,Agent,Rotterdam,0.6,36,Female,7.0,False,2018-08-29,False,False,False,44163.0,Active,,,False,1,2020-05-20,True
+10364,Call Center,Team Lead,Utrecht,0.8,24,Female,2.2,False,2023-06-17,False,False,False,38525.0,Active,,,False,0,,True
+10365,Call Center,Agent,Amsterdam,0.8,30,Male,5.9,False,2019-09-12,False,False,False,40396.0,Active,,,False,0,,True
+10366,Call Center,Agent,The Hague,1.0,35,Female,4.7,False,2020-12-16,False,False,False,45428.0,Left,2024-11-07,Involuntary,False,2,2022-06-06,True
+10367,Call Center,Agent,Utrecht,0.8,36,Male,1.4,False,2024-04-06,False,False,False,29913.0,Active,,,False,0,,False
+10368,Call Center,Senior Agent,Amsterdam,1.0,33,Female,6.7,False,2018-12-10,False,False,False,33262.0,Active,,,False,0,,False
+10369,Call Center,Team Lead,Amsterdam,1.0,30,Female,6.6,False,2019-01-06,False,False,False,43113.0,Left,2025-01-11,Voluntary,False,0,,True
+10370,Call Center,Agent,Rotterdam,1.0,31,Male,3.8,False,2021-12-16,True,True,True,35087.0,Active,,,False,0,,True
+10371,Call Center,Team Lead,Utrecht,1.0,36,Male,10.4,False,2015-03-17,False,False,False,29903.0,Active,,,False,0,,False
+10372,Call Center,Agent,Utrecht,1.0,32,Male,1.7,False,2023-11-07,False,False,False,30311.0,Active,,,False,0,,False
+10373,Call Center,Senior Agent,Rotterdam,0.6,26,Male,0.0,False,2025-10-09,False,False,False,30981.0,Active,,,False,0,,False
+10374,Call Center,Team Lead,The Hague,1.0,25,Male,2.5,True,2023-01-18,False,False,False,43978.0,Active,,,False,0,,True
+10375,Call Center,Senior Agent,Amsterdam,1.0,23,Male,0.5,False,2025-02-10,False,False,False,30843.0,Active,,,False,0,,False
+10376,Call Center,Senior Agent,Amsterdam,1.0,41,Male,5.4,False,2020-04-28,False,False,False,39349.0,Active,,,False,1,2022-05-24,True
+10377,Call Center,Agent,The Hague,1.0,37,Male,1.4,False,2024-05-22,False,True,True,31677.0,Active,,,False,1,2025-03-09,False
+10378,Call Center,Team Lead,Utrecht,1.0,31,Male,5.0,False,2020-09-14,False,False,False,32825.0,Active,,,False,0,,False
+10379,Call Center,Team Lead,Rotterdam,1.0,29,Female,2.7,False,2022-10-20,False,False,False,31002.0,Left,2025-01-30,Voluntary,False,1,2023-02-12,False
+10380,Call Center,Team Lead,Utrecht,1.0,29,Male,2.4,False,2023-02-06,False,False,False,35726.0,Left,2025-07-28,Voluntary,False,0,,True
+10381,Call Center,Team Lead,The Hague,1.0,39,Female,11.5,False,2014-04-16,False,True,True,45947.0,Active,,,False,1,2016-08-06,True
+10382,Call Center,Team Lead,Utrecht,0.8,43,Female,7.3,True,2018-05-12,False,False,False,38926.0,Active,,,False,0,,True
+10383,Call Center,Agent,Utrecht,0.8,28,Male,6.5,False,2019-03-30,True,False,False,40668.0,Active,,,False,0,,True
+10384,Call Center,Senior Agent,Utrecht,1.0,39,Male,4.8,False,2020-10-29,False,False,False,41861.0,Active,,,False,0,,True
+10385,Call Center,Agent,Amsterdam,1.0,32,Female,2.3,False,2023-03-14,False,False,False,38946.0,Active,,,False,0,,True
+10386,Call Center,Team Lead,Utrecht,1.0,31,Female,0.5,False,2025-03-18,False,False,False,31099.0,Active,,,False,0,,False
+10387,Call Center,Agent,Amsterdam,0.8,41,Male,9.9,False,2015-10-05,False,False,False,42913.0,Active,,,False,0,,True
+10388,Call Center,Senior Agent,The Hague,1.0,32,Male,7.6,False,2018-03-10,False,False,False,42735.0,Active,,,False,0,,True
+10389,Call Center,Team Lead,Rotterdam,1.0,34,Male,3.4,False,2022-03-11,False,False,False,27489.0,Active,,,False,0,,False
+10390,Call Center,Team Lead,Utrecht,0.8,33,Male,3.0,False,2022-08-21,False,False,False,32195.0,Active,,,False,0,,False
+10391,Call Center,Senior Agent,Rotterdam,1.0,22,Male,2.4,False,2023-05-06,False,False,False,42849.0,Active,,,False,0,,True
+10392,Call Center,Senior Agent,Amsterdam,1.0,34,Male,5.9,False,2019-09-24,False,False,False,41341.0,Active,,,False,0,,True
+10393,Call Center,Team Lead,Amsterdam,1.0,29,Female,1.9,True,2023-08-04,False,False,False,56169.0,Active,,,False,1,2025-01-15,True
+10394,Call Center,Agent,The Hague,0.6,23,Male,2.3,False,2023-05-24,False,False,False,39707.0,Left,2025-04-09,Retirement,False,0,,True
+10395,Call Center,Agent,The Hague,0.8,29,Male,0.6,False,2025-01-08,False,True,True,43261.0,Active,,,False,1,2025-07-01,True
+10396,Call Center,Team Lead,Amsterdam,0.8,29,Male,1.6,False,2024-02-22,False,False,False,48033.0,Active,,,False,0,,True
+10397,Call Center,Team Lead,The Hague,1.0,38,Male,6.7,False,2018-12-17,False,False,False,42909.0,Active,,,False,1,2022-03-25,True
+10398,Call Center,Team Lead,Utrecht,1.0,26,Male,2.7,False,2022-11-19,False,False,False,38953.0,Active,,,False,0,,True
+10399,Call Center,Agent,Rotterdam,0.6,27,Male,0.5,False,2025-02-15,True,False,False,38419.0,Active,,,False,0,,True
+10400,Call Center,Team Lead,Amsterdam,0.6,33,Male,4.3,True,2021-06-09,True,False,False,45961.0,Active,,,False,0,,True
+10401,Call Center,Team Lead,The Hague,1.0,24,Male,1.2,False,2024-06-14,False,False,False,37852.0,Active,,,False,0,,True
+10402,Call Center,Senior Agent,Rotterdam,0.8,28,Female,3.3,False,2022-06-26,False,False,False,42740.0,Active,,,False,0,,True
+10403,Call Center,Team Lead,The Hague,1.0,22,Female,1.2,False,2024-06-21,False,False,False,39280.0,Active,,,False,0,,True
+10404,Call Center,Team Lead,Utrecht,1.0,38,Male,10.3,False,2015-05-05,False,False,False,31957.0,Active,,,False,0,,False
+10405,Call Center,Agent,Utrecht,1.0,30,Male,0.5,False,2025-02-25,True,False,False,35946.0,Active,,,False,0,,True
+10406,Call Center,Team Lead,Utrecht,1.0,32,Male,6.0,False,2019-08-10,False,False,False,35996.0,Active,,,False,0,,True
+10407,Call Center,Agent,Amsterdam,0.6,37,Female,6.7,False,2018-11-15,False,True,False,42560.0,Active,,,False,0,,True
+10408,Call Center,Senior Agent,Amsterdam,1.0,28,Female,3.4,False,2022-04-03,False,True,True,37058.0,Active,,,False,0,,True
+10409,Call Center,Team Lead,Amsterdam,1.0,30,Female,5.9,False,2019-10-17,False,False,False,33310.0,Active,,,False,0,,False
+10410,Call Center,Senior Agent,Amsterdam,0.6,26,Male,0.9,False,2024-10-06,False,False,False,32896.0,Active,,,False,0,,False
+10411,Call Center,Team Lead,Rotterdam,0.6,26,Female,1.2,False,2024-06-22,False,False,False,34186.0,Active,,,False,1,2025-04-17,True
+10412,Call Center,Team Lead,Utrecht,1.0,26,Male,4.3,True,2021-06-14,False,False,False,47119.0,Active,,,False,0,,True
+10413,Call Center,Agent,The Hague,1.0,29,Male,0.7,False,2024-12-31,False,False,False,33849.0,Active,,,False,0,,False
+10414,Call Center,Team Lead,Amsterdam,1.0,30,Male,3.8,False,2021-10-09,False,False,False,37898.0,Active,,,False,0,,True
+10415,Call Center,Team Lead,Rotterdam,1.0,34,Male,5.4,False,2020-05-12,False,False,False,33627.0,Active,,,False,1,2025-01-23,False
+10416,Call Center,Team Lead,Amsterdam,0.6,27,Female,4.2,True,2021-04-07,False,False,False,38062.0,Active,,,False,0,,True
+10417,Call Center,Team Lead,Amsterdam,0.6,34,Male,2.5,True,2023-03-28,False,False,False,40315.0,Left,2025-05-11,Voluntary,False,0,,True
+10418,Call Center,Senior Agent,Amsterdam,1.0,35,Male,1.3,False,2024-03-18,False,True,True,38242.0,Active,,,False,0,,True
+10419,Call Center,Senior Agent,Utrecht,1.0,29,Male,3.1,False,2022-08-17,False,False,False,39867.0,Active,,,False,1,2024-12-03,True
+10420,Call Center,Agent,Amsterdam,1.0,27,Female,1.8,False,2023-10-25,False,False,False,48251.0,Active,,,False,1,2025-06-09,True
+10421,Call Center,Senior Agent,Utrecht,0.6,33,Female,7.2,False,2018-04-09,False,False,False,39002.0,Active,,,False,0,,True
+10422,Call Center,Senior Agent,Amsterdam,1.0,31,Male,2.1,False,2023-06-22,False,False,False,38470.0,Active,,,False,0,,True
+10423,Call Center,Team Lead,The Hague,1.0,33,Male,1.5,False,2024-01-13,False,False,False,33927.0,Active,,,False,0,,False
+10424,Call Center,Team Lead,Utrecht,1.0,41,Male,7.0,True,2018-07-11,False,False,False,40325.0,Active,,,False,0,,True
+10425,Call Center,Team Lead,The Hague,1.0,32,Female,10.7,False,2014-12-02,False,False,False,38856.0,Active,,,False,0,,True
+10426,Call Center,Agent,The Hague,1.0,28,Female,1.0,False,2024-07-19,False,False,False,29034.0,Active,,,False,0,,False
+10427,Call Center,Team Lead,The Hague,1.0,27,Male,4.9,True,2020-08-26,True,False,False,40126.0,Active,,,False,0,,True
+10428,Call Center,Agent,The Hague,0.6,27,Female,1.0,False,2024-08-03,False,False,False,33408.0,Active,,,False,0,,False
+10429,Call Center,Team Lead,Utrecht,0.6,23,Male,2.1,False,2023-06-16,False,False,False,34215.0,Left,2025-07-20,Retirement,False,0,,False
+10430,Call Center,Team Lead,Amsterdam,0.8,38,Female,9.0,False,2016-08-02,False,False,False,43686.0,Active,,,False,0,,True
+10431,Call Center,Team Lead,Amsterdam,1.0,20,Male,0.5,False,2025-03-30,False,False,False,32334.0,Active,,,False,0,,False
+10432,Call Center,Team Lead,Amsterdam,1.0,35,Male,9.5,True,2016-01-20,False,False,False,51695.0,Active,,,False,0,,True
+10433,Call Center,Team Lead,Rotterdam,1.0,27,Male,7.7,True,2017-11-04,False,False,False,42128.0,Left,2025-03-15,Retirement,False,1,2024-11-22,True
+10434,Call Center,Team Lead,Rotterdam,1.0,29,Male,4.0,False,2021-08-16,False,False,False,39719.0,Active,,,False,0,,True
+10435,Call Center,Senior Agent,The Hague,0.6,27,Female,2.2,False,2023-07-20,False,False,False,29160.0,Active,,,False,0,,False
+10436,Call Center,Senior Agent,The Hague,1.0,41,Male,2.8,False,2022-09-25,False,False,False,35362.0,Active,,,False,0,,True
+10437,Call Center,Senior Agent,Rotterdam,1.0,32,Female,4.0,False,2021-08-26,False,False,False,30589.0,Active,,,False,0,,False
+10438,Call Center,Team Lead,Rotterdam,0.6,37,Female,6.6,False,2019-02-13,False,True,True,38950.0,Active,,,False,0,,True
+10439,Call Center,Team Lead,The Hague,0.6,40,Male,4.7,False,2020-11-09,False,False,False,42257.0,Left,2025-07-14,Voluntary,False,0,,True
+10440,Call Center,Senior Agent,Amsterdam,1.0,33,Male,6.0,False,2019-08-04,False,False,False,36622.0,Active,,,False,1,2021-09-20,True
+10441,Call Center,Senior Agent,Utrecht,1.0,25,Male,1.7,False,2023-12-04,False,False,False,30668.0,Active,,,False,0,,False
+10442,Call Center,Agent,Amsterdam,1.0,31,Female,1.4,False,2024-03-26,False,True,False,35550.0,Active,,,False,0,,True
+10443,Call Center,Agent,Utrecht,1.0,28,Male,2.6,False,2023-02-08,True,True,False,33818.0,Active,,,False,1,2025-01-06,False
+10444,Call Center,Team Lead,Amsterdam,1.0,29,Male,3.2,True,2022-05-05,False,False,False,52544.0,Active,,,False,0,,True
+10445,Call Center,Senior Agent,The Hague,1.0,31,Male,5.8,False,2019-12-17,False,False,False,38439.0,Active,,,False,0,,True
+10446,Call Center,Agent,Rotterdam,0.6,31,Female,1.8,False,2023-11-12,False,False,False,42125.0,Active,,,False,0,,True
+10447,Call Center,Senior Agent,Amsterdam,1.0,34,Male,3.5,False,2022-03-17,True,False,False,36955.0,Active,,,False,0,,True
+10448,Call Center,Team Lead,Amsterdam,1.0,35,Male,2.5,False,2023-03-16,True,False,False,37508.0,Left,2025-08-03,Voluntary,False,1,2024-03-27,True
+10449,Call Center,Team Lead,Rotterdam,1.0,31,Male,4.1,False,2021-08-09,False,True,False,32368.0,Left,2025-05-24,Voluntary,False,0,,False
+10450,Call Center,Team Lead,The Hague,1.0,34,Male,4.7,False,2020-10-21,False,False,False,42567.0,Active,,,False,0,,True
+10451,Call Center,Senior Agent,Utrecht,0.8,29,Female,3.3,False,2022-03-12,False,False,False,44648.0,Active,,,False,0,,True
+10452,Call Center,Senior Agent,Rotterdam,1.0,40,Male,15.3,False,2010-03-25,False,False,False,32866.0,Active,,,False,0,,False
+10453,Call Center,Team Lead,Amsterdam,1.0,29,Female,4.4,True,2021-03-31,False,False,False,40317.0,Active,,,False,2,2022-09-22,True
+10454,Call Center,Senior Agent,Rotterdam,1.0,39,Female,9.0,False,2016-08-17,False,False,False,40128.0,Active,,,False,0,,True
+10455,Call Center,Senior Agent,Utrecht,0.8,23,Male,0.2,False,2025-06-18,False,False,False,34594.0,Left,2025-07-13,Voluntary,False,0,,True
+10456,Call Center,Agent,Utrecht,1.0,30,Female,4.2,False,2021-05-11,False,False,False,35381.0,Active,,,False,1,2025-08-11,True
+10457,Call Center,Senior Agent,Amsterdam,0.8,30,Male,5.3,False,2020-04-16,False,False,False,43134.0,Active,,,False,1,2021-12-29,True
+10458,Call Center,Agent,Utrecht,1.0,34,Male,1.4,False,2024-03-03,False,False,False,38245.0,Active,,,False,1,2024-10-10,True
+10459,Call Center,Senior Agent,Utrecht,1.0,37,Female,1.5,False,2024-04-09,False,False,False,44840.0,Active,,,False,0,,True
+10460,Call Center,Senior Agent,The Hague,1.0,25,Male,0.7,False,2025-01-29,False,False,False,40701.0,Left,2024-09-04,Voluntary,False,0,,True
+10461,Call Center,Senior Agent,The Hague,0.6,25,Female,3.1,False,2022-06-11,False,False,False,30969.0,Active,,,False,0,,False
+10462,Call Center,Senior Agent,Utrecht,0.6,24,Male,2.0,False,2023-08-25,False,False,False,34453.0,Left,2025-01-06,Retirement,False,0,,True
+10463,Call Center,Team Lead,Utrecht,1.0,40,Female,7.8,False,2017-09-01,False,True,True,37265.0,Active,,,False,0,,True
+10464,Call Center,Team Lead,Amsterdam,1.0,34,Female,0.8,False,2024-09-29,False,False,False,30372.0,Active,,,False,0,,False
+10465,Call Center,Senior Agent,Utrecht,1.0,25,Male,2.6,False,2023-02-08,False,False,False,31808.0,Active,,,False,0,,False
+10466,Call Center,Team Lead,Rotterdam,1.0,29,Male,1.8,False,2023-10-14,False,False,False,40795.0,Active,,,False,0,,True
+10467,Call Center,Agent,Amsterdam,1.0,39,Female,10.1,False,2015-05-23,False,False,False,30860.0,Active,,,False,0,,False
+10468,Call Center,Team Lead,Rotterdam,0.6,30,Female,2.3,False,2023-04-06,False,False,False,35419.0,Active,,,False,0,,True
+10469,Call Center,Agent,Utrecht,0.6,30,Male,1.3,False,2024-05-23,False,False,False,38525.0,Active,,,False,0,,True
+10470,Call Center,Agent,Amsterdam,1.0,27,Female,3.4,False,2022-03-30,False,False,False,34183.0,Active,,,False,0,,True
+10471,Call Center,Agent,Rotterdam,1.0,26,Male,3.3,False,2022-05-06,False,False,False,37142.0,Active,,,False,0,,True
+10472,Call Center,Team Lead,Rotterdam,0.8,39,Male,4.2,False,2021-04-07,False,False,False,32946.0,Active,,,False,1,2022-12-04,False
+10473,Call Center,Senior Agent,Amsterdam,0.8,42,Female,2.4,False,2023-05-06,False,False,False,40722.0,Active,,,False,0,,True
+10474,Call Center,Senior Agent,Amsterdam,1.0,26,Female,2.2,False,2023-04-17,False,False,False,43413.0,Active,,,False,0,,True
+10475,Call Center,Team Lead,Utrecht,1.0,40,Female,10.3,False,2015-04-17,False,False,False,36394.0,Active,,,False,0,,True
+10476,Call Center,Agent,Utrecht,1.0,29,Female,1.8,False,2023-11-28,False,False,False,46169.0,Active,,,False,0,,True
+10477,Call Center,Team Lead,Amsterdam,1.0,35,Male,6.6,False,2018-12-03,False,True,True,33768.0,Active,,,False,0,,False
+10478,Call Center,Team Lead,The Hague,1.0,40,Female,9.5,True,2016-01-04,False,False,False,35582.0,Active,,,False,1,2023-11-18,True
+10479,Call Center,Team Lead,Utrecht,1.0,31,Male,2.6,False,2022-11-29,False,False,False,37375.0,Active,,,False,0,,True
+10480,Call Center,Team Lead,Rotterdam,1.0,30,Male,4.7,False,2021-01-12,False,False,False,31534.0,Active,,,False,0,,False
+10481,Call Center,Senior Agent,Utrecht,1.0,37,Male,5.3,False,2020-03-04,False,False,False,38005.0,Active,,,False,1,2021-08-16,True
+10482,Call Center,Senior Agent,The Hague,1.0,25,Male,4.7,False,2020-12-22,False,False,False,37470.0,Active,,,False,0,,True
+10483,Call Center,Agent,Rotterdam,1.0,39,Male,2.3,False,2023-03-09,True,False,False,36283.0,Active,,,False,1,2024-06-19,True
+10484,Call Center,Agent,Amsterdam,0.8,33,Male,1.8,False,2023-09-04,False,False,False,33978.0,Active,,,False,0,,False
+10485,Call Center,Senior Agent,The Hague,0.8,29,Male,6.7,False,2019-01-08,False,False,False,41562.0,Left,2024-12-07,Voluntary,False,0,,True
+10486,Call Center,Agent,Rotterdam,1.0,28,Male,5.0,False,2020-09-09,False,False,False,32966.0,Active,,,False,0,,False
+10487,Call Center,Senior Agent,Amsterdam,1.0,24,Male,2.0,False,2023-08-31,False,False,False,39632.0,Active,,,False,0,,True
+10488,Call Center,Team Lead,Rotterdam,0.6,29,Male,3.7,False,2021-10-13,False,False,False,38613.0,Active,,,False,0,,True
+10489,Call Center,Agent,Rotterdam,1.0,30,Male,4.4,False,2021-04-18,True,False,False,34580.0,Active,,,False,0,,True
+10490,Call Center,Senior Agent,The Hague,1.0,26,Female,4.7,False,2021-01-30,False,False,False,36163.0,Active,,,False,0,,True
+10491,Call Center,Team Lead,Rotterdam,1.0,32,Female,2.1,False,2023-06-22,False,False,False,36110.0,Active,,,False,0,,True
+10492,Call Center,Team Lead,Amsterdam,1.0,35,Female,8.6,True,2016-12-22,False,False,False,45195.0,Active,,,False,0,,True
+10493,Call Center,Senior Agent,Utrecht,1.0,31,Male,1.9,False,2023-08-29,False,False,False,29591.0,Active,,,False,0,,False
+10494,Call Center,Senior Agent,Rotterdam,0.6,36,Female,6.7,False,2019-01-09,False,False,False,42893.0,Active,,,False,0,,True
+10495,Call Center,Team Lead,Amsterdam,1.0,27,Male,0.0,False,2025-07-07,False,False,False,29862.0,Active,,,False,0,,False
+10496,Call Center,Team Lead,Rotterdam,1.0,38,Male,2.5,False,2023-03-29,False,True,False,39436.0,Active,,,False,0,,True
+10497,Call Center,Senior Agent,Utrecht,0.6,33,Male,7.8,False,2017-10-09,False,False,False,39932.0,Active,,,False,0,,True
+10498,Call Center,Senior Agent,Amsterdam,1.0,41,Female,6.6,False,2019-01-26,False,False,False,37726.0,Active,,,False,0,,True
+10499,Call Center,Team Lead,Rotterdam,1.0,46,Male,2.4,False,2023-04-27,False,False,False,33020.0,Active,,,False,0,,False
+10500,Call Center,Team Lead,Amsterdam,1.0,29,Male,2.2,False,2023-07-13,False,False,False,39496.0,Left,2025-03-13,Voluntary,False,0,,True
+10501,Call Center,Team Lead,Amsterdam,1.0,29,Male,3.6,True,2021-11-12,False,False,False,41027.0,Active,,,False,0,,True
+10502,Call Center,Senior Agent,Rotterdam,1.0,31,Female,2.0,False,2023-08-19,False,False,False,35330.0,Active,,,False,0,,True
+10503,Call Center,Team Lead,Amsterdam,1.0,36,Female,11.0,False,2014-08-16,False,False,False,31202.0,Left,2025-06-10,Voluntary,False,1,2015-10-16,False
+10504,Call Center,Senior Agent,Utrecht,1.0,40,Male,3.7,False,2021-10-06,False,False,False,38404.0,Active,,,False,2,2023-04-08,True
+10505,Call Center,Senior Agent,Amsterdam,1.0,28,Male,1.2,False,2024-07-06,False,False,False,44882.0,Left,2024-09-18,Involuntary,False,0,,True
+10506,Call Center,Senior Agent,Utrecht,1.0,34,Male,0.6,False,2025-01-04,False,False,False,44008.0,Active,,,False,0,,True
+10507,Call Center,Senior Agent,Amsterdam,1.0,31,Female,9.3,False,2016-05-17,False,False,False,34928.0,Active,,,False,1,2017-06-22,True
+10508,Call Center,Agent,The Hague,1.0,36,Male,5.6,False,2019-12-02,False,False,False,40792.0,Active,,,False,0,,True
+10509,Call Center,Agent,Rotterdam,1.0,41,Female,12.8,False,2012-11-17,False,False,False,36945.0,Active,,,False,1,2023-01-28,True
+10510,Call Center,Team Lead,Utrecht,1.0,31,Male,3.7,False,2021-12-28,False,False,False,45840.0,Active,,,False,1,2024-10-02,True
+10511,Call Center,Agent,Amsterdam,0.6,22,Female,2.0,False,2023-08-11,False,False,False,35123.0,Active,,,False,1,2025-03-28,True
+10512,Call Center,Senior Agent,Rotterdam,1.0,36,Male,3.0,False,2022-09-29,False,False,False,36141.0,Active,,,False,1,2023-08-06,True
+10513,Call Center,Agent,Amsterdam,1.0,27,Male,0.0,False,2025-09-05,False,False,False,34454.0,Active,,,False,0,,True
+10514,Call Center,Team Lead,The Hague,0.8,31,Male,5.4,False,2020-04-15,False,False,False,41097.0,Active,,,False,1,2022-11-23,True
+10515,Call Center,Team Lead,Rotterdam,1.0,37,Male,2.6,False,2022-12-16,False,False,False,43015.0,Left,2025-03-15,Voluntary,False,1,2023-11-13,True
+10516,Call Center,Team Lead,Rotterdam,1.0,34,Male,2.9,False,2022-09-22,False,False,False,36252.0,Left,2025-03-25,Voluntary,False,0,,True
+10517,Call Center,Agent,Utrecht,0.8,31,Female,4.8,False,2020-12-19,False,False,False,32996.0,Left,2024-09-10,Voluntary,False,1,2021-04-05,False
+10518,Call Center,Agent,Rotterdam,0.8,29,Male,0.8,False,2024-10-11,False,False,False,42517.0,Active,,,False,0,,True
+10519,Call Center,Agent,Utrecht,1.0,20,Female,1.4,False,2024-03-08,False,False,False,34125.0,Active,,,False,0,,True
+10520,Call Center,Team Lead,Utrecht,1.0,36,Female,3.4,False,2022-03-23,False,False,False,45555.0,Left,2025-07-28,Voluntary,False,0,,True
+10521,Call Center,Senior Agent,Utrecht,1.0,30,Male,6.8,False,2018-10-10,False,False,False,32227.0,Active,,,False,0,,False
+10522,Call Center,Senior Agent,Rotterdam,0.8,41,Female,6.4,False,2019-05-08,False,False,False,34279.0,Active,,,False,0,,True
+10523,Call Center,Team Lead,Rotterdam,1.0,34,Female,2.2,False,2023-08-02,False,False,False,29982.0,Active,,,False,0,,False
+10524,Call Center,Team Lead,Amsterdam,1.0,29,Male,0.9,False,2024-08-07,False,True,True,35738.0,Active,,,False,0,,True
+10525,Call Center,Team Lead,Utrecht,0.8,38,Female,4.0,False,2021-06-30,False,False,False,37403.0,Active,,,False,0,,True
+10526,Call Center,Team Lead,Rotterdam,1.0,39,Male,9.4,False,2016-03-13,False,False,False,40341.0,Active,,,False,0,,True
+10527,Call Center,Senior Agent,Rotterdam,0.8,31,Male,1.8,False,2023-11-15,False,False,False,39815.0,Left,2024-09-30,Voluntary,False,0,,True
+10528,Call Center,Agent,The Hague,1.0,39,Female,4.5,False,2021-03-06,False,False,False,46583.0,Active,,,False,0,,True
+10529,Call Center,Agent,Amsterdam,1.0,29,Male,5.7,False,2019-11-19,False,False,False,31689.0,Left,2024-11-07,Retirement,False,0,,False
+10530,Call Center,Team Lead,The Hague,1.0,33,Male,2.9,True,2022-09-26,False,False,False,47405.0,Active,,,False,0,,True
+10531,Call Center,Agent,The Hague,0.8,35,Male,2.2,False,2023-05-15,False,False,False,31236.0,Left,2025-06-14,Involuntary,False,0,,False
+10532,Call Center,Senior Agent,The Hague,1.0,37,Female,3.5,False,2022-01-04,False,True,False,37647.0,Active,,,False,0,,True
+10533,Call Center,Agent,Utrecht,1.0,36,Female,1.8,False,2023-10-01,False,False,False,41926.0,Active,,,False,0,,True
+10534,Call Center,Senior Agent,Rotterdam,1.0,30,Male,1.9,False,2023-09-16,False,False,False,35253.0,Left,2024-10-13,Retirement,False,2,2024-09-12,True
+10535,Call Center,Agent,Amsterdam,0.8,39,Female,7.7,False,2018-01-05,False,False,False,34244.0,Active,,,False,1,2024-11-14,True
+10536,Call Center,Team Lead,Utrecht,0.6,31,Female,1.5,False,2023-12-22,False,False,False,40862.0,Active,,,False,1,2024-09-07,True
+10537,Call Center,Team Lead,Amsterdam,1.0,29,Male,2.5,False,2023-04-04,False,False,False,47350.0,Active,,,False,0,,True
+10538,Call Center,Agent,Amsterdam,1.0,29,Male,2.7,False,2023-01-15,True,True,False,43486.0,Active,,,False,0,,True
+10539,Call Center,Senior Agent,Utrecht,0.6,44,Female,8.6,False,2017-03-05,False,False,False,33801.0,Active,,,False,0,,False
+10540,Call Center,Agent,Amsterdam,1.0,28,Female,4.7,False,2021-01-25,False,False,False,37901.0,Active,,,False,0,,True
+10541,Call Center,Agent,The Hague,1.0,40,Female,5.8,False,2019-10-07,False,False,False,42582.0,Active,,,False,0,,True
+10542,Call Center,Team Lead,Utrecht,1.0,25,Male,2.2,False,2023-04-17,False,False,False,27142.0,Active,,,False,0,,False
+10543,Call Center,Senior Agent,Utrecht,0.8,35,Male,6.1,False,2019-07-19,False,False,False,40670.0,Left,2025-01-26,Voluntary,False,1,2020-08-01,True
+10544,Call Center,Team Lead,Utrecht,1.0,34,Male,6.4,False,2019-02-09,False,True,False,35292.0,Left,2024-12-17,Voluntary,False,0,,True
+10545,Call Center,Agent,The Hague,1.0,42,Male,4.3,False,2021-04-04,False,False,False,44405.0,Active,,,False,0,,True
+10546,Call Center,Team Lead,Utrecht,1.0,28,Male,3.4,False,2022-03-02,False,False,False,44752.0,Active,,,False,0,,True
+10547,Call Center,Senior Agent,Rotterdam,1.0,26,Female,3.4,False,2022-03-23,False,False,False,31438.0,Left,2024-12-14,Voluntary,False,0,,False
+10548,Call Center,Agent,Amsterdam,1.0,31,Male,3.3,False,2022-04-03,False,False,False,38490.0,Active,,,False,0,,True
+10549,Call Center,Agent,The Hague,1.0,42,Female,6.9,False,2018-11-21,False,False,False,39968.0,Left,2025-08-13,Voluntary,False,0,,True
+10550,Call Center,Team Lead,Utrecht,1.0,27,Male,1.1,False,2024-07-21,False,False,False,36378.0,Active,,,False,0,,True
+10551,Call Center,Senior Agent,Rotterdam,1.0,20,Female,0.0,False,2025-06-23,False,True,True,35215.0,Active,,,False,0,,True
+10552,Call Center,Senior Agent,Amsterdam,1.0,32,Male,5.2,False,2020-05-21,False,False,False,37613.0,Active,,,False,0,,True
+10553,Call Center,Senior Agent,Rotterdam,0.8,38,Male,7.0,False,2018-09-16,True,False,False,46685.0,Active,,,False,0,,True
+10554,Call Center,Team Lead,Amsterdam,0.8,26,Male,4.0,True,2021-09-13,False,False,False,42898.0,Active,,,False,1,2023-02-24,True
+10555,Call Center,Senior Agent,The Hague,0.8,37,Female,9.5,False,2016-01-31,False,False,False,39568.0,Active,,,False,0,,True
+10556,Call Center,Agent,The Hague,1.0,26,Female,2.8,False,2022-10-09,False,False,False,33324.0,Active,,,False,0,,False
+10557,Call Center,Team Lead,Amsterdam,1.0,31,Male,6.1,True,2019-08-31,False,False,False,39324.0,Active,,,False,0,,True
+10558,Call Center,Senior Agent,Utrecht,1.0,37,Male,3.1,False,2022-08-08,False,False,False,40258.0,Active,,,False,0,,True
+10559,Call Center,Team Lead,Amsterdam,0.6,25,Female,2.0,True,2023-10-09,False,False,False,39075.0,Active,,,False,0,,True
+10560,Call Center,Agent,Utrecht,0.8,33,Male,7.5,False,2018-03-18,False,False,False,38871.0,Active,,,False,0,,True
+10561,Call Center,Agent,Amsterdam,0.8,39,Male,13.0,False,2012-08-31,False,False,False,40575.0,Active,,,False,1,2024-05-14,True
+10562,Call Center,Senior Agent,Utrecht,1.0,35,Male,1.8,False,2023-09-09,False,False,False,37825.0,Active,,,False,0,,True
+10563,Call Center,Senior Agent,Rotterdam,1.0,28,Female,2.5,False,2023-03-01,False,False,False,31562.0,Active,,,False,0,,False
+10564,Call Center,Agent,Amsterdam,1.0,41,Male,6.9,False,2018-09-06,False,False,False,30107.0,Left,2024-11-12,Involuntary,False,1,2020-10-13,False
+10565,Call Center,Team Lead,Rotterdam,1.0,36,Male,5.0,False,2020-07-16,False,False,False,45015.0,Active,,,False,0,,True
+10566,Call Center,Team Lead,Amsterdam,1.0,21,Female,0.3,False,2025-05-06,False,False,False,37082.0,Active,,,False,0,,True
+10567,Call Center,Team Lead,Rotterdam,0.6,37,Male,11.1,False,2014-05-28,False,False,False,34551.0,Left,2024-09-25,Voluntary,False,0,,True
+10568,Call Center,Agent,Amsterdam,1.0,29,Male,3.9,False,2021-09-03,False,False,False,39185.0,Active,,,False,0,,True
+10569,Call Center,Team Lead,Rotterdam,1.0,33,Male,2.7,True,2023-01-15,False,False,False,38714.0,Left,2025-05-24,Retirement,False,0,,True
+10570,Call Center,Agent,The Hague,1.0,38,Female,4.0,False,2021-07-27,False,False,False,31938.0,Left,2024-11-15,Retirement,False,0,,False
+10571,Call Center,Team Lead,Utrecht,0.6,29,Male,4.1,False,2021-06-12,True,False,False,35224.0,Active,,,False,0,,True
+10572,Call Center,Team Lead,The Hague,1.0,22,Male,0.0,True,2025-10-09,False,False,False,39380.0,Active,,,False,0,,True
+10573,Call Center,Agent,The Hague,1.0,41,Female,7.2,False,2018-04-20,False,False,False,30584.0,Active,,,False,1,2022-01-05,False
+10574,Call Center,Agent,Amsterdam,0.6,39,Male,8.0,False,2017-08-29,False,True,False,35545.0,Active,,,False,1,2019-07-08,True
+10575,Call Center,Agent,Amsterdam,1.0,31,Female,2.7,False,2022-11-22,False,False,False,37339.0,Active,,,False,0,,True
+10576,Call Center,Team Lead,Rotterdam,1.0,37,Male,3.2,False,2022-06-15,False,False,False,44007.0,Active,,,False,0,,True
+10577,Call Center,Senior Agent,The Hague,1.0,30,Male,5.4,False,2020-03-03,False,True,True,31041.0,Left,2024-11-10,Involuntary,False,0,,False
+10578,Call Center,Team Lead,The Hague,1.0,33,Male,3.9,False,2021-08-19,False,False,False,43478.0,Left,2025-05-24,Voluntary,False,1,2023-01-13,True
+10579,Call Center,Team Lead,Amsterdam,0.8,31,Male,4.3,False,2021-06-17,False,False,False,39659.0,Active,,,False,0,,True
+10580,Call Center,Team Lead,Rotterdam,0.8,30,Male,4.4,False,2021-04-30,True,True,False,36441.0,Left,2025-04-11,Voluntary,False,0,,True
+10581,Call Center,Agent,Amsterdam,1.0,34,Male,3.0,False,2022-08-23,False,False,False,44549.0,Active,,,False,0,,True
+10582,Call Center,Team Lead,Utrecht,1.0,25,Male,0.9,False,2024-07-26,False,True,False,42770.0,Active,,,False,0,,True
+10583,Call Center,Team Lead,Rotterdam,1.0,30,Female,4.9,True,2020-09-14,False,True,False,40795.0,Active,,,False,1,2024-06-11,True
+10584,Call Center,Team Lead,Amsterdam,1.0,34,Male,6.8,True,2018-09-13,False,False,False,53065.0,Active,,,False,1,2023-02-25,True
+10585,Call Center,Senior Agent,Rotterdam,1.0,43,Female,7.4,False,2018-02-13,False,False,False,42408.0,Active,,,False,1,2024-09-26,True
+10586,Call Center,Senior Agent,Utrecht,1.0,25,Male,1.9,False,2023-09-24,False,False,False,31196.0,Left,2024-10-18,Voluntary,False,0,,False
+10587,Call Center,Team Lead,Utrecht,1.0,35,Male,7.8,False,2017-11-23,False,False,False,30535.0,Active,,,False,0,,False
+10588,Call Center,Senior Agent,Amsterdam,0.8,36,Male,3.4,False,2022-05-20,False,False,False,39267.0,Left,2025-05-02,Voluntary,False,0,,True
+10589,Call Center,Senior Agent,The Hague,1.0,21,Male,1.1,False,2024-07-13,False,False,False,31456.0,Active,,,False,0,,False
+10590,Call Center,Team Lead,Rotterdam,1.0,34,Male,4.5,True,2021-01-19,False,True,True,38322.0,Active,,,False,0,,True
+10591,Call Center,Team Lead,Utrecht,1.0,37,Female,10.2,False,2015-06-13,True,False,False,31180.0,Active,,,False,1,2024-02-14,False
+10592,Call Center,Team Lead,Utrecht,0.8,36,Female,12.2,True,2013-06-10,False,True,True,35849.0,Active,,,False,0,,True
+10593,Call Center,Team Lead,Amsterdam,1.0,31,Female,1.8,False,2023-12-11,False,True,True,38355.0,Active,,,False,2,2025-03-15,True
+10594,Call Center,Team Lead,Amsterdam,1.0,34,Male,5.1,False,2020-08-02,False,True,True,34845.0,Active,,,False,0,,True
+10595,Call Center,Agent,Utrecht,1.0,33,Female,1.4,False,2024-02-22,True,False,False,42813.0,Active,,,False,0,,True
+10596,Call Center,Agent,Amsterdam,0.8,22,Male,2.1,False,2023-07-04,False,False,False,32585.0,Active,,,False,0,,False
+10597,Call Center,Team Lead,Utrecht,1.0,33,Male,5.7,False,2019-12-11,False,False,False,41025.0,Active,,,False,0,,True
+10598,Call Center,Agent,Utrecht,0.8,30,Female,4.3,False,2021-05-15,False,False,False,39416.0,Active,,,False,0,,True
+10599,Call Center,Senior Agent,Utrecht,0.6,28,Female,2.4,False,2023-03-08,False,True,True,43230.0,Left,2025-06-21,Voluntary,False,0,,True
+10600,IT,IT Manager,Rotterdam,1.0,31,Male,2.4,False,2023-04-15,True,True,True,80390.0,Left,2025-03-15,Voluntary,False,0,,True
+10601,IT,Data Analyst,Rotterdam,1.0,28,Female,2.3,False,2023-04-30,True,True,True,53337.0,Active,,,False,2,2023-12-26,False
+10602,IT,Data Analyst,Utrecht,0.8,34,Female,2.7,False,2023-02-02,True,True,True,62170.0,Active,,,False,0,,False
+10603,IT,IT Manager,Utrecht,1.0,24,Male,1.1,True,2024-09-04,True,False,False,96114.0,Active,,,False,0,,True
+10604,IT,Data Analyst,Rotterdam,0.8,41,Male,4.1,False,2021-07-09,True,False,False,85481.0,Active,,,False,1,2023-03-09,True
+10605,IT,Data Engineer,Utrecht,1.0,34,Male,7.1,False,2018-06-04,True,False,False,76710.0,Active,,,False,1,2018-11-16,True
+10606,IT,Data Engineer,Rotterdam,1.0,34,Female,4.2,False,2021-06-29,True,True,False,85631.0,Active,,,False,0,,True
+10607,IT,Data Analyst,The Hague,1.0,33,Female,3.5,False,2022-02-11,True,False,False,50485.0,Active,,,False,0,,False
+10608,IT,Software Engineer,Amsterdam,1.0,46,Male,8.0,False,2017-07-31,True,False,False,60228.0,Active,,,False,0,,False
+10609,IT,IT Manager,Utrecht,1.0,45,Male,7.2,False,2018-05-24,True,False,False,60874.0,Active,,,False,1,2021-05-31,False
+10610,IT,IT Manager,Rotterdam,1.0,43,Male,16.2,False,2009-05-05,False,False,False,64888.0,Active,,,False,0,,False
+10611,IT,Software Engineer,Amsterdam,1.0,33,Male,1.1,False,2024-08-16,True,False,False,84934.0,Active,,,False,1,2025-07-31,True
+10612,IT,Cybersecurity Analyst,Amsterdam,0.6,26,Male,2.0,False,2023-10-12,True,False,False,84022.0,Active,,,False,0,,True
+10613,IT,Data Engineer,Rotterdam,0.6,34,Female,6.4,False,2019-01-30,True,False,False,77086.0,Active,,,False,0,,True
+10614,IT,Cybersecurity Analyst,Amsterdam,1.0,36,Male,2.4,False,2023-03-06,True,False,False,52529.0,Active,,,False,1,2023-11-18,False
+10615,IT,Software Engineer,Amsterdam,0.6,40,Female,6.4,False,2019-02-24,True,False,False,80607.0,Left,2024-09-26,Voluntary,False,1,2023-10-31,True
+10616,IT,Cybersecurity Analyst,The Hague,1.0,36,Male,1.7,False,2023-11-27,True,False,False,94107.0,Active,,,False,1,2024-04-03,True
+10617,IT,Software Engineer,Utrecht,1.0,27,Female,2.7,False,2023-01-09,True,True,True,55631.0,Active,,,False,0,,False
+10618,IT,IT Manager,Utrecht,1.0,30,Male,2.7,False,2022-11-21,True,False,False,72763.0,Active,,,False,0,,True
+10619,IT,IT Manager,Utrecht,1.0,30,Female,3.2,False,2022-04-27,True,False,False,65176.0,Active,,,False,0,,False
+10620,IT,Cybersecurity Analyst,The Hague,1.0,38,Male,4.4,False,2021-01-24,True,False,False,86970.0,Active,,,False,0,,True
+10621,IT,Cybersecurity Analyst,Rotterdam,0.6,38,Male,10.1,False,2015-09-05,True,False,False,83843.0,Active,,,False,0,,True
+10622,IT,Data Engineer,Amsterdam,1.0,39,Male,6.0,False,2019-07-03,True,False,False,85854.0,Active,,,False,0,,True
+10623,IT,IT Manager,The Hague,1.0,36,Female,7.4,False,2018-05-11,True,False,False,69617.0,Active,,,False,0,,True
+10624,IT,Data Engineer,Utrecht,0.8,22,Male,0.7,False,2024-11-26,True,False,False,69412.0,Active,,,False,1,2025-04-23,True
+10625,IT,IT Manager,Rotterdam,1.0,22,Male,3.0,True,2022-06-24,True,False,False,97786.0,Active,,,False,0,,True
+10626,IT,IT Manager,Rotterdam,1.0,33,Female,4.3,True,2021-05-17,True,True,False,77688.0,Active,,,False,0,,True
+10627,IT,IT Manager,Rotterdam,1.0,35,Female,8.4,False,2017-03-28,True,False,False,54360.0,Active,,,False,2,2023-12-26,False
+10628,IT,Software Engineer,The Hague,1.0,43,Male,5.8,False,2019-11-23,False,False,False,69730.0,Active,,,False,1,2022-08-16,True
+10629,IT,Data Engineer,Amsterdam,1.0,35,Female,6.1,False,2019-05-14,True,False,False,67343.0,Left,2025-02-27,Voluntary,False,0,,True
+10630,IT,Data Engineer,The Hague,1.0,27,Male,7.4,False,2018-05-10,True,False,False,64010.0,Active,,,False,1,2021-02-02,False
+10631,IT,Data Analyst,The Hague,1.0,39,Female,2.3,False,2023-04-08,True,False,False,60360.0,Active,,,False,0,,False
+10632,IT,IT Manager,Rotterdam,0.6,34,Female,4.4,False,2021-03-12,True,True,False,67873.0,Active,,,False,1,2021-11-06,True
+10633,IT,IT Manager,Rotterdam,0.8,31,Male,4.1,False,2021-06-06,True,True,True,72012.0,Active,,,False,0,,True
+10634,IT,Data Engineer,Rotterdam,1.0,23,Female,3.6,False,2022-02-12,True,False,False,66023.0,Active,,,False,0,,True
+10635,IT,Software Engineer,Amsterdam,1.0,35,Male,6.0,False,2019-07-03,True,True,True,58944.0,Active,,,False,0,,False
+10636,IT,IT Manager,Amsterdam,1.0,36,Male,1.9,False,2023-10-16,True,False,False,75594.0,Active,,,False,1,2025-05-17,True
+10637,IT,Data Engineer,Utrecht,0.6,27,Female,0.1,False,2025-06-14,True,False,False,73437.0,Active,,,False,0,,True
+10638,IT,Data Analyst,Rotterdam,1.0,39,Female,1.0,False,2024-08-05,True,False,False,67290.0,Active,,,False,0,,True
+10639,IT,Cybersecurity Analyst,Amsterdam,1.0,39,Male,7.0,False,2018-08-02,True,False,False,79417.0,Active,,,False,2,2022-12-16,True
+10640,IT,IT Manager,Amsterdam,0.8,34,Male,1.9,False,2023-10-28,True,False,False,84193.0,Left,2025-06-11,Retirement,False,0,,True
+10641,IT,Cybersecurity Analyst,The Hague,0.6,34,Male,5.9,False,2019-09-17,True,False,False,54092.0,Active,,,False,0,,False
+10642,IT,IT Manager,Rotterdam,1.0,41,Female,7.9,True,2017-08-25,True,False,False,91199.0,Active,,,False,0,,True
+10643,IT,Data Analyst,The Hague,1.0,37,Female,7.1,False,2018-09-07,True,False,False,63689.0,Left,2024-10-13,Voluntary,False,0,,False
+10644,IT,IT Manager,Amsterdam,1.0,29,Male,0.2,True,2025-04-19,True,False,False,64389.0,Active,,,False,0,,False
+10645,IT,Cybersecurity Analyst,Rotterdam,1.0,33,Male,4.2,False,2021-04-26,True,False,False,71024.0,Active,,,False,1,2025-05-21,True
+10646,IT,Cybersecurity Analyst,Amsterdam,1.0,38,Female,3.5,False,2022-01-28,True,True,True,81186.0,Active,,,False,2,2024-12-22,True
+10647,IT,Data Engineer,Rotterdam,1.0,22,Female,0.0,False,2025-07-11,True,False,False,62886.0,Active,,,False,1,2025-10-19,False
+10648,IT,Cybersecurity Analyst,Rotterdam,1.0,27,Female,3.4,False,2022-02-19,True,False,False,59569.0,Active,,,False,0,,False
+10649,IT,IT Manager,Amsterdam,1.0,39,Male,6.2,True,2019-05-23,True,False,False,108524.0,Active,,,False,1,2022-12-12,True
+10650,IT,Cybersecurity Analyst,Rotterdam,1.0,42,Male,5.4,False,2020-02-28,True,False,False,83898.0,Active,,,False,1,2023-11-28,True
+10651,IT,IT Manager,Rotterdam,1.0,41,Female,3.6,True,2021-11-13,False,False,False,72400.0,Active,,,False,1,2024-11-26,True
+10652,IT,Software Engineer,Utrecht,1.0,40,Female,7.7,False,2018-01-19,True,False,False,80515.0,Active,,,False,2,2023-09-14,True
+10653,IT,Data Engineer,Utrecht,0.8,35,Male,2.2,False,2023-04-15,True,False,False,57898.0,Active,,,False,0,,False
+10654,IT,Data Analyst,Amsterdam,1.0,27,Female,2.6,False,2023-02-20,True,True,False,61231.0,Active,,,False,0,,False
+10655,IT,Software Engineer,Rotterdam,1.0,33,Male,1.0,False,2024-09-16,True,False,False,67571.0,Active,,,False,1,2025-01-19,True
+10656,IT,Cybersecurity Analyst,The Hague,1.0,22,Female,2.5,False,2022-12-22,True,False,False,81085.0,Active,,,False,0,,True
+10657,IT,Cybersecurity Analyst,The Hague,1.0,43,Male,10.9,False,2014-10-04,True,False,False,74998.0,Active,,,False,2,2020-01-08,True
+10658,IT,IT Manager,The Hague,1.0,28,Male,1.9,True,2023-11-04,True,True,False,59533.0,Active,,,False,0,,False
+10659,IT,Cybersecurity Analyst,Rotterdam,0.8,30,Male,3.6,False,2022-01-12,True,False,False,75869.0,Left,2025-02-21,Retirement,False,1,2024-06-14,True
+10660,IT,IT Manager,Utrecht,1.0,41,Male,7.7,False,2017-12-22,True,False,False,59634.0,Active,,,False,0,,False
+10661,IT,Data Engineer,Rotterdam,0.8,23,Male,2.2,False,2023-07-19,True,False,False,80901.0,Active,,,False,1,2025-07-21,True
+10662,IT,Cybersecurity Analyst,Amsterdam,1.0,26,Female,4.0,False,2021-08-12,True,False,False,70566.0,Active,,,False,0,,True
+10663,IT,Data Engineer,Utrecht,1.0,36,Male,9.4,False,2016-02-02,True,False,False,74112.0,Active,,,False,0,,True
+10664,IT,Software Engineer,Utrecht,0.6,38,Male,0.4,False,2025-05-20,True,True,False,71304.0,Active,,,False,1,2025-08-28,True
+10665,IT,Software Engineer,Amsterdam,1.0,33,Male,3.0,False,2022-08-21,True,False,False,52967.0,Active,,,False,0,,False
+10666,IT,Software Engineer,Amsterdam,1.0,34,Male,6.1,False,2019-06-24,True,False,False,81784.0,Active,,,False,1,2022-06-30,True
+10667,IT,Data Engineer,Utrecht,1.0,43,Male,11.3,False,2014-03-20,True,False,False,52713.0,Active,,,False,1,2021-06-29,False
+10668,IT,Cybersecurity Analyst,Amsterdam,1.0,38,Male,3.9,False,2021-10-25,True,False,False,47280.0,Active,,,False,0,,False
+10669,IT,IT Manager,Amsterdam,0.8,38,Female,1.5,False,2024-02-11,True,False,False,50056.0,Active,,,False,0,,False
+10670,IT,Data Engineer,Rotterdam,0.8,39,Male,12.8,False,2012-12-25,True,True,True,68730.0,Active,,,False,2,2023-05-24,True
+10671,IT,IT Manager,Amsterdam,0.8,32,Female,3.9,False,2021-08-08,True,False,False,69306.0,Active,,,False,0,,True
+10672,IT,Cybersecurity Analyst,The Hague,1.0,49,Male,4.0,False,2021-09-24,True,False,False,83015.0,Active,,,False,0,,True
+10673,IT,Cybersecurity Analyst,Rotterdam,1.0,22,Male,0.4,False,2025-01-25,True,False,False,70346.0,Active,,,False,0,,True
+10674,IT,Data Engineer,Rotterdam,1.0,44,Male,6.5,False,2019-01-08,True,False,False,57789.0,Active,,,False,1,2025-05-25,False
+10675,IT,Data Analyst,The Hague,0.8,40,Female,7.7,False,2017-10-17,True,False,False,93476.0,Active,,,False,0,,True
+10676,IT,IT Manager,Rotterdam,1.0,36,Female,4.1,True,2021-08-28,True,True,True,96164.0,Active,,,False,0,,True
+10677,IT,Software Engineer,Rotterdam,1.0,35,Female,5.7,False,2019-12-01,True,False,False,76378.0,Active,,,False,1,2024-03-16,True
+10678,IT,IT Manager,Utrecht,0.8,33,Male,4.6,True,2021-02-24,True,True,False,97292.0,Active,,,False,0,,True
+10679,IT,Cybersecurity Analyst,Rotterdam,1.0,42,Female,6.6,False,2018-11-13,True,True,False,78250.0,Active,,,False,0,,True
+10680,IT,Cybersecurity Analyst,Amsterdam,1.0,34,Male,3.5,False,2022-01-02,True,False,False,58716.0,Left,2024-08-26,Voluntary,False,1,2022-07-07,False
+10681,IT,Data Engineer,Utrecht,0.8,29,Male,1.2,False,2024-05-09,True,False,False,81635.0,Left,2024-09-06,Voluntary,False,1,2024-11-16,True
+10682,IT,Data Analyst,Utrecht,1.0,40,Female,6.0,False,2019-08-14,True,False,False,82753.0,Active,,,False,0,,True
+10683,IT,Software Engineer,Utrecht,1.0,45,Male,2.6,False,2023-02-07,True,False,False,85532.0,Active,,,False,0,,True
+10684,IT,IT Manager,The Hague,1.0,22,Female,1.7,False,2023-11-15,False,False,False,67554.0,Active,,,False,1,2024-07-27,True
+10685,IT,Data Analyst,Utrecht,1.0,50,Male,23.6,False,2002-01-24,True,True,True,61167.0,Left,2024-09-01,Voluntary,False,1,2008-05-20,False
+10686,IT,Software Engineer,Utrecht,0.8,27,Female,2.3,False,2023-04-11,True,False,False,71095.0,Active,,,False,0,,True
+10687,IT,Cybersecurity Analyst,The Hague,1.0,27,Female,2.9,False,2022-09-25,True,False,False,97868.0,Active,,,False,0,,True
+10688,IT,Cybersecurity Analyst,Amsterdam,1.0,25,Male,1.4,False,2024-04-07,True,False,False,50784.0,Active,,,False,0,,False
+10689,IT,Data Engineer,Rotterdam,1.0,34,Male,4.6,False,2021-01-19,True,True,False,46063.0,Active,,,False,1,2024-11-26,False
+10690,IT,Data Engineer,Utrecht,0.6,25,Male,5.7,False,2019-10-21,True,True,True,64752.0,Active,,,False,0,,False
+10691,IT,IT Manager,Rotterdam,1.0,26,Female,2.6,False,2022-11-14,False,False,False,57810.0,Active,,,False,0,,False
+10692,IT,Data Analyst,Amsterdam,1.0,29,Male,7.5,False,2018-02-14,True,True,True,74719.0,Left,2025-04-23,Voluntary,False,1,2022-04-05,True
+10693,IT,Data Analyst,Amsterdam,1.0,35,Female,5.6,False,2019-12-26,True,True,True,80120.0,Active,,,False,1,2021-01-25,True
+10694,IT,Software Engineer,Amsterdam,1.0,36,Female,8.2,False,2017-06-07,True,False,False,55376.0,Active,,,False,1,2022-11-05,False
+10695,IT,IT Manager,Rotterdam,1.0,43,Male,9.0,False,2016-08-13,False,False,False,80832.0,Active,,,False,1,2022-08-08,True
+10696,IT,Data Engineer,Utrecht,1.0,43,Male,8.6,False,2016-11-15,True,False,False,81851.0,Active,,,False,1,2024-10-24,True
+10697,IT,IT Manager,The Hague,1.0,41,Female,8.1,False,2017-06-22,True,False,False,88914.0,Active,,,False,0,,True
+10698,IT,Cybersecurity Analyst,Utrecht,1.0,32,Male,8.0,False,2017-07-04,True,True,True,55382.0,Active,,,False,1,2021-07-08,False
+10699,IT,Data Engineer,Utrecht,0.8,22,Male,0.4,False,2025-03-28,True,False,False,59468.0,Active,,,False,0,,False
+10700,IT,Data Analyst,Rotterdam,1.0,22,Male,1.6,False,2023-11-16,True,False,False,71959.0,Active,,,False,0,,True
+10701,IT,Data Engineer,Rotterdam,1.0,41,Male,7.6,False,2018-01-14,True,True,True,54062.0,Active,,,False,0,,False
+10702,IT,Cybersecurity Analyst,Rotterdam,1.0,40,Female,6.9,False,2018-08-01,True,False,False,93121.0,Active,,,False,0,,True
+10703,IT,Data Engineer,Rotterdam,0.8,30,Male,4.6,False,2020-12-10,True,False,False,72600.0,Active,,,False,0,,True
+10704,IT,Data Analyst,Amsterdam,0.8,24,Female,2.0,False,2023-08-06,True,True,True,81055.0,Active,,,False,1,2025-07-28,True
+10705,IT,Cybersecurity Analyst,Rotterdam,1.0,27,Male,1.6,False,2023-12-28,True,True,True,56340.0,Active,,,False,0,,False
+10706,IT,Software Engineer,Utrecht,0.6,35,Female,6.5,False,2019-01-22,True,False,False,73825.0,Left,2025-07-07,Voluntary,False,0,,True
+10707,IT,IT Manager,Rotterdam,1.0,35,Male,7.9,False,2017-10-28,True,True,True,79806.0,Active,,,False,2,2018-12-05,True
+10708,IT,Software Engineer,The Hague,1.0,41,Male,7.2,False,2018-04-10,True,False,False,73370.0,Active,,,False,0,,True
+10709,IT,Cybersecurity Analyst,Rotterdam,1.0,31,Male,2.7,False,2023-01-22,True,True,True,80313.0,Active,,,False,0,,True
+10710,IT,Cybersecurity Analyst,Amsterdam,0.6,32,Female,4.8,False,2020-10-18,True,False,False,74953.0,Active,,,False,1,2025-01-12,True
+10711,IT,Cybersecurity Analyst,Rotterdam,1.0,42,Female,15.1,False,2010-07-29,False,True,False,76960.0,Active,,,False,0,,True
+10712,IT,Data Analyst,Utrecht,0.8,22,Male,1.4,False,2024-04-06,True,True,True,77381.0,Active,,,False,1,2025-05-03,True
+10713,IT,Cybersecurity Analyst,Amsterdam,1.0,36,Male,2.8,False,2022-10-10,True,False,False,86907.0,Active,,,False,1,2023-04-04,True
+10714,IT,IT Manager,Amsterdam,1.0,32,Male,2.5,False,2023-03-10,False,False,False,76454.0,Active,,,False,1,2025-06-25,True
+10715,IT,Data Analyst,Rotterdam,1.0,39,Male,12.3,False,2013-06-10,True,False,False,60497.0,Left,2024-10-08,Involuntary,False,2,2024-06-26,False
+10716,IT,Cybersecurity Analyst,The Hague,0.8,38,Female,2.2,False,2023-07-21,True,False,False,77071.0,Active,,,False,0,,True
+10717,IT,IT Manager,Rotterdam,1.0,29,Male,5.1,True,2020-09-08,True,False,False,75302.0,Active,,,False,0,,True
+10718,IT,IT Manager,The Hague,1.0,30,Male,1.8,True,2023-10-17,True,True,True,81976.0,Active,,,False,0,,True
+10719,IT,IT Manager,Utrecht,1.0,22,Female,1.5,False,2023-12-29,False,False,False,67535.0,Active,,,False,0,,True
+10720,IT,Data Analyst,Amsterdam,0.8,39,Male,9.2,False,2016-04-09,True,False,False,84595.0,Active,,,False,0,,True
+10721,IT,IT Manager,Utrecht,1.0,36,Female,8.2,True,2017-05-28,True,False,False,97479.0,Active,,,False,2,2020-07-10,True
+10722,IT,Software Engineer,Rotterdam,1.0,44,Male,6.4,False,2019-02-12,True,False,False,77017.0,Active,,,False,2,2019-08-28,True
+10723,IT,Cybersecurity Analyst,Amsterdam,1.0,31,Male,7.2,False,2018-04-26,True,False,False,59118.0,Active,,,False,1,2025-01-06,False
+10724,IT,Software Engineer,Utrecht,0.6,40,Male,5.1,False,2020-08-08,False,False,False,68455.0,Active,,,False,0,,True
+10725,IT,IT Manager,Utrecht,0.8,27,Male,3.1,False,2022-05-28,True,False,False,55977.0,Active,,,False,1,2023-06-05,False
+10726,IT,Software Engineer,Amsterdam,0.8,22,Female,2.3,False,2023-06-23,True,False,False,69485.0,Active,,,False,1,2024-08-27,True
+10727,IT,IT Manager,The Hague,1.0,33,Male,3.3,True,2022-03-05,True,False,False,54718.0,Active,,,False,1,2022-06-24,False
+10728,IT,Software Engineer,Utrecht,1.0,30,Male,4.8,False,2020-09-29,True,True,True,83544.0,Active,,,False,0,,True
+10729,IT,Software Engineer,The Hague,0.6,27,Female,0.0,False,2025-07-04,True,False,False,73283.0,Active,,,False,0,,True
+10730,IT,IT Manager,Amsterdam,1.0,40,Male,1.4,False,2024-02-07,True,True,True,94357.0,Active,,,False,0,,True
+10731,IT,IT Manager,The Hague,1.0,42,Female,10.8,False,2014-11-23,True,True,False,88242.0,Left,2025-05-25,Involuntary,False,1,2017-10-03,True
+10732,IT,Cybersecurity Analyst,Rotterdam,1.0,35,Male,3.2,False,2022-07-21,False,True,True,98566.0,Active,,,False,0,,True
+10733,IT,Data Analyst,Amsterdam,0.6,33,Male,6.5,False,2019-03-12,True,True,True,55698.0,Active,,,False,1,2023-12-31,False
+10734,IT,Cybersecurity Analyst,Utrecht,1.0,34,Male,9.1,False,2016-09-03,True,False,False,60846.0,Active,,,False,2,2017-02-08,False
+10735,IT,IT Manager,Utrecht,1.0,29,Female,3.7,False,2021-10-23,True,True,True,67632.0,Left,2025-07-11,Voluntary,False,2,2022-10-23,True
+10736,IT,Cybersecurity Analyst,Rotterdam,0.8,38,Female,10.3,False,2015-04-15,True,True,True,79415.0,Active,,,False,1,2024-03-19,True
+10737,IT,Software Engineer,Rotterdam,1.0,23,Male,1.0,False,2024-10-02,True,False,False,58189.0,Active,,,False,0,,False
+10738,IT,IT Manager,Amsterdam,1.0,26,Male,4.3,True,2021-05-20,True,False,False,89643.0,Active,,,False,0,,True
+10739,IT,IT Manager,Rotterdam,0.6,28,Male,2.2,False,2023-04-19,True,False,False,64293.0,Active,,,False,1,2025-01-17,False
+10740,IT,IT Manager,Rotterdam,0.6,38,Female,7.9,True,2017-08-23,True,False,False,73570.0,Active,,,False,1,2024-07-24,True
+10741,IT,Cybersecurity Analyst,Rotterdam,0.8,32,Female,2.4,False,2023-03-26,True,False,False,89784.0,Active,,,False,0,,True
+10742,IT,IT Manager,Rotterdam,1.0,44,Male,3.3,True,2022-06-11,True,True,True,83094.0,Active,,,False,0,,True
+10743,IT,Software Engineer,The Hague,1.0,40,Male,1.6,False,2024-01-13,True,False,False,71490.0,Active,,,False,1,2025-06-04,True
+10744,IT,IT Manager,Rotterdam,0.6,28,Female,2.2,True,2023-05-13,True,False,False,61088.0,Active,,,False,0,,False
+10745,IT,IT Manager,Utrecht,1.0,38,Male,12.9,True,2012-10-17,True,False,False,82394.0,Active,,,False,1,2014-04-30,True
+10746,IT,IT Manager,The Hague,0.8,31,Male,3.2,False,2022-07-03,True,False,False,50074.0,Active,,,False,0,,False
+10747,IT,Cybersecurity Analyst,Rotterdam,0.6,37,Male,6.2,False,2019-05-11,True,False,False,63160.0,Active,,,False,0,,False
+10748,IT,IT Manager,Amsterdam,1.0,40,Male,4.7,True,2020-11-29,True,False,False,89414.0,Active,,,False,1,2025-03-05,True
+10749,IT,IT Manager,Amsterdam,0.8,42,Male,2.2,True,2023-05-19,True,False,False,88709.0,Active,,,False,0,,True
+10750,Sales,Senior Sales Rep,Amsterdam,1.0,35,Female,4.4,False,2021-05-18,False,False,False,42492.0,Active,,,False,0,,False
+10751,Sales,Sales Manager,Amsterdam,1.0,44,Male,1.3,False,2024-03-31,False,False,False,50842.0,Active,,,False,0,,False
+10752,Sales,Sales Manager,Amsterdam,1.0,28,Male,0.6,True,2025-02-14,False,False,False,80478.0,Active,,,False,0,,True
+10753,Sales,Sales Rep,The Hague,0.6,25,Female,5.4,False,2020-02-20,False,False,False,79677.0,Active,,,False,1,2022-04-21,True
+10754,Sales,Senior Sales Rep,Amsterdam,0.6,28,Male,1.9,False,2023-09-19,False,False,False,41711.0,Left,2025-07-15,Voluntary,False,0,,False
+10755,Sales,Senior Sales Rep,Rotterdam,1.0,44,Male,2.7,False,2022-12-06,False,False,False,52465.0,Active,,,False,0,,False
+10756,Sales,Senior Sales Rep,Rotterdam,0.8,39,Male,2.1,False,2023-08-03,False,False,False,56814.0,Active,,,False,1,2023-12-15,True
+10757,Sales,Sales Manager,Rotterdam,1.0,41,Female,11.6,False,2014-02-08,False,False,False,49563.0,Active,,,False,0,,False
+10758,Sales,Sales Manager,Amsterdam,0.8,50,Female,9.3,True,2016-06-20,False,False,False,41168.0,Left,2025-03-09,Involuntary,False,1,2016-12-10,False
+10759,Sales,Senior Sales Rep,Rotterdam,1.0,30,Male,1.8,False,2023-11-21,False,False,False,72612.0,Active,,,False,0,,True
+10760,Sales,Sales Manager,Utrecht,1.0,46,Female,6.2,False,2019-04-30,False,False,False,69828.0,Active,,,False,0,,True
+10761,Sales,Sales Rep,Amsterdam,1.0,35,Male,1.7,False,2023-11-08,False,False,False,68644.0,Active,,,False,0,,True
+10762,Sales,Senior Sales Rep,The Hague,1.0,34,Male,7.7,False,2018-01-24,False,True,True,57678.0,Active,,,False,1,2022-08-30,True
+10763,Sales,Sales Manager,Utrecht,1.0,39,Male,7.5,False,2018-03-25,False,False,False,68647.0,Active,,,False,2,2024-11-26,True
+10764,Sales,Sales Manager,Rotterdam,1.0,40,Female,4.0,False,2021-07-20,False,False,False,42911.0,Active,,,False,1,2025-01-05,False
+10765,Sales,Senior Sales Rep,Rotterdam,1.0,37,Male,4.1,False,2021-07-01,True,False,False,50934.0,Active,,,False,0,,False
+10766,Sales,Senior Sales Rep,Amsterdam,0.6,42,Female,4.0,False,2021-06-24,False,False,False,75451.0,Active,,,False,2,2021-10-27,True
+10767,Sales,Sales Manager,Rotterdam,1.0,39,Male,5.3,False,2020-06-08,False,False,False,39959.0,Active,,,False,1,2025-07-10,False
+10768,Sales,Sales Manager,Utrecht,0.6,37,Female,3.1,False,2022-08-21,False,False,False,78443.0,Active,,,False,2,2024-08-26,True
+10769,Sales,Sales Manager,Amsterdam,1.0,35,Female,5.5,True,2019-12-22,False,False,False,89779.0,Active,,,False,2,2022-11-09,True
+10770,Sales,Sales Manager,Rotterdam,1.0,40,Female,10.4,True,2015-05-15,False,False,False,51598.0,Active,,,False,0,,False
+10771,Sales,Sales Rep,Amsterdam,1.0,29,Female,6.0,False,2019-07-20,False,True,True,47509.0,Left,2025-06-29,Voluntary,False,1,2022-03-14,False
+10772,Sales,Sales Manager,Utrecht,0.8,30,Female,6.9,False,2018-10-07,False,False,False,42153.0,Active,,,False,1,2019-01-16,False
+10773,Sales,Sales Rep,Rotterdam,0.8,35,Female,1.4,False,2024-02-12,False,True,True,33441.0,Active,,,False,0,,False
+10774,Sales,Sales Rep,Rotterdam,1.0,42,Male,12.5,False,2012-12-28,False,False,False,38628.0,Active,,,False,1,2018-06-23,False
+10775,Sales,Sales Manager,Amsterdam,1.0,53,Male,29.8,True,1995-11-18,False,False,False,75055.0,Active,,,False,0,,True
+10776,Sales,Sales Manager,The Hague,1.0,37,Female,6.7,False,2019-01-20,False,False,False,67519.0,Active,,,False,1,2024-08-16,True
+10777,Sales,Sales Manager,Amsterdam,1.0,26,Male,3.5,True,2022-03-04,False,False,False,51674.0,Active,,,False,0,,False
+10778,Sales,Sales Rep,Rotterdam,0.8,32,Male,3.8,False,2021-09-15,True,False,False,58864.0,Left,2025-04-22,Voluntary,False,0,,True
+10779,Sales,Sales Manager,Rotterdam,1.0,43,Male,11.0,False,2014-07-06,True,False,False,45615.0,Active,,,False,1,2023-11-14,False
+10780,Sales,Sales Rep,Utrecht,1.0,31,Male,4.1,False,2021-05-19,False,True,True,48661.0,Active,,,False,0,,False
+10781,Sales,Senior Sales Rep,Amsterdam,0.8,29,Female,6.3,False,2019-04-29,False,False,False,52588.0,Active,,,False,0,,False
+10782,Sales,Sales Manager,Utrecht,0.6,43,Male,3.8,True,2021-12-22,False,False,False,68191.0,Active,,,False,0,,True
+10783,Sales,Sales Manager,Rotterdam,1.0,41,Female,7.7,False,2017-10-26,False,False,False,63118.0,Active,,,False,1,2021-02-04,True
+10784,Sales,Sales Manager,Rotterdam,1.0,28,Male,6.2,True,2019-05-31,False,False,False,91459.0,Active,,,False,2,2024-01-09,True
+10785,Sales,Sales Rep,Utrecht,1.0,32,Female,7.9,False,2017-09-08,True,False,False,61960.0,Active,,,False,2,2019-12-20,True
+10786,Sales,Senior Sales Rep,Utrecht,1.0,47,Male,10.3,False,2015-06-27,False,False,False,39873.0,Active,,,False,0,,False
+10787,Sales,Sales Rep,Utrecht,1.0,44,Male,15.1,False,2010-08-21,False,False,False,69825.0,Left,2025-05-04,Voluntary,False,0,,True
+10788,Sales,Sales Manager,The Hague,0.8,30,Female,1.7,False,2024-01-21,False,False,False,42971.0,Active,,,False,0,,False
+10789,Sales,Sales Manager,Amsterdam,0.8,24,Female,1.6,True,2023-12-20,True,False,False,52375.0,Active,,,False,0,,False
+10790,Sales,Sales Rep,The Hague,1.0,40,Female,10.7,False,2015-01-05,False,False,False,60467.0,Active,,,False,1,2018-01-16,True
+10791,Sales,Sales Rep,Amsterdam,1.0,36,Male,6.5,False,2019-04-02,False,False,False,69970.0,Active,,,False,2,2024-12-13,True
+10792,Sales,Senior Sales Rep,Utrecht,1.0,39,Male,4.1,False,2021-07-31,True,False,False,76516.0,Active,,,False,0,,True
+10793,Sales,Sales Rep,Rotterdam,1.0,42,Female,7.0,False,2018-07-19,False,False,False,69118.0,Active,,,False,0,,True
+10794,Sales,Senior Sales Rep,Rotterdam,1.0,31,Male,1.7,False,2023-11-03,False,False,False,62651.0,Active,,,False,0,,True
+10795,Sales,Senior Sales Rep,Amsterdam,1.0,35,Female,3.3,False,2022-06-28,False,True,True,52227.0,Left,2025-02-01,Voluntary,False,0,,False
+10796,Sales,Senior Sales Rep,Rotterdam,1.0,32,Female,3.4,False,2022-02-01,False,False,False,62070.0,Active,,,False,1,2025-04-09,True
+10797,Sales,Senior Sales Rep,Amsterdam,1.0,32,Female,5.8,False,2019-12-17,False,False,False,74173.0,Active,,,False,1,2024-01-28,True
+10798,Sales,Sales Rep,Rotterdam,1.0,42,Male,4.4,False,2021-02-11,False,False,False,51164.0,Active,,,False,0,,False
+10799,Sales,Sales Rep,Amsterdam,1.0,39,Female,0.2,False,2025-04-06,False,False,False,75666.0,Active,,,False,0,,True
+10800,Sales,Sales Manager,Rotterdam,1.0,27,Female,6.8,False,2018-11-03,False,False,False,79563.0,Left,2024-09-10,Voluntary,False,0,,True
+10801,Sales,Sales Manager,Amsterdam,1.0,43,Female,9.0,True,2016-08-28,True,False,False,94717.0,Active,,,False,0,,True
+10802,Sales,Sales Manager,Amsterdam,1.0,36,Female,3.7,False,2022-01-14,False,False,False,54629.0,Active,,,False,1,2024-01-04,True
+10803,Sales,Sales Manager,Amsterdam,1.0,43,Female,4.6,False,2021-01-05,False,False,False,82243.0,Active,,,False,1,2022-08-16,True
+10804,Sales,Sales Rep,Rotterdam,1.0,31,Female,1.5,False,2024-03-11,False,False,False,64022.0,Active,,,False,0,,True
+10805,Sales,Sales Rep,Utrecht,0.6,32,Female,3.1,False,2022-06-23,False,False,False,48108.0,Active,,,False,3,2024-11-22,False
+10806,Sales,Sales Rep,The Hague,1.0,40,Male,6.4,False,2019-04-16,False,False,False,58486.0,Active,,,False,0,,True
+10807,Sales,Sales Rep,Amsterdam,1.0,30,Male,5.9,False,2019-11-01,False,False,False,63274.0,Active,,,False,0,,True
+10808,Sales,Sales Manager,Rotterdam,1.0,36,Male,5.7,False,2019-10-19,False,False,False,71564.0,Active,,,False,2,2022-03-08,True
+10809,Sales,Sales Manager,Utrecht,1.0,30,Male,0.3,True,2025-04-28,False,False,False,88197.0,Active,,,False,0,,True
+10810,Sales,Sales Manager,Rotterdam,0.6,35,Male,5.8,True,2019-11-09,False,False,False,80703.0,Active,,,False,1,2024-12-09,True
+10811,Sales,Sales Manager,Utrecht,0.8,38,Male,8.8,False,2016-09-24,False,False,False,40096.0,Active,,,False,1,2022-02-18,False
+10812,Sales,Sales Rep,Amsterdam,1.0,38,Female,16.1,False,2009-07-16,True,True,True,67869.0,Active,,,False,0,,True
+10813,Sales,Senior Sales Rep,Rotterdam,1.0,35,Male,5.5,False,2020-03-28,False,False,False,80793.0,Active,,,False,0,,True
+10814,Sales,Sales Manager,Rotterdam,1.0,40,Male,5.5,False,2020-03-12,True,False,False,59692.0,Active,,,False,1,2023-12-25,True
+10815,Sales,Sales Rep,Amsterdam,1.0,39,Male,3.8,False,2021-09-22,False,False,False,54558.0,Active,,,False,1,2023-02-23,True
+10816,Sales,Sales Rep,Rotterdam,1.0,37,Female,10.3,False,2015-06-16,False,False,False,73421.0,Active,,,False,1,2019-09-14,True
+10817,Sales,Senior Sales Rep,Rotterdam,1.0,34,Male,5.3,False,2020-04-28,False,False,False,38053.0,Active,,,False,0,,False
+10818,Sales,Sales Manager,Amsterdam,1.0,45,Male,3.3,False,2022-03-07,False,False,False,61808.0,Active,,,False,0,,True
+10819,Sales,Senior Sales Rep,Rotterdam,1.0,41,Male,4.5,False,2020-12-28,False,False,False,71935.0,Active,,,False,1,2023-11-02,True
+10820,Sales,Senior Sales Rep,Utrecht,0.8,31,Female,5.5,False,2020-04-14,False,False,False,51901.0,Left,2025-05-18,Voluntary,False,0,,False
+10821,Sales,Senior Sales Rep,Utrecht,1.0,43,Female,10.3,False,2015-03-30,False,False,False,67679.0,Active,,,False,0,,True
+10822,Sales,Sales Manager,Rotterdam,1.0,44,Female,3.0,False,2022-06-27,False,False,False,49566.0,Active,,,False,0,,False
+10823,Sales,Sales Rep,Rotterdam,1.0,37,Male,5.8,False,2019-09-29,False,False,False,41088.0,Active,,,False,0,,False
+10824,Sales,Senior Sales Rep,Rotterdam,1.0,38,Female,3.1,False,2022-09-05,False,False,False,75737.0,Active,,,False,2,2023-11-06,True
+10825,Sales,Senior Sales Rep,Rotterdam,0.8,24,Female,2.8,False,2022-11-03,False,False,False,69546.0,Active,,,False,0,,True
+10826,Sales,Sales Manager,Amsterdam,1.0,32,Male,5.0,False,2020-09-15,False,False,False,57464.0,Active,,,False,0,,True
+10827,Sales,Sales Manager,Rotterdam,0.8,44,Male,8.4,False,2017-02-27,False,False,False,64444.0,Active,,,False,0,,True
+10828,Sales,Sales Rep,Rotterdam,1.0,33,Male,3.3,False,2022-05-25,False,False,False,51576.0,Active,,,False,0,,False
+10829,Sales,Sales Rep,Rotterdam,0.8,37,Female,9.1,False,2016-05-16,True,False,False,44772.0,Active,,,False,1,2017-07-30,False
+10830,Sales,Senior Sales Rep,The Hague,0.8,32,Male,3.0,False,2022-08-06,False,False,False,74877.0,Active,,,False,0,,True
+10831,Sales,Senior Sales Rep,Utrecht,1.0,40,Male,14.5,False,2011-02-09,False,False,False,68649.0,Active,,,False,1,2018-02-20,True
+10832,Sales,Sales Manager,Amsterdam,1.0,41,Male,9.0,False,2016-09-21,False,False,False,70071.0,Active,,,False,1,2022-08-13,True
+10833,Sales,Senior Sales Rep,Amsterdam,0.8,41,Male,6.2,False,2019-04-09,False,False,False,79846.0,Active,,,False,1,2020-05-28,True
+10834,Sales,Sales Manager,Amsterdam,1.0,30,Female,3.7,False,2022-02-02,False,True,True,42844.0,Active,,,False,0,,False
+10835,Sales,Senior Sales Rep,Utrecht,1.0,39,Female,1.4,False,2024-02-29,False,False,False,38454.0,Active,,,False,1,2024-12-29,False
+10836,Sales,Sales Manager,Utrecht,1.0,49,Female,10.6,False,2015-03-06,False,False,False,42043.0,Active,,,False,0,,False
+10837,Sales,Senior Sales Rep,The Hague,1.0,43,Male,5.1,False,2020-08-05,False,False,False,67719.0,Active,,,False,1,2025-08-07,True
+10838,Sales,Senior Sales Rep,Rotterdam,1.0,39,Male,1.8,False,2023-10-13,False,False,False,67868.0,Left,2025-08-08,Retirement,False,0,,True
+10839,Sales,Senior Sales Rep,Utrecht,1.0,24,Male,0.6,False,2024-12-16,False,False,False,48098.0,Active,,,False,0,,False
+10840,Sales,Sales Rep,Rotterdam,1.0,36,Female,5.9,False,2019-08-28,False,False,False,49922.0,Active,,,False,0,,False
+10841,Sales,Senior Sales Rep,The Hague,1.0,50,Female,13.1,False,2012-08-18,False,False,False,59364.0,Active,,,False,1,2014-11-23,True
+10842,Sales,Senior Sales Rep,Utrecht,0.8,47,Female,3.9,False,2021-08-20,False,False,False,79110.0,Active,,,False,1,2023-11-09,True
+10843,Sales,Sales Rep,Rotterdam,1.0,41,Male,3.1,False,2022-07-13,False,False,False,67806.0,Active,,,False,0,,True
+10844,Sales,Sales Rep,Rotterdam,0.6,33,Male,7.0,False,2018-08-17,False,False,False,45778.0,Active,,,False,0,,False
+10845,Sales,Sales Manager,Utrecht,0.6,38,Male,1.6,True,2024-02-10,False,False,False,57747.0,Active,,,False,1,2025-02-14,True
+10846,Sales,Sales Manager,Rotterdam,0.8,43,Female,8.2,False,2017-05-03,False,False,False,35760.0,Left,2024-11-18,Voluntary,False,0,,False
+10847,Sales,Senior Sales Rep,Amsterdam,0.6,45,Female,2.1,False,2023-08-23,False,False,False,52982.0,Active,,,False,2,2024-04-08,False
+10848,Sales,Sales Manager,Amsterdam,0.8,40,Female,8.7,False,2016-12-25,False,False,False,41150.0,Active,,,False,0,,False
+10849,Sales,Senior Sales Rep,Rotterdam,0.8,44,Female,8.7,False,2017-01-16,False,False,False,58809.0,Active,,,False,0,,True
+10850,Sales,Sales Manager,Rotterdam,1.0,38,Male,12.8,False,2012-09-03,False,True,True,60237.0,Active,,,False,0,,True
+10851,Sales,Sales Manager,Amsterdam,1.0,37,Male,5.8,True,2019-12-25,False,False,False,42223.0,Active,,,False,0,,False
+10852,Sales,Sales Rep,Amsterdam,0.8,35,Male,0.5,False,2025-02-10,False,False,False,64961.0,Active,,,False,0,,True
+10853,Sales,Sales Manager,Amsterdam,1.0,41,Male,1.3,False,2024-05-18,False,False,False,57388.0,Active,,,False,1,2024-12-05,True
+10854,Sales,Senior Sales Rep,Rotterdam,0.8,45,Male,3.4,False,2022-05-08,False,False,False,79991.0,Active,,,False,0,,True
+10855,Sales,Senior Sales Rep,Amsterdam,0.8,43,Female,2.4,False,2023-03-30,False,False,False,64307.0,Active,,,False,0,,True
+10856,Sales,Sales Rep,Amsterdam,1.0,29,Female,6.3,False,2019-04-27,False,False,False,41177.0,Active,,,False,1,2019-12-25,False
+10857,Sales,Sales Manager,Amsterdam,0.8,30,Male,5.2,False,2020-05-24,False,False,False,48556.0,Active,,,False,0,,False
+10858,Sales,Sales Manager,Amsterdam,1.0,46,Male,14.0,True,2011-10-04,False,False,False,86319.0,Active,,,False,0,,True
+10859,Sales,Sales Manager,Utrecht,1.0,39,Male,10.8,False,2014-10-12,False,True,True,70642.0,Active,,,False,1,2016-01-17,True
+10860,Sales,Sales Manager,Amsterdam,1.0,40,Male,8.5,True,2017-02-27,False,False,False,47371.0,Active,,,False,0,,False
+10861,Sales,Sales Manager,Utrecht,1.0,39,Male,6.7,False,2018-10-24,False,False,False,57343.0,Active,,,False,0,,True
+10862,Sales,Sales Manager,Rotterdam,1.0,50,Male,14.3,False,2011-06-10,False,False,False,82172.0,Active,,,False,0,,True
+10863,Sales,Senior Sales Rep,The Hague,1.0,35,Female,2.3,False,2023-06-11,False,False,False,60645.0,Active,,,False,0,,True
+10864,Sales,Senior Sales Rep,Amsterdam,1.0,46,Female,7.8,False,2017-10-10,False,False,False,68723.0,Active,,,False,2,2020-02-22,True
+10865,Sales,Sales Manager,Amsterdam,0.8,40,Male,6.0,True,2019-10-15,False,False,False,59743.0,Left,2025-07-15,Voluntary,False,1,2022-06-16,True
+10866,Sales,Sales Manager,Amsterdam,1.0,27,Male,3.7,True,2021-12-29,False,False,False,90193.0,Active,,,False,0,,True
+10867,Sales,Senior Sales Rep,Amsterdam,1.0,32,Female,1.5,False,2024-03-27,False,False,False,52538.0,Left,2024-11-02,Voluntary,False,0,,False
+10868,Sales,Sales Manager,Utrecht,1.0,34,Female,7.1,True,2018-08-26,False,False,False,40645.0,Active,,,False,0,,False
+10869,Sales,Sales Manager,Amsterdam,0.8,46,Male,4.6,False,2021-01-04,False,False,False,57864.0,Active,,,False,2,2023-01-02,True
+10870,Sales,Sales Rep,Amsterdam,0.8,47,Male,11.6,False,2013-11-13,False,False,False,72918.0,Active,,,False,0,,True
+10871,Sales,Sales Manager,The Hague,1.0,40,Female,5.0,False,2020-09-16,False,False,False,68488.0,Active,,,False,0,,True
+10872,Sales,Senior Sales Rep,Rotterdam,1.0,34,Male,5.8,False,2019-11-04,True,False,False,42251.0,Active,,,False,0,,False
+10873,Sales,Sales Manager,Amsterdam,0.8,32,Female,5.8,False,2019-10-24,False,False,False,73162.0,Active,,,False,2,2021-05-11,True
+10874,Sales,Sales Manager,Amsterdam,1.0,46,Female,4.0,False,2021-07-09,False,False,False,37771.0,Active,,,False,1,2024-05-02,False
+10875,Sales,Sales Manager,Amsterdam,1.0,29,Female,2.6,False,2023-02-13,False,False,False,58822.0,Active,,,False,0,,True
+10876,Sales,Sales Manager,The Hague,1.0,37,Male,4.0,False,2021-08-20,False,False,False,45665.0,Active,,,False,0,,False
+10877,Sales,Sales Rep,Utrecht,1.0,55,Male,13.6,False,2012-01-04,True,False,False,65932.0,Active,,,False,2,2020-05-08,True
+10878,Sales,Sales Manager,Utrecht,0.8,34,Male,4.3,False,2021-06-27,False,False,False,50595.0,Active,,,False,0,,False
+10879,Sales,Sales Rep,The Hague,1.0,29,Female,5.4,False,2020-01-29,False,True,True,64776.0,Active,,,False,1,2024-10-29,True
+10880,Sales,Sales Manager,Rotterdam,1.0,26,Male,6.0,True,2019-08-22,False,False,False,72331.0,Active,,,False,1,2023-06-02,True
+10881,Sales,Sales Manager,Amsterdam,1.0,55,Male,5.1,False,2020-06-18,False,False,False,73936.0,Active,,,False,0,,True
+10882,Sales,Sales Rep,Rotterdam,0.6,40,Male,11.2,False,2014-06-06,False,False,False,42308.0,Active,,,False,1,2024-02-07,False
+10883,Sales,Sales Manager,Utrecht,0.8,32,Male,2.0,True,2023-09-12,False,False,False,73966.0,Active,,,False,0,,True
+10884,Sales,Sales Manager,The Hague,0.8,37,Male,7.0,True,2018-07-11,False,False,False,88839.0,Active,,,False,1,2024-11-30,True
+10885,Sales,Sales Rep,Rotterdam,1.0,33,Male,4.5,False,2020-12-20,False,False,False,50645.0,Active,,,False,1,2022-09-22,False
+10886,Sales,Sales Manager,Rotterdam,1.0,25,Female,1.6,False,2024-01-14,False,False,False,62080.0,Active,,,False,1,2025-01-22,True
+10887,Sales,Senior Sales Rep,The Hague,0.6,44,Male,5.6,False,2020-01-17,False,False,False,59060.0,Active,,,False,0,,True
+10888,Sales,Sales Manager,Amsterdam,1.0,38,Male,11.4,False,2014-05-05,True,False,False,53041.0,Active,,,False,0,,False
+10889,Sales,Sales Rep,The Hague,0.8,43,Female,18.3,False,2007-05-14,False,False,False,65923.0,Active,,,False,1,2022-01-08,True
+10890,Sales,Sales Rep,Amsterdam,1.0,38,Female,5.4,False,2020-04-28,False,False,False,81788.0,Active,,,False,1,2023-04-25,True
+10891,Sales,Senior Sales Rep,Rotterdam,1.0,39,Male,7.9,False,2017-08-31,False,False,False,37530.0,Active,,,False,0,,False
+10892,Sales,Senior Sales Rep,Amsterdam,1.0,23,Male,2.3,False,2023-06-04,False,False,False,47593.0,Active,,,False,0,,False
+10893,Sales,Sales Manager,Rotterdam,0.8,44,Female,2.3,False,2023-05-07,True,False,False,58980.0,Active,,,False,1,2024-12-02,True
+10894,Sales,Senior Sales Rep,Rotterdam,0.8,30,Male,8.0,False,2017-10-03,False,False,False,78154.0,Active,,,False,1,2018-11-10,True
+10895,Sales,Sales Rep,Rotterdam,1.0,32,Male,6.4,False,2019-03-25,False,True,True,43863.0,Active,,,False,1,2022-01-04,False
+10896,Sales,Sales Rep,The Hague,1.0,34,Male,5.6,False,2019-11-21,False,False,False,51972.0,Active,,,False,0,,False
+10897,Sales,Sales Rep,Utrecht,0.6,24,Male,1.7,False,2023-10-18,False,False,False,73533.0,Left,2025-01-14,Retirement,False,0,,True
+10898,Sales,Sales Manager,Utrecht,1.0,34,Female,4.7,False,2020-12-22,False,False,False,47217.0,Left,2024-10-30,Involuntary,False,0,,False
+10899,Sales,Sales Manager,Amsterdam,0.8,33,Female,5.1,True,2020-05-26,False,False,False,52049.0,Active,,,False,0,,False
+10900,Sales,Sales Manager,The Hague,1.0,35,Female,5.5,False,2020-02-15,False,False,False,58946.0,Active,,,False,0,,True
+10901,Sales,Sales Manager,Amsterdam,1.0,26,Male,2.2,False,2023-04-23,False,False,False,75530.0,Active,,,False,0,,True
+10902,Sales,Senior Sales Rep,Amsterdam,1.0,44,Male,3.4,False,2022-03-08,False,False,False,72793.0,Left,2025-02-05,Voluntary,False,0,,True
+10903,Sales,Sales Rep,Amsterdam,1.0,41,Female,6.6,False,2018-11-20,False,False,False,69777.0,Active,,,False,0,,True
+10904,Sales,Senior Sales Rep,Rotterdam,1.0,32,Male,1.6,False,2024-01-01,False,True,True,42606.0,Active,,,False,0,,False
+10905,Sales,Senior Sales Rep,The Hague,1.0,34,Male,3.4,False,2022-03-21,False,False,False,65238.0,Active,,,False,0,,True
+10906,Sales,Senior Sales Rep,Amsterdam,1.0,44,Female,6.8,False,2018-12-27,False,True,True,73109.0,Active,,,False,0,,True
+10907,Sales,Sales Manager,Rotterdam,1.0,36,Female,4.8,False,2020-11-04,False,False,False,65371.0,Active,,,False,1,2021-07-01,True
+10908,Sales,Senior Sales Rep,Utrecht,1.0,29,Male,2.2,False,2023-07-19,False,False,False,34627.0,Active,,,False,0,,False
+10909,Sales,Sales Rep,Rotterdam,0.8,37,Female,3.1,False,2022-07-17,False,False,False,55857.0,Active,,,False,0,,True
+10910,Sales,Senior Sales Rep,Utrecht,1.0,30,Male,6.5,False,2019-01-14,False,False,False,63228.0,Active,,,False,1,2019-05-22,True
+10911,Sales,Sales Rep,Amsterdam,1.0,33,Male,0.9,False,2024-08-02,False,True,True,65423.0,Active,,,False,1,2025-07-04,True
+10912,Sales,Sales Rep,Utrecht,1.0,38,Male,12.0,False,2013-09-05,False,False,False,67667.0,Active,,,False,0,,True
+10913,Sales,Sales Rep,Amsterdam,1.0,45,Female,4.9,False,2020-09-22,False,False,False,58326.0,Active,,,False,0,,True
+10914,Sales,Sales Manager,The Hague,0.8,52,Female,16.9,False,2008-10-18,True,True,False,51738.0,Active,,,False,1,2015-06-20,False
+10915,Sales,Sales Manager,Rotterdam,1.0,48,Female,5.4,True,2020-04-08,False,False,False,67229.0,Active,,,False,0,,True
+10916,Sales,Sales Manager,Utrecht,0.8,37,Male,4.9,False,2020-10-02,False,False,False,77346.0,Active,,,False,0,,True
+10917,Sales,Sales Manager,Amsterdam,1.0,54,Male,16.0,True,2009-09-07,False,False,False,37754.0,Active,,,False,1,2022-04-29,False
+10918,Sales,Sales Manager,Amsterdam,1.0,42,Male,7.5,False,2018-03-25,False,False,False,63215.0,Active,,,False,0,,True
+10919,Sales,Senior Sales Rep,Amsterdam,1.0,31,Male,9.0,False,2016-06-24,False,False,False,76234.0,Active,,,False,0,,True
+10920,Sales,Sales Rep,Rotterdam,0.8,39,Male,15.9,False,2009-10-26,False,False,False,41564.0,Active,,,False,3,2017-09-04,False
+10921,Sales,Sales Manager,Amsterdam,0.6,33,Male,2.8,True,2022-11-22,False,False,False,56849.0,Active,,,False,1,2024-03-15,True
+10922,Sales,Sales Rep,Utrecht,1.0,29,Female,2.1,False,2023-07-19,False,False,False,69075.0,Active,,,False,1,2025-03-20,True
+10923,Sales,Senior Sales Rep,Amsterdam,0.8,30,Male,5.1,False,2020-07-09,False,False,False,48622.0,Active,,,False,0,,False
+10924,Sales,Sales Manager,Utrecht,1.0,37,Male,11.1,False,2014-06-01,False,False,False,53161.0,Active,,,False,0,,False
+10925,Sales,Sales Rep,Amsterdam,0.6,43,Male,4.1,False,2021-08-30,False,True,True,72538.0,Left,2024-12-31,Voluntary,False,0,,True
+10926,Sales,Senior Sales Rep,Amsterdam,1.0,45,Female,11.1,False,2014-06-26,False,False,False,46548.0,Active,,,False,1,2025-06-07,False
+10927,Sales,Sales Manager,Utrecht,1.0,29,Female,3.5,True,2022-03-25,True,True,True,46978.0,Active,,,False,1,2024-08-03,False
+10928,Sales,Sales Manager,Utrecht,1.0,36,Female,7.4,False,2018-01-27,False,False,False,61210.0,Left,2025-02-10,Voluntary,False,1,2025-04-06,True
+10929,Sales,Sales Manager,Rotterdam,0.6,41,Male,5.1,False,2020-06-22,False,True,True,62254.0,Active,,,False,0,,True
+10930,Sales,Sales Manager,Amsterdam,0.8,39,Male,3.9,False,2021-10-03,False,False,False,46661.0,Active,,,False,1,2022-04-14,False
+10931,Sales,Senior Sales Rep,Rotterdam,0.6,43,Female,9.0,False,2016-07-24,False,False,False,61430.0,Active,,,False,2,2025-04-03,True
+10932,Sales,Sales Manager,Rotterdam,0.8,35,Female,7.9,False,2017-09-29,False,False,False,74358.0,Active,,,False,0,,True
+10933,Sales,Sales Manager,Amsterdam,1.0,47,Male,5.2,True,2020-06-10,False,False,False,46009.0,Active,,,False,0,,False
+10934,Sales,Sales Manager,Rotterdam,0.6,38,Male,11.0,False,2014-10-14,False,False,False,63260.0,Active,,,False,1,2017-04-16,True
+10935,Sales,Senior Sales Rep,Rotterdam,0.6,43,Male,7.2,False,2018-04-30,True,False,False,69273.0,Active,,,False,1,2022-10-21,True
+10936,Sales,Sales Rep,Amsterdam,1.0,35,Female,4.2,False,2021-06-11,True,True,True,67715.0,Active,,,False,1,2024-05-08,True
+10937,Sales,Sales Manager,The Hague,1.0,38,Female,5.1,False,2020-07-11,False,False,False,58416.0,Active,,,False,1,2024-05-24,True
+10938,Sales,Sales Rep,Utrecht,1.0,27,Female,2.3,False,2023-03-10,False,False,False,62673.0,Active,,,False,0,,True
+10939,Sales,Senior Sales Rep,Amsterdam,0.6,32,Male,3.2,False,2022-05-18,False,False,False,67065.0,Active,,,False,0,,True
+10940,Sales,Sales Rep,Rotterdam,0.8,37,Male,4.2,False,2021-05-13,False,False,False,74826.0,Active,,,False,0,,True
+10941,Sales,Sales Manager,Amsterdam,0.8,39,Male,6.9,False,2018-11-18,False,False,False,53442.0,Active,,,False,1,2021-09-19,False
+10942,Sales,Sales Manager,Utrecht,0.6,57,Female,8.6,False,2016-12-02,False,False,False,52648.0,Active,,,False,2,2024-07-26,False
+10943,Sales,Senior Sales Rep,Rotterdam,0.8,35,Male,5.5,False,2020-01-13,False,False,False,49395.0,Left,2024-12-02,Retirement,False,1,2022-03-12,False
+10944,Sales,Sales Manager,Amsterdam,0.8,28,Female,4.1,False,2021-05-24,False,False,False,54511.0,Active,,,False,0,,True
+10945,Sales,Sales Rep,Amsterdam,0.8,50,Male,10.8,False,2014-12-12,True,False,False,37907.0,Left,2025-01-11,Voluntary,False,0,,False
+10946,Sales,Sales Manager,Amsterdam,1.0,46,Female,6.7,False,2018-12-22,False,False,False,47344.0,Active,,,False,0,,False
+10947,Sales,Sales Rep,Rotterdam,1.0,30,Female,4.0,False,2021-09-15,False,False,False,65166.0,Active,,,False,0,,True
+10948,Sales,Sales Manager,Utrecht,1.0,41,Male,8.5,False,2016-12-20,False,True,False,39497.0,Active,,,False,1,2024-02-17,False
+10949,Sales,Senior Sales Rep,Amsterdam,0.8,44,Female,6.0,False,2019-07-15,False,False,False,41002.0,Active,,,False,0,,False
+10950,Underwriting,Senior Underwriter,Amsterdam,0.8,31,Male,8.8,False,2016-09-19,False,False,False,66397.0,Active,,,False,0,,True
+10951,Underwriting,UW Team Lead,Amsterdam,1.0,43,Male,6.9,False,2018-10-31,False,False,False,62321.0,Active,,,False,0,,True
+10952,Underwriting,Senior Underwriter,Amsterdam,1.0,46,Female,5.5,False,2020-01-31,False,False,False,71352.0,Active,,,False,0,,True
+10953,Underwriting,Senior Underwriter,Rotterdam,1.0,43,Female,9.9,False,2015-10-08,False,False,False,48214.0,Active,,,False,1,2017-10-01,False
+10954,Underwriting,Underwriter,Amsterdam,1.0,44,Female,2.8,False,2022-12-12,False,False,False,72310.0,Active,,,False,0,,True
+10955,Underwriting,UW Team Lead,Rotterdam,1.0,48,Female,8.4,False,2017-03-28,True,False,False,68617.0,Active,,,False,2,2022-02-10,True
+10956,Underwriting,Senior Underwriter,Utrecht,0.6,41,Female,11.3,False,2014-05-08,False,True,False,65094.0,Active,,,False,1,2015-05-10,True
+10957,Underwriting,UW Team Lead,Utrecht,1.0,35,Male,6.1,True,2019-06-12,False,False,False,77830.0,Active,,,False,0,,True
+10958,Underwriting,Senior Underwriter,Rotterdam,1.0,37,Male,9.6,False,2016-01-20,True,False,False,53067.0,Active,,,False,1,2018-07-18,False
+10959,Underwriting,Senior Underwriter,The Hague,0.8,37,Male,2.7,False,2023-01-12,False,False,False,81063.0,Active,,,False,0,,True
+10960,Underwriting,Underwriter,Rotterdam,0.6,34,Female,8.2,False,2017-04-27,True,False,False,86353.0,Active,,,False,0,,True
+10961,Underwriting,Senior Underwriter,Rotterdam,0.8,46,Male,1.6,False,2023-12-18,False,False,False,52986.0,Active,,,False,1,2025-01-19,False
+10962,Underwriting,UW Team Lead,Utrecht,0.8,45,Female,1.6,True,2024-01-31,True,False,False,82510.0,Active,,,False,0,,True
+10963,Underwriting,UW Team Lead,Utrecht,1.0,29,Female,3.8,False,2021-09-20,True,False,False,81053.0,Active,,,False,0,,True
+10964,Underwriting,UW Team Lead,Utrecht,0.6,35,Female,4.9,True,2020-11-09,False,False,False,62334.0,Active,,,False,0,,True
+10965,Underwriting,UW Team Lead,Amsterdam,1.0,33,Male,1.3,False,2024-04-11,False,False,False,70062.0,Active,,,False,0,,True
+10966,Underwriting,UW Team Lead,Rotterdam,0.8,43,Male,3.4,False,2022-01-31,False,True,False,88008.0,Active,,,False,0,,True
+10967,Underwriting,Senior Underwriter,The Hague,1.0,49,Female,19.7,False,2005-11-04,False,False,False,61675.0,Active,,,False,1,2025-06-15,True
+10968,Underwriting,Underwriter,Rotterdam,1.0,44,Female,8.5,False,2016-12-30,True,False,False,63116.0,Active,,,False,1,2024-07-05,True
+10969,Underwriting,Senior Underwriter,Utrecht,1.0,36,Male,5.9,False,2019-09-18,True,False,False,69799.0,Active,,,False,0,,True
+10970,Underwriting,Senior Underwriter,Rotterdam,1.0,39,Female,6.2,False,2019-04-17,True,False,False,46773.0,Active,,,False,1,2021-07-21,False
+10971,Underwriting,Underwriter,Utrecht,1.0,31,Female,3.6,False,2022-01-18,False,False,False,69939.0,Active,,,False,0,,True
+10972,Underwriting,UW Team Lead,Amsterdam,1.0,32,Male,4.9,True,2020-08-11,False,False,False,69282.0,Active,,,False,1,2023-04-05,True
+10973,Underwriting,Senior Underwriter,Rotterdam,0.8,47,Female,4.4,False,2021-02-11,True,False,False,62352.0,Active,,,False,0,,True
+10974,Underwriting,UW Team Lead,Amsterdam,1.0,51,Male,12.3,True,2013-06-17,False,True,True,108572.0,Active,,,False,1,2017-02-02,True
+10975,Underwriting,UW Team Lead,Utrecht,1.0,36,Female,4.5,False,2021-02-03,True,False,False,50111.0,Active,,,False,1,2022-01-16,False
+10976,Underwriting,Underwriter,Utrecht,0.8,41,Male,7.3,False,2018-04-17,True,True,True,70549.0,Active,,,False,0,,True
+10977,Underwriting,UW Team Lead,Amsterdam,1.0,46,Female,11.8,False,2013-10-28,False,False,False,42191.0,Active,,,False,0,,False
+10978,Underwriting,UW Team Lead,Utrecht,1.0,29,Female,2.8,False,2022-10-18,False,True,True,50567.0,Left,2024-09-13,Voluntary,False,0,,False
+10979,Underwriting,UW Team Lead,Rotterdam,1.0,34,Male,4.3,False,2021-06-01,True,False,False,48253.0,Active,,,False,0,,False
+10980,Underwriting,Underwriter,Amsterdam,1.0,55,Female,14.4,False,2011-02-05,False,False,False,72979.0,Active,,,False,2,2016-08-07,True
+10981,Underwriting,Underwriter,Rotterdam,0.6,34,Female,10.1,False,2015-06-15,False,False,False,49784.0,Active,,,False,0,,False
+10982,Underwriting,Senior Underwriter,Amsterdam,0.6,38,Female,2.2,False,2023-06-19,True,False,False,81434.0,Active,,,False,1,2025-03-18,True
+10983,Underwriting,Underwriter,Rotterdam,0.8,37,Male,7.2,False,2018-07-08,False,False,False,82602.0,Active,,,False,0,,True
+10984,Underwriting,Underwriter,Rotterdam,1.0,27,Male,3.2,False,2022-08-02,False,False,False,65522.0,Active,,,False,0,,True
+10985,Underwriting,UW Team Lead,Utrecht,1.0,42,Male,7.5,False,2018-04-01,False,False,False,47233.0,Active,,,False,0,,False
+10986,Underwriting,Underwriter,Utrecht,1.0,41,Female,3.2,False,2022-06-06,False,False,False,59625.0,Active,,,False,0,,False
+10987,Underwriting,UW Team Lead,Rotterdam,1.0,42,Male,9.7,True,2015-12-15,True,False,False,74710.0,Active,,,False,1,2019-12-04,True
+10988,Underwriting,UW Team Lead,Amsterdam,1.0,40,Female,16.8,False,2008-12-27,False,False,False,55534.0,Active,,,False,1,2012-05-12,False
+10989,Underwriting,Underwriter,The Hague,1.0,38,Female,11.6,False,2013-12-26,True,False,False,55692.0,Active,,,False,2,2022-01-11,False
+10990,Underwriting,UW Team Lead,Utrecht,1.0,37,Female,2.3,False,2023-04-08,False,False,False,52272.0,Active,,,False,2,2025-07-06,False
+10991,Underwriting,Underwriter,Amsterdam,1.0,37,Female,2.6,False,2023-03-08,False,True,True,67475.0,Active,,,False,0,,True
+10992,Underwriting,Underwriter,Utrecht,1.0,34,Female,4.1,False,2021-05-18,False,False,False,62084.0,Active,,,False,0,,True
+10993,Underwriting,Senior Underwriter,Amsterdam,0.6,35,Female,4.3,False,2021-05-23,False,False,False,67074.0,Active,,,False,1,2023-12-13,True
+10994,Underwriting,Underwriter,Rotterdam,1.0,34,Male,7.7,False,2017-10-30,False,False,False,71662.0,Active,,,False,2,2021-01-14,True
+10995,Underwriting,UW Team Lead,Rotterdam,0.8,45,Female,9.4,False,2016-02-09,False,True,True,46229.0,Active,,,False,1,2020-10-01,False
+10996,Underwriting,Underwriter,Rotterdam,0.8,43,Female,13.7,False,2012-01-13,False,False,False,55281.0,Active,,,False,1,2012-11-14,False
+10997,Underwriting,Senior Underwriter,The Hague,1.0,41,Female,2.2,False,2023-05-24,True,False,False,81027.0,Active,,,False,1,2025-01-21,True
+10998,Underwriting,UW Team Lead,Rotterdam,1.0,55,Female,1.4,True,2024-04-18,False,True,False,53461.0,Active,,,False,0,,False
+10999,Underwriting,Underwriter,Amsterdam,1.0,35,Male,0.0,False,2025-10-13,False,False,False,76599.0,Left,2025-05-09,Involuntary,False,0,,True
+11000,Underwriting,UW Team Lead,The Hague,1.0,49,Male,11.8,False,2013-11-27,True,False,False,76917.0,Active,,,False,1,2014-09-10,True
+11001,Underwriting,Senior Underwriter,The Hague,1.0,39,Female,9.0,False,2016-08-02,False,False,False,70037.0,Active,,,False,0,,True
+11002,Underwriting,UW Team Lead,Utrecht,0.6,42,Male,3.0,True,2022-07-22,False,False,False,96015.0,Active,,,False,0,,True
+11003,Underwriting,UW Team Lead,Rotterdam,0.6,46,Female,8.1,True,2017-06-26,False,True,False,61287.0,Active,,,False,0,,True
+11004,Underwriting,UW Team Lead,Amsterdam,1.0,38,Male,0.7,False,2025-01-23,False,False,False,67261.0,Active,,,False,0,,True
+11005,Underwriting,Underwriter,Utrecht,0.6,34,Male,2.8,False,2022-10-08,False,True,True,67675.0,Active,,,False,1,2023-04-05,True
+11006,Underwriting,Underwriter,Amsterdam,1.0,35,Male,8.0,False,2017-08-16,False,False,False,62460.0,Active,,,False,0,,True
+11007,Underwriting,Underwriter,Amsterdam,0.8,26,Female,2.0,False,2023-09-03,False,False,False,58190.0,Active,,,False,1,2025-05-12,False
+11008,Underwriting,Senior Underwriter,Rotterdam,1.0,45,Female,11.3,False,2014-04-23,False,True,True,82808.0,Active,,,False,1,2024-10-07,True
+11009,Underwriting,Underwriter,Amsterdam,1.0,45,Male,8.3,False,2017-05-02,False,False,False,46701.0,Active,,,False,0,,False
+11010,Underwriting,UW Team Lead,Amsterdam,1.0,52,Female,5.8,False,2019-12-20,True,False,False,58163.0,Active,,,False,0,,False
+11011,Underwriting,Senior Underwriter,Rotterdam,0.8,44,Male,5.8,False,2019-10-13,False,False,False,71327.0,Left,2025-06-04,Retirement,False,0,,True
+11012,Underwriting,Underwriter,Amsterdam,1.0,46,Male,6.3,False,2019-05-01,True,False,False,81563.0,Left,2024-09-03,Voluntary,False,1,2020-09-11,True
+11013,Underwriting,Underwriter,Amsterdam,1.0,40,Female,10.2,False,2015-06-05,False,False,False,79008.0,Active,,,False,0,,True
+11014,Underwriting,Senior Underwriter,Amsterdam,0.6,44,Female,6.7,False,2018-12-14,False,False,False,89162.0,Active,,,False,2,2021-12-03,True
+11015,Underwriting,Underwriter,Amsterdam,0.6,49,Male,9.9,False,2015-11-01,False,False,False,85797.0,Active,,,False,0,,True
+11016,Underwriting,Underwriter,Utrecht,1.0,42,Female,1.2,False,2024-07-04,False,False,False,51496.0,Active,,,False,0,,False
+11017,Underwriting,UW Team Lead,Utrecht,0.8,37,Female,9.0,False,2016-09-04,True,False,False,85086.0,Left,2024-09-27,Voluntary,False,1,2021-12-28,True
+11018,Underwriting,Senior Underwriter,Rotterdam,1.0,39,Male,6.7,False,2018-10-08,True,False,False,58830.0,Active,,,False,0,,False
+11019,Underwriting,UW Team Lead,Rotterdam,1.0,46,Male,10.0,False,2015-08-11,False,True,False,55019.0,Active,,,False,0,,False
+11020,Underwriting,UW Team Lead,Amsterdam,1.0,38,Female,12.7,True,2013-01-15,False,False,False,76789.0,Active,,,False,1,2022-11-24,True
+11021,Underwriting,UW Team Lead,Amsterdam,1.0,47,Male,10.1,False,2015-07-31,False,False,False,59797.0,Active,,,False,2,2022-03-27,False
+11022,Underwriting,UW Team Lead,Amsterdam,1.0,54,Male,8.6,True,2016-12-29,False,False,False,72346.0,Active,,,False,1,2018-06-14,True
+11023,Underwriting,Senior Underwriter,Rotterdam,1.0,47,Female,4.1,False,2021-09-03,False,False,False,45743.0,Active,,,False,1,2023-09-05,False
+11024,Underwriting,Senior Underwriter,Utrecht,1.0,46,Male,4.1,False,2021-08-25,False,False,False,56498.0,Active,,,False,0,,False
+11025,Underwriting,UW Team Lead,Rotterdam,0.8,43,Male,7.6,True,2018-02-17,False,True,True,59223.0,Active,,,False,1,2025-01-03,False
+11026,Underwriting,UW Team Lead,Rotterdam,0.8,36,Male,0.0,False,2025-08-18,False,False,False,75860.0,Active,,,False,2,2025-11-26,True
+11027,Underwriting,UW Team Lead,Amsterdam,1.0,35,Female,3.0,True,2022-07-21,False,False,False,85300.0,Active,,,False,2,2023-11-29,True
+11028,Underwriting,Underwriter,Utrecht,1.0,35,Male,7.9,False,2017-10-23,False,False,False,54247.0,Active,,,False,0,,False
+11029,Underwriting,Senior Underwriter,Rotterdam,1.0,45,Male,9.8,False,2015-10-22,True,False,False,49823.0,Active,,,False,1,2017-04-30,False
+11030,Underwriting,UW Team Lead,Utrecht,0.8,38,Male,8.9,False,2016-11-17,False,False,False,52237.0,Active,,,False,0,,False
+11031,Underwriting,Underwriter,Rotterdam,1.0,41,Female,6.6,False,2018-11-17,False,True,True,48930.0,Active,,,False,2,2025-06-28,False
+11032,Underwriting,UW Team Lead,Utrecht,1.0,44,Female,2.5,False,2023-02-11,True,False,False,73326.0,Active,,,False,1,2025-03-30,True
+11033,Underwriting,UW Team Lead,The Hague,1.0,35,Male,14.1,True,2011-07-16,False,False,False,56055.0,Active,,,False,1,2014-07-23,False
+11034,Underwriting,UW Team Lead,The Hague,1.0,37,Male,4.2,False,2021-04-14,False,False,False,83362.0,Active,,,False,0,,True
+11035,Underwriting,UW Team Lead,Rotterdam,1.0,43,Female,5.7,False,2020-01-07,True,False,False,53688.0,Left,2025-06-30,Retirement,False,0,,False
+11036,Underwriting,UW Team Lead,Rotterdam,0.6,39,Female,7.0,False,2018-09-29,False,False,False,58125.0,Active,,,False,1,2022-09-02,False
+11037,Underwriting,Senior Underwriter,Amsterdam,1.0,40,Female,4.7,False,2020-11-07,False,False,False,79714.0,Active,,,False,0,,True
+11038,Underwriting,Senior Underwriter,The Hague,1.0,34,Male,4.6,False,2020-12-25,True,False,False,58748.0,Left,2025-08-06,Involuntary,False,0,,False
+11039,Underwriting,UW Team Lead,Rotterdam,1.0,40,Male,2.5,False,2023-01-10,False,False,False,68076.0,Active,,,False,1,2024-04-04,True
+11040,Underwriting,Underwriter,Amsterdam,0.8,53,Female,5.4,False,2020-05-13,False,False,False,62197.0,Active,,,False,1,2021-09-27,True
+11041,Underwriting,Underwriter,Rotterdam,1.0,38,Male,3.2,False,2022-07-28,False,False,False,56806.0,Active,,,False,0,,False
+11042,Underwriting,Senior Underwriter,Amsterdam,1.0,33,Male,11.6,False,2014-02-04,False,False,False,74822.0,Left,2024-10-30,Voluntary,False,0,,True
+11043,Underwriting,Senior Underwriter,Rotterdam,1.0,48,Female,8.5,False,2017-01-12,True,False,False,49451.0,Active,,,False,0,,False
+11044,Underwriting,Senior Underwriter,Rotterdam,0.8,45,Female,8.1,False,2017-07-28,True,False,False,85973.0,Active,,,False,0,,True
+11045,Underwriting,UW Team Lead,Amsterdam,1.0,42,Male,1.5,False,2024-01-21,False,False,False,47594.0,Active,,,False,1,2025-06-29,False
+11046,Underwriting,Underwriter,Amsterdam,1.0,32,Female,3.0,False,2022-09-30,False,False,False,69779.0,Active,,,False,0,,True
+11047,Underwriting,Senior Underwriter,The Hague,0.6,33,Male,3.6,False,2021-12-13,True,False,False,49205.0,Active,,,False,0,,False
+11048,Underwriting,UW Team Lead,Utrecht,0.6,30,Female,2.8,False,2022-09-03,False,False,False,57422.0,Active,,,False,0,,False
+11049,Underwriting,Senior Underwriter,Utrecht,1.0,44,Female,8.9,False,2016-07-28,False,False,False,81473.0,Active,,,False,1,2018-01-31,True
+11050,Underwriting,Underwriter,Rotterdam,0.6,48,Male,8.3,False,2017-06-16,False,False,False,89069.0,Active,,,False,1,2020-07-08,True
+11051,Underwriting,Underwriter,Utrecht,1.0,44,Male,7.2,False,2018-07-25,False,True,False,78803.0,Active,,,False,1,2021-04-02,True
+11052,Underwriting,Senior Underwriter,Rotterdam,1.0,55,Male,6.0,False,2019-07-26,False,False,False,54368.0,Active,,,False,0,,False
+11053,Underwriting,UW Team Lead,Amsterdam,1.0,38,Male,4.5,False,2021-01-20,False,False,False,64207.0,Active,,,False,0,,True
+11054,Underwriting,Underwriter,Amsterdam,1.0,39,Male,0.4,False,2025-04-18,False,False,False,43759.0,Active,,,False,2,2025-07-31,False
+11055,Underwriting,Underwriter,Amsterdam,1.0,42,Female,5.2,False,2020-06-05,False,True,False,65573.0,Active,,,False,1,2023-11-19,True
+11056,Underwriting,Underwriter,Amsterdam,1.0,39,Male,3.5,False,2022-01-03,False,False,False,57649.0,Active,,,False,0,,False
+11057,Underwriting,Senior Underwriter,The Hague,0.8,44,Female,7.9,False,2017-11-10,False,True,False,93940.0,Active,,,False,0,,True
+11058,Underwriting,UW Team Lead,Amsterdam,0.8,37,Male,5.4,False,2020-04-14,False,False,False,52552.0,Active,,,False,0,,False
+11059,Underwriting,UW Team Lead,Rotterdam,1.0,31,Female,2.8,False,2022-11-15,False,False,False,53995.0,Active,,,False,1,2025-03-25,False
+11060,Underwriting,UW Team Lead,Rotterdam,1.0,28,Male,2.5,False,2023-03-20,False,False,False,71544.0,Active,,,False,0,,True
+11061,Underwriting,UW Team Lead,Amsterdam,1.0,44,Male,20.6,False,2005-02-03,False,False,False,75612.0,Active,,,False,1,2018-09-07,True
+11062,Underwriting,UW Team Lead,Rotterdam,1.0,37,Male,4.5,False,2021-04-01,False,False,False,72406.0,Active,,,False,2,2025-06-10,True
+11063,Underwriting,UW Team Lead,Amsterdam,1.0,33,Male,1.5,True,2024-02-26,False,False,False,84884.0,Active,,,False,1,2024-10-17,True
+11064,Underwriting,Senior Underwriter,Utrecht,1.0,37,Female,13.6,False,2011-11-19,False,False,False,73877.0,Active,,,False,1,2018-07-26,True
+11065,Underwriting,UW Team Lead,Amsterdam,1.0,55,Female,5.1,False,2020-08-13,False,False,False,79093.0,Active,,,False,1,2023-04-10,True
+11066,Underwriting,UW Team Lead,Rotterdam,1.0,33,Male,6.6,False,2019-01-03,False,True,True,58146.0,Active,,,False,0,,False
+11067,Underwriting,Senior Underwriter,Utrecht,0.8,46,Male,2.1,False,2023-06-10,False,False,False,51163.0,Active,,,False,0,,False
+11068,Underwriting,Senior Underwriter,The Hague,0.8,44,Male,6.1,False,2019-07-13,False,False,False,51343.0,Active,,,False,1,2023-01-04,False
+11069,Underwriting,UW Team Lead,Utrecht,1.0,50,Male,0.7,False,2025-01-21,False,False,False,57867.0,Active,,,False,1,2025-08-13,False
+11070,Underwriting,UW Team Lead,Rotterdam,1.0,40,Female,0.7,False,2025-01-17,False,False,False,70030.0,Active,,,False,1,2025-08-04,True
+11071,Underwriting,Senior Underwriter,Rotterdam,1.0,30,Male,0.0,False,2025-08-23,False,False,False,56075.0,Active,,,False,0,,False
+11072,Underwriting,Underwriter,Rotterdam,1.0,48,Male,10.7,False,2014-12-13,True,False,False,83141.0,Active,,,False,1,2022-05-25,True
+11073,Underwriting,UW Team Lead,Utrecht,1.0,39,Male,5.9,False,2019-10-05,True,False,False,69148.0,Active,,,False,0,,True
+11074,Underwriting,UW Team Lead,The Hague,1.0,50,Male,9.1,True,2016-08-06,False,False,False,94057.0,Left,2025-02-18,Retirement,False,3,2022-04-14,True
+11075,Underwriting,UW Team Lead,Amsterdam,1.0,47,Male,11.8,False,2013-10-29,True,False,False,87413.0,Active,,,False,1,2015-04-28,True
+11076,Underwriting,UW Team Lead,Rotterdam,1.0,48,Male,6.2,False,2019-05-13,True,False,False,60461.0,Active,,,False,1,2022-03-21,False
+11077,Underwriting,UW Team Lead,Utrecht,1.0,58,Male,14.6,True,2011-02-16,False,False,False,88336.0,Active,,,False,0,,True
+11078,Underwriting,UW Team Lead,Rotterdam,1.0,43,Male,10.3,False,2015-05-06,False,True,False,75781.0,Active,,,False,1,2017-01-25,True
+11079,Underwriting,Underwriter,Amsterdam,1.0,51,Male,7.9,False,2017-07-26,False,False,False,70858.0,Left,2025-01-19,Retirement,False,1,2018-01-07,True
+11080,Underwriting,Senior Underwriter,Rotterdam,0.6,38,Female,3.3,False,2022-03-31,True,False,False,60648.0,Active,,,False,0,,True
+11081,Underwriting,Senior Underwriter,Rotterdam,0.8,45,Male,10.8,False,2014-12-08,False,True,True,54901.0,Left,2025-04-30,Retirement,False,1,2020-06-12,False
+11082,Underwriting,Underwriter,The Hague,1.0,37,Male,2.0,False,2023-06-18,False,True,True,58454.0,Active,,,False,0,,False
+11083,Underwriting,Senior Underwriter,Rotterdam,1.0,44,Male,10.5,False,2015-02-05,False,False,False,69902.0,Active,,,False,0,,True
+11084,Underwriting,Senior Underwriter,Amsterdam,0.8,44,Male,2.0,False,2023-08-08,False,False,False,83675.0,Active,,,False,1,2024-11-10,True
+11085,Underwriting,UW Team Lead,Amsterdam,1.0,27,Male,1.4,True,2024-03-02,False,False,False,51705.0,Active,,,False,0,,False
+11086,Underwriting,Senior Underwriter,Amsterdam,0.8,37,Female,7.1,False,2018-07-24,False,False,False,80515.0,Active,,,False,0,,True
+11087,Underwriting,Senior Underwriter,Rotterdam,1.0,43,Female,9.6,False,2015-12-05,True,False,False,76427.0,Active,,,False,0,,True
+11088,Underwriting,UW Team Lead,Rotterdam,0.6,25,Male,2.3,False,2023-06-27,False,False,False,46456.0,Active,,,False,1,2024-03-09,False
+11089,Underwriting,Underwriter,Amsterdam,0.8,40,Female,7.1,False,2018-07-20,False,False,False,68302.0,Active,,,False,0,,True
+11090,Underwriting,Senior Underwriter,Utrecht,1.0,48,Male,5.6,False,2019-11-13,False,False,False,68299.0,Active,,,False,1,2024-04-04,True
+11091,Underwriting,Senior Underwriter,Utrecht,1.0,50,Male,9.3,False,2016-06-23,False,False,False,82413.0,Active,,,False,0,,True
+11092,Underwriting,Senior Underwriter,Amsterdam,1.0,36,Female,9.0,False,2016-07-09,False,False,False,69271.0,Active,,,False,2,2017-10-31,True
+11093,Underwriting,UW Team Lead,Amsterdam,1.0,51,Female,15.6,False,2009-12-27,False,False,False,85818.0,Active,,,False,0,,True
+11094,Underwriting,Senior Underwriter,The Hague,1.0,49,Female,13.0,False,2012-09-28,True,False,False,45800.0,Active,,,False,0,,False
+11095,Underwriting,Senior Underwriter,Rotterdam,1.0,26,Male,4.4,False,2021-02-18,False,False,False,43907.0,Active,,,False,1,2025-04-07,False
+11096,Underwriting,Underwriter,Utrecht,1.0,42,Male,3.9,False,2021-10-23,False,True,True,67729.0,Active,,,False,1,2023-11-22,True
+11097,Underwriting,UW Team Lead,Rotterdam,1.0,43,Male,8.5,False,2017-02-02,False,False,False,43547.0,Active,,,False,1,2018-07-31,False
+11098,Underwriting,Senior Underwriter,Utrecht,0.8,52,Female,10.4,False,2015-02-19,False,True,True,72471.0,Active,,,False,0,,True
+11099,Underwriting,Underwriter,Utrecht,1.0,43,Male,3.1,False,2022-07-05,False,False,False,71419.0,Active,,,False,1,2023-09-06,True
+11100,Admin,Finance Assistant,Rotterdam,1.0,44,Male,7.0,False,2018-07-29,True,False,False,33238.0,Active,,,False,0,,False
+11101,Admin,Office Manager,Amsterdam,1.0,29,Male,4.4,True,2021-03-31,False,False,False,65951.0,Active,,,False,1,2023-08-17,True
+11102,Admin,Office Manager,Utrecht,1.0,39,Female,2.4,False,2023-01-23,False,False,False,53612.0,Active,,,False,0,,True
+11103,Admin,Office Manager,Rotterdam,0.6,37,Female,5.7,False,2019-10-07,False,False,False,47732.0,Left,2025-03-27,Voluntary,False,1,2020-08-05,True
+11104,Admin,HR Generalist,Amsterdam,1.0,44,Male,14.3,False,2011-04-07,False,True,False,47013.0,Active,,,False,0,,True
+11105,Admin,HR Generalist,Amsterdam,1.0,41,Male,12.6,False,2012-11-26,False,False,False,45264.0,Active,,,False,0,,True
+11106,Admin,Office Manager,The Hague,1.0,50,Female,9.3,False,2016-04-26,False,False,False,44593.0,Active,,,False,1,2023-03-10,True
+11107,Admin,Finance Assistant,Amsterdam,0.8,34,Male,4.7,False,2020-11-16,False,False,False,33927.0,Active,,,False,0,,False
+11108,Admin,HR Generalist,The Hague,0.6,45,Female,13.2,False,2012-06-03,False,False,False,60480.0,Active,,,False,2,2014-12-31,True
+11109,Admin,HR Generalist,Rotterdam,1.0,40,Male,5.7,False,2019-11-08,False,False,False,48247.0,Active,,,False,0,,True
+11110,Admin,Finance Assistant,Rotterdam,1.0,26,Female,4.5,False,2021-02-08,False,False,False,46318.0,Active,,,False,0,,True
+11111,Admin,Office Manager,Utrecht,0.8,32,Female,7.5,False,2018-02-14,False,False,False,33306.0,Active,,,False,0,,False
+11112,Admin,Finance Assistant,Amsterdam,1.0,38,Male,9.2,False,2016-06-05,False,False,False,45077.0,Active,,,False,0,,True
+11113,Admin,HR Generalist,Amsterdam,1.0,48,Male,12.8,False,2012-10-09,True,False,False,36344.0,Active,,,False,1,2019-04-08,False
+11114,Admin,Office Manager,Amsterdam,0.8,43,Male,5.9,True,2019-09-03,False,False,False,51219.0,Active,,,False,0,,True
+11115,Admin,Office Manager,The Hague,0.6,30,Female,3.1,False,2022-07-01,False,False,False,31125.0,Active,,,False,1,2025-06-04,False
+11116,Admin,HR Generalist,Rotterdam,1.0,38,Male,1.1,False,2024-05-18,False,False,False,41388.0,Active,,,False,0,,False
+11117,Admin,Office Manager,Rotterdam,1.0,55,Female,8.2,True,2017-06-22,False,False,False,73395.0,Active,,,False,2,2018-05-15,True
+11118,Admin,Office Manager,Amsterdam,1.0,40,Female,5.1,False,2020-07-20,False,False,False,58028.0,Active,,,False,1,2025-07-14,True
+11119,Admin,Office Manager,Rotterdam,1.0,36,Male,1.9,True,2023-07-29,False,False,False,67214.0,Active,,,False,1,2025-03-18,True
+11120,Admin,Office Manager,Amsterdam,1.0,43,Female,5.0,False,2020-08-03,False,False,False,56791.0,Active,,,False,1,2021-10-16,True
+11121,Admin,Office Manager,Amsterdam,1.0,45,Male,6.9,False,2018-09-19,False,False,False,42445.0,Active,,,False,0,,True
+11122,Admin,Office Manager,Amsterdam,1.0,35,Female,4.9,True,2020-11-20,False,False,False,49430.0,Active,,,False,0,,True
+11123,Admin,Office Manager,Rotterdam,1.0,43,Male,4.4,True,2021-04-04,False,False,False,47897.0,Active,,,False,0,,True
+11124,Admin,HR Generalist,Rotterdam,1.0,36,Male,5.2,False,2020-07-13,False,False,False,46982.0,Active,,,False,0,,True
+11125,Admin,Office Manager,Rotterdam,1.0,45,Male,4.1,False,2021-06-06,False,False,False,39005.0,Active,,,False,0,,False
+11126,Admin,Office Manager,Utrecht,1.0,40,Male,10.1,False,2015-08-14,False,False,False,35751.0,Active,,,False,0,,False
+11127,Admin,Office Manager,The Hague,1.0,43,Male,14.9,False,2010-10-21,True,True,False,51994.0,Active,,,False,1,2013-05-12,True
+11128,Admin,Finance Assistant,Utrecht,1.0,33,Male,5.2,False,2020-05-15,False,False,False,34774.0,Active,,,False,0,,False
+11129,Admin,HR Generalist,Rotterdam,1.0,32,Male,4.2,False,2021-05-20,False,False,False,43288.0,Active,,,False,1,2023-08-14,True
+11130,Admin,HR Generalist,Utrecht,0.8,47,Female,6.9,False,2018-10-30,False,False,False,37149.0,Active,,,False,1,2019-02-14,False
+11131,Admin,Finance Assistant,The Hague,1.0,38,Male,5.8,False,2019-09-26,False,False,False,52952.0,Active,,,False,0,,True
+11132,Admin,Office Manager,Rotterdam,0.6,41,Male,6.5,False,2018-12-31,False,False,False,52219.0,Active,,,False,1,2022-11-29,True
+11133,Admin,Finance Assistant,Rotterdam,1.0,37,Male,7.9,False,2017-10-24,False,False,False,57438.0,Active,,,False,1,2024-12-27,True
+11134,Admin,Finance Assistant,Amsterdam,1.0,46,Male,6.8,False,2018-10-06,False,False,False,58453.0,Active,,,False,0,,True
+11135,Admin,Finance Assistant,The Hague,1.0,34,Male,4.7,False,2020-12-23,False,False,False,51101.0,Active,,,False,1,2023-02-19,True
+11136,Admin,HR Generalist,Amsterdam,1.0,38,Male,4.1,False,2021-07-01,False,False,False,39587.0,Active,,,False,1,2022-01-26,False
+11137,Admin,HR Generalist,Amsterdam,0.8,45,Female,7.4,False,2018-02-07,False,False,False,52521.0,Left,2025-02-17,Voluntary,False,0,,True
+11138,Admin,HR Generalist,Rotterdam,0.6,48,Female,6.3,False,2019-05-11,False,False,False,37051.0,Active,,,False,0,,False
+11139,Admin,Office Manager,Utrecht,0.6,35,Female,6.8,False,2018-09-02,True,False,False,52938.0,Active,,,False,0,,True
+11140,Admin,Office Manager,Rotterdam,1.0,55,Male,17.4,False,2008-02-15,False,False,False,45542.0,Active,,,False,1,2021-05-21,True
+11141,Admin,Finance Assistant,Utrecht,1.0,42,Male,2.2,False,2023-05-25,False,False,False,45012.0,Active,,,False,0,,True
+11142,Admin,HR Generalist,Utrecht,1.0,31,Male,2.6,False,2023-01-10,False,False,False,52444.0,Active,,,False,2,2025-01-21,True
+11143,Admin,HR Generalist,Rotterdam,1.0,42,Female,1.9,False,2023-08-01,False,False,False,65719.0,Active,,,False,0,,True
+11144,Admin,Office Manager,Rotterdam,1.0,36,Male,11.6,False,2014-02-11,False,False,False,43758.0,Active,,,False,1,2023-02-05,True
+11145,Admin,Office Manager,Rotterdam,0.8,42,Male,4.3,False,2021-06-17,False,False,False,56534.0,Active,,,False,0,,True
+11146,Admin,HR Generalist,The Hague,0.6,39,Male,4.8,False,2020-11-09,True,False,False,35340.0,Active,,,False,0,,False
+11147,Admin,HR Generalist,Utrecht,1.0,40,Male,6.6,False,2018-12-07,False,True,True,32186.0,Active,,,False,0,,False
+11148,Admin,Office Manager,The Hague,1.0,32,Female,3.4,False,2022-03-02,False,False,False,42077.0,Active,,,False,0,,False
+11149,Admin,Office Manager,Amsterdam,1.0,47,Female,8.5,False,2017-03-03,True,False,False,35679.0,Active,,,False,0,,False
+11150,Admin,HR Generalist,Amsterdam,1.0,30,Female,2.5,False,2023-03-05,False,False,False,38299.0,Active,,,False,0,,False
+11151,Admin,Finance Assistant,Amsterdam,1.0,30,Male,3.2,False,2022-08-02,False,True,False,45011.0,Active,,,False,1,2024-03-03,True
+11152,Admin,Finance Assistant,Rotterdam,0.6,42,Female,5.2,False,2020-04-09,False,False,False,45754.0,Active,,,False,1,2022-10-03,True
+11153,Admin,Office Manager,The Hague,1.0,52,Female,11.4,True,2014-02-17,False,False,False,52203.0,Active,,,False,0,,True
+11154,Admin,Office Manager,Amsterdam,1.0,36,Female,4.8,True,2020-10-14,False,False,False,57706.0,Active,,,False,0,,True
+11155,Admin,HR Generalist,Amsterdam,1.0,45,Male,2.0,False,2023-07-10,False,False,False,52944.0,Left,2024-09-25,Involuntary,False,1,2023-11-05,True
+11156,Admin,Finance Assistant,Amsterdam,1.0,48,Female,7.6,False,2017-12-22,False,False,False,37762.0,Active,,,False,1,2025-05-30,False
+11157,Admin,Finance Assistant,Rotterdam,0.6,46,Female,15.2,False,2010-06-14,False,False,False,38209.0,Active,,,False,0,,False
+11158,Admin,Office Manager,Amsterdam,1.0,37,Male,7.3,False,2018-05-26,False,False,False,32922.0,Active,,,False,1,2019-08-06,False
+11159,Admin,Finance Assistant,Amsterdam,0.6,30,Female,5.6,False,2020-01-20,False,True,False,49095.0,Active,,,False,0,,True
+11160,Admin,Office Manager,Utrecht,1.0,21,Female,2.4,False,2023-04-20,False,False,False,46248.0,Active,,,False,1,2025-04-19,True
+11161,Admin,Office Manager,Rotterdam,0.8,37,Male,6.2,False,2019-05-12,False,False,False,38145.0,Active,,,False,2,2021-08-25,False
+11162,Admin,HR Generalist,Rotterdam,1.0,48,Male,6.9,False,2018-08-31,False,False,False,58596.0,Active,,,False,1,2019-07-23,True
+11163,Admin,HR Generalist,Rotterdam,1.0,30,Male,0.7,False,2024-11-22,False,False,False,42659.0,Active,,,False,0,,True
+11164,Admin,HR Generalist,Utrecht,0.8,45,Female,3.7,False,2021-12-14,True,False,False,55746.0,Active,,,False,0,,True
+11165,Admin,HR Generalist,Amsterdam,0.8,31,Female,6.0,False,2019-09-21,False,False,False,57564.0,Active,,,False,0,,True
+11166,Admin,Office Manager,The Hague,0.8,40,Male,5.8,False,2019-09-23,False,True,False,37199.0,Active,,,False,0,,False
+11167,Admin,HR Generalist,Rotterdam,1.0,45,Male,14.7,False,2010-12-06,False,False,False,48418.0,Active,,,False,2,2015-09-23,True
+11168,Admin,Office Manager,Amsterdam,0.6,34,Male,4.0,False,2021-08-16,True,False,False,60863.0,Active,,,False,0,,True
+11169,Admin,HR Generalist,Amsterdam,0.6,40,Female,4.8,False,2020-12-02,True,False,False,36998.0,Active,,,False,0,,False
+11170,Admin,Finance Assistant,Amsterdam,1.0,36,Male,2.7,False,2022-12-28,False,False,False,54912.0,Left,2024-09-20,Voluntary,False,1,2023-04-19,True
+11171,Admin,Finance Assistant,Utrecht,0.6,45,Male,10.4,False,2015-04-25,False,False,False,58510.0,Active,,,False,0,,True
+11172,Admin,Office Manager,Rotterdam,1.0,41,Female,9.7,False,2015-11-02,False,False,False,55822.0,Active,,,False,2,2021-10-09,True
+11173,Admin,Finance Assistant,Rotterdam,1.0,39,Male,3.0,False,2022-07-11,False,False,False,50534.0,Left,2024-12-03,Voluntary,False,0,,True
+11174,Admin,Finance Assistant,Amsterdam,1.0,51,Male,2.7,False,2023-01-23,False,False,False,42617.0,Active,,,False,1,2024-08-11,True
+11175,Admin,Office Manager,The Hague,0.6,44,Male,9.7,False,2015-12-14,False,True,True,47395.0,Active,,,False,0,,True
+11176,Admin,Finance Assistant,The Hague,1.0,33,Male,4.6,False,2021-01-30,False,False,False,55872.0,Active,,,False,0,,True
+11177,Admin,Office Manager,Rotterdam,1.0,38,Male,4.0,True,2021-10-11,False,False,False,60774.0,Active,,,False,1,2024-03-08,True
+11178,Admin,Finance Assistant,Rotterdam,1.0,38,Female,4.7,False,2020-11-29,False,False,False,44053.0,Active,,,False,0,,True
+11179,Admin,HR Generalist,Utrecht,1.0,40,Female,10.4,False,2015-05-12,False,False,False,54839.0,Active,,,False,0,,True
+11180,Admin,Office Manager,Utrecht,1.0,59,Female,11.4,False,2014-03-23,False,False,False,56394.0,Active,,,False,2,2018-08-13,True
+11181,Admin,HR Generalist,Rotterdam,1.0,42,Female,3.1,False,2022-06-20,False,True,False,46328.0,Active,,,False,0,,True
+11182,Admin,Finance Assistant,Amsterdam,0.8,23,Male,1.4,False,2024-02-22,False,False,False,62808.0,Active,,,False,1,2024-06-15,True
+11183,Admin,Finance Assistant,Utrecht,0.6,35,Male,4.9,False,2020-10-28,False,False,False,54078.0,Active,,,False,0,,True
+11184,Admin,HR Generalist,Amsterdam,0.8,24,Male,1.0,False,2024-09-01,False,False,False,46550.0,Active,,,False,1,2025-05-12,True
+11185,Admin,Finance Assistant,Amsterdam,0.8,36,Female,2.9,False,2022-11-08,False,True,False,58247.0,Active,,,False,1,2024-03-29,True
+11186,Admin,Office Manager,Utrecht,1.0,23,Female,1.1,False,2024-07-02,False,False,False,43560.0,Active,,,False,0,,True
+11187,Admin,Office Manager,Rotterdam,1.0,32,Male,6.7,False,2018-12-07,False,False,False,47649.0,Active,,,False,2,2020-12-12,True
+11188,Admin,Office Manager,The Hague,1.0,27,Male,0.2,False,2025-06-08,False,False,False,43911.0,Active,,,False,0,,True
+11189,Admin,Finance Assistant,Rotterdam,1.0,42,Male,15.0,False,2010-07-05,False,False,False,47737.0,Active,,,False,0,,True
+11190,Admin,Office Manager,The Hague,0.6,39,Male,5.5,False,2020-02-25,True,False,False,38980.0,Active,,,False,0,,False
+11191,Admin,Office Manager,Rotterdam,1.0,41,Female,4.4,False,2021-03-18,False,False,False,40693.0,Active,,,False,0,,False
+11192,Admin,Office Manager,Utrecht,0.6,38,Male,5.2,True,2020-05-28,False,True,False,42094.0,Active,,,False,1,2021-09-26,False
+11193,Admin,HR Generalist,Amsterdam,1.0,28,Female,4.9,False,2020-11-10,False,False,False,38227.0,Active,,,False,0,,False
+11194,Admin,HR Generalist,Amsterdam,0.8,43,Male,11.2,False,2014-05-23,False,False,False,43808.0,Active,,,False,0,,True
+11195,Admin,Finance Assistant,Rotterdam,1.0,54,Female,9.0,False,2016-08-10,False,True,True,47513.0,Left,2025-04-14,Voluntary,False,0,,True
+11196,Admin,Office Manager,Utrecht,1.0,42,Female,0.9,False,2024-10-09,False,True,True,48873.0,Active,,,False,1,2025-06-30,True
+11197,Admin,HR Generalist,Amsterdam,0.8,36,Female,5.2,False,2020-05-23,False,False,False,42620.0,Active,,,False,0,,False
+11198,Admin,HR Generalist,Rotterdam,1.0,28,Male,2.5,False,2023-02-02,False,False,False,42454.0,Active,,,False,0,,True
+11199,Admin,HR Generalist,Amsterdam,0.8,32,Male,3.8,False,2021-09-28,False,False,False,53903.0,Left,2024-10-30,Voluntary,False,1,2024-02-21,True

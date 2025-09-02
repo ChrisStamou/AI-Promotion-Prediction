@@ -1,0 +1,9 @@
+index,0,1
+tenure_months|count,3469.0,2531.0
+tenure_months|mean,34.7368117613145,32.25483998419597
+tenure_months|std,24.027837980587467,21.00945230721372
+tenure_months|min,3.0,3.0
+tenure_months|median,29.0,29.0
+tenure_months|max,121.0,107.0
+tenure_months|q0,,
+tenure_months|q100,,

@@ -1,0 +1,6 @@
+AppData/ 
+.ipynb_checkpoints/ 
+__pycache__/ 
+*.log 
+*.tmp 
+.DS_Store 
